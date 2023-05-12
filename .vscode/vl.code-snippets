@@ -1,0 +1,12 @@
+{
+    "voiceline": {
+        "prefix": "atlases",
+        "body": [{
+            "type": "directory",
+            "source": "${1:LINE HERE}}",
+            "prefix": "${2:LINE HERE}/"
+        },
+        ],
+        "description": "Voiceline"
+    }
+}

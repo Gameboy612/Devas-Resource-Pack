@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+      "layer0": "minecraft:item/ender_eye"
+  },
+  "overrides": [
+      {"predicate": {"custom_model_data":6900000}, "model": "rpg/weapon/bow/regular/bow"},
+      {"predicate": {"custom_model_data":6900001}, "model": "rpg/weapon/bow/regular/bow_pulling_0"},
+      {"predicate": {"custom_model_data":6900002}, "model": "rpg/weapon/bow/regular/bow_pulling_1"},
+      {"predicate": {"custom_model_data":6900003}, "model": "rpg/weapon/bow/regular/bow_pulling_2"},
+      
+      {"predicate": {"custom_model_data":6900010}, "model": "rpg/weapon/bow/base/bow"},
+      {"predicate": {"custom_model_data":6900011}, "model": "rpg/weapon/bow/base/bow_pulling_0"},
+      {"predicate": {"custom_model_data":6900012}, "model": "rpg/weapon/bow/base/bow_pulling_1"},
+      {"predicate": {"custom_model_data":6900013}, "model": "rpg/weapon/bow/base/bow_pulling_2"},
+
+      {"predicate": {"custom_model_data":6900020}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow"},
+      {"predicate": {"custom_model_data":6900021}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow_pulling_0"},
+      {"predicate": {"custom_model_data":6900022}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow_pulling_0"},
+      {"predicate": {"custom_model_data":6900023}, "model": "rpg/weapon/bow/quick_charge_bow/crossbow_pulling_1"},
+
+      {"predicate": {"custom_model_data":6900030}, "model": "rpg/weapon/bow/greatbow/greatbow"},
+      {"predicate": {"custom_model_data":6900031}, "model": "rpg/weapon/bow/greatbow/greatbow_pulling_0"},
+      {"predicate": {"custom_model_data":6900032}, "model": "rpg/weapon/bow/greatbow/greatbow_pulling_1"},
+      {"predicate": {"custom_model_data":6900033}, "model": "rpg/weapon/bow/greatbow/greatbow_pulling_2"},
+      
+
+      {"predicate": {"custom_model_data":6900040}, "model": "rpg/weapon/bow/nightmare/nightmare"},
+      {"predicate": {"custom_model_data":6900041}, "model": "rpg/weapon/bow/nightmare/nightmare_pulling_0"},
+      {"predicate": {"custom_model_data":6900042}, "model": "rpg/weapon/bow/nightmare/nightmare_pulling_1"},
+      {"predicate": {"custom_model_data":6900043}, "model": "rpg/weapon/bow/nightmare/nightmare_pulling_2"},
+
+      {"predicate": {"custom_model_data":6910040}, "model": "rpg/weapon/bow/nightmare/golden_nightmare"},
+      {"predicate": {"custom_model_data":6910041}, "model": "rpg/weapon/bow/nightmare/golden_nightmare_pulling_0"},
+      {"predicate": {"custom_model_data":6910042}, "model": "rpg/weapon/bow/nightmare/golden_nightmare_pulling_1"},
+      {"predicate": {"custom_model_data":6910043}, "model": "rpg/weapon/bow/nightmare/golden_nightmare_pulling_2"},
+
+      {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/gun/r6/416c_carbine/idle"},
+      {"predicate": {"custom_model_data":7000001}, "model": "rpg/weapon/gun/r6/416c_carbine/aim"}
+  ]
+}

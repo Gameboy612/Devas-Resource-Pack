@@ -1,0 +1,9 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "rpg",
+            "prefix": "rpg/"
+        }
+    ]
+}

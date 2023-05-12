@@ -1,0 +1,1270 @@
+{
+  "werewolf.game.name": "人狼殺",
+  "werewolf.game.win.werewolf": "人狼の勝利",
+  "werewolf.game.win.villagers": "村人の勝利",
+  "werewolf.game.win.bonus.soulmate": "<3 恋人の勝ち！！！ <3",
+
+  "werewolf.time.day": "朝",
+  "werewolf.time.night": "晩",
+  "werewolf.item.voting_knife": "投票剣",
+  "werewolf.item.voting_knife.lore.1": "この武器を使用してプレイヤーを攻撃する，",
+  "werewolf.item.voting_knife.lore.2": "そのプレイヤーが投票されます。",
+  "werewolf.item.voting_knife.lore.3": "毎日に最高投票数のプレイヤーは処刑されます。",
+  
+  "werewolf.item.officers_batton": "警察の警棒",
+  "werewolf.item.officers_batton.lore.1": "この武器を使用してプレイヤーを攻撃する，",
+  "werewolf.item.officers_batton.lore.2": "そのプレイヤーに２票を投じます。",
+  "werewolf.item.officers_batton.lore.3": "毎日に最高投票数のプレイヤーは処刑されます。",
+  
+  "werewolf.item.unvote": "投票をキャンセル【右ボタン】",
+
+  "werewolf.item.fortune.book.check": "【チェック】 ",
+  "werewolf.item.fortune.book.yeswolf": "君の目には， %s は狼のようです。",
+  "werewolf.item.fortune.book.nowolf": "%s は多分狼ではありません。",
+
+  "werewolf.item.ability.wolf.sight": "透視の目【右ボタン】",
+  "werewolf.item.ability.wolf.movement": "スピード【右ボタン】",
+  "werewolf.item.ability.wolf.gear": "防具と武器を持っている【右ボタン】",
+  "werewolf.item.ability.wolf.gear_off": "防具と武器を外す【右ボタン】",
+
+  "werewolf.item.ability.witch.invisible": "透明化薬を持っている【右ボタン】",
+  "werewolf.item.ability.witch.invulnerable": "無敵薬を持っている【右ボタン】",
+  "werewolf.item.ability.witch.poison": "毒薬を持っている【右ボタン】",
+  
+  "werewolf.item.witch.invisible": "透明化薬",
+  "werewolf.item.witch.invulnerable": "無敵薬",
+  "werewolf.item.witch.poison": "毒薬",
+  
+  "werewolf.item.ability.fortune.book": "預言の本を持っている【右ボタン】",
+  "werewolf.item.ability.fortune.wolf_glow": "狼を見える目【右ボタン】",
+  "werewolf.item.fortune.book": "預言の本",
+
+  "werewolf.item.ability.guardian.book": "ガードの本を持っている【右ボタン】",
+  "werewolf.item.guardian.book": "ガードの本",
+  "werewolf.item.guardian.book.protect": "【守って】 ",
+  "werewolf.item.guardian.book.success": "今晩，君は %s を守って。",
+  "werewolf.item.guardian.book.fail.someone_protected": "%s もう誰を守って。",
+  "werewolf.item.guardian.book.fail.same_with_last": "君もう前回に %s を守って。",
+  "werewolf.item.ability.guardian.invulnerable": "範囲無敵【右ボタン】",
+  "werewolf.item.ability.guardian.long_invulnerable": "無敵の体【右ボタン】",
+
+
+  "werewolf.item.ability.old_wolf.fake_book": "偽本を持っている【右ボタン】",
+  "werewolf.item.old_wolf.fake_book": "偽本",
+  "werewolf.item.ability.old_wolf.fake_potion": "偽　薬を持っている【右ボタン】",
+  "werewolf.item.old_wolf.fake_invulnerable": "偽　無敵薬",
+  "werewolf.item.old_wolf.fake_invisibility": "偽　透明化薬",
+  "werewolf.item.old_wolf.fake_poison": "偽　毒薬",
+
+  "werewolf.item.ability.instant_barrier": "インスタントバリア【右ボタン】",
+
+
+  "werewolf.item.ability.bonus.soulmate.linked_souls": "繋がる魂【右ボタン】",
+  "werewolf.item.ability.bonus.soulmate.linked_souls.lore": "恋人をここで呼び出す。",
+
+
+
+
+
+
+  "werewolf.messages.votes.prefix": "【投票】 ",
+  "werewolf.messages.votes.voter": "%s を投票しました。",
+  "werewolf.messages.votes.receiver": "%s から君に投票しました。",
+  
+  "werewolf.messages.revokevote.prefix": "【投票】 ",
+  "werewolf.messages.revokevote.voter": "%s の投票は取り消しました。",
+  "werewolf.messages.revokevote.receiver": "%s は君の投票を取り消しました。",
+
+  "werewolf.messages.kill.prefix": "【キル】 ",
+  "werewolf.messages.kill.wolf.killer": "%s を殺しました。",
+  "werewolf.messages.kill.wolf.dead": "狼は君を殺しました。",
+  
+  "werewolf.messages.kill.soulmate.dead": "恋人が死んだ... 君は夜に駆ける。",
+  
+  "werewolf.messages.kill.witch.poison": "%s は魔女を毒されました。",
+
+  "werewolf.tutorial.prefix.class": "【キャラクター】   ",
+  "werewolf.tutorial.prefix.camp": "【キャンプ】 ",
+  "werewolf.tutorial.prefix.players": "【人々の数】 ",
+  "werewolf.tutorial.prefix.ability": "【能力】 ",
+  "werewolf.tutorial.prefix.aim": "【目標】 ",
+
+  "werewolf.tutorial.villager.class": "村人",
+  "werewolf.tutorial.villager.camp": "  村人キャンプ",
+  "werewolf.tutorial.villager.ability": "  なんでもできないやつ，ただな村人。それだけ。",
+  "werewolf.tutorial.villager.aim": "  生きてる，他の村人を助ける。（逃げるも良いよ）",
+
+  "werewolf.tutorial.wolf.class": "人狼",
+  "werewolf.tutorial.wolf.camp": "  人狼キャンプ",
+  "werewolf.tutorial.wolf.players": "  %s 人",
+  "werewolf.tutorial.wolf.ability": "  夜に，プレイヤーを殺す。",
+  "werewolf.tutorial.wolf.aim": "  朝に村人のふりをする，夜に村人を殺する，村を襲撃する。",
+
+  "werewolf.tutorial.witch.class": "魔女",
+  "werewolf.tutorial.witch.camp": "  村人キャンプ，神職",
+  "werewolf.tutorial.witch.players": "  %s 人",
+  "werewolf.tutorial.witch.ability": "  昼に，魔女は毒薬一つを持って，それを使って，狼を殺す。\n            夜に，それは透明化ポーションと無敵ポーションを持って。",
+  "werewolf.tutorial.witch.aim": "  薬を使って，村人を助けてと人狼を殺する。",
+  
+  "werewolf.tutorial.fortune.class": "預言者",
+  "werewolf.tutorial.fortune.camp": "  村人キャンプ，神職",
+  "werewolf.tutorial.fortune.players": "  %s 人",
+  "werewolf.tutorial.fortune.ability": "  夜に，君の能力を使って，プレイヤーのキャンプを確認する。",
+  "werewolf.tutorial.fortune.aim": "  自分の能力を使って，人狼を探す！",
+  
+  "werewolf.tutorial.guardian.class": "守衛",
+  "werewolf.tutorial.guardian.camp": "  村人キャンプ，神職",
+  "werewolf.tutorial.guardian.players": "  %s 人",
+  "werewolf.tutorial.guardian.ability": "  昼に，守るプレイヤーを選ぶ。\n            毎晩守っているプレイヤーは繰り返すことができない。",
+  "werewolf.tutorial.guardian.aim": "  自分の能力を使って，人狼を避けて！",
+
+  "werewolf.tutorial.old_wolf.class": "古い狼",
+  "werewolf.tutorial.old_wolf.camp": "  人狼キャンプ，スペシャル",
+  "werewolf.tutorial.old_wolf.players": "  %s 人",
+  "werewolf.tutorial.old_wolf.ability": "  夜に，プレイヤーを殺す。それと，特別なアイテムを使うで，嘘を言ってる。",
+  "werewolf.tutorial.old_wolf.aim": "  特別なスキルを使って，村人を騙すと殺す，そして村を襲撃する。",
+
+  "werewolf.tutorial.mermaid.class": "人魚",
+  "werewolf.tutorial.mermaid.camp": "  村人キャンプ，神職",
+  "werewolf.tutorial.mermaid.players": "  %s 人",
+  "werewolf.tutorial.mermaid.ability": "  夜に，君の能力を使って，壁をプレイスする。",
+  "werewolf.tutorial.mermaid.aim": "  自分の能力を使って，人狼を避けて！",
+
+  "werewolf.tutorial.jackal.class": "ジャッカル",
+  "werewolf.tutorial.jackal.camp": "  人狼キャンプ，スペシャル",
+  "werewolf.tutorial.jackal.players": "  %s 人",
+  "werewolf.tutorial.jackal.ability": " 夜に，プレイヤーを殺す。それと，夜に一つプレイヤーを追跡する。あのプレイヤーが死ぬ後，別のプレイヤーを追跡ができる。",
+  "werewolf.tutorial.jackal.aim": "  特別なスキルを使って，村人を殺す，そして村を襲撃する。",
+
+  "werewolf.name.spectator.prefix": "【観客】 ",
+  
+  "### ----- Bonus Classes ----- ###": "",
+  "werewolf.tutorial.prefix.bonus": "【他の設定】 ",
+
+  "werewolf.tutorial.bonus.soulmate.class": "恋人",
+  "werewolf.tutorial.bonus.soulmate.ability": "  君と君の恋人の生命は一になる。一人が死んだなら，全滅する。",
+  "werewolf.tutorial.bonus.soulmate.soulmate": "君の恋人：",
+
+  
+  "werewolf.tutorial.bonus.officer.class": "警官",
+  "werewolf.tutorial.bonus.officer.ability": "  投票剣が二つの票がある。",
+
+  "werewolf.announce.officer": " は警官になりました。",
+
+
+
+
+  "werewolf.actionbar.you_are": "君は ",
+  "werewolf.actionbar.you_are_an": "君は ",
+
+  "rpg.stats.recovery": "自然回復",
+  "rpg.stats.base_mana": "基礎マナ",
+  "rpg.stats.mana": "マナ",
+  "rpg.stats.health": "HP",
+  "rpg.stats.speed": "スピード",
+  "rpg.stats.stamina": "スタミナ",
+  
+  "rpg.settings.get.resourcepack": "[ここをクリックしてリソースパックのリンクを取得します]",
+  
+  "rpg.enchantments.knockback.1": "ノックバック I",
+  "rpg.enchantments.knockback.2": "ノックバック II",
+  "rpg.enchantments.knockback.3": "ノックバック III",
+  "rpg.enchantments.knockback.4": "ノックバック IV",
+  "rpg.enchantments.knockback.5": "ノックバック V",
+  
+  "rpg.effects.glowing": "発光",
+  "rpg.effects.blindness": "盲目",
+  "rpg.effects.invisible": "透明",
+  "rpg.effects.invisiblity": "透明",
+  "rpg.effects.burn": "燃焼",
+  "rpg.effects.poison": "毒",
+  "rpg.effects.darkness": "暗闇",
+  "rpg.effects.freeze": "凍結",
+  "rpg.effects.seal": "封印",
+  "rpg.effects.chaos": "混沌",
+  "rpg.effects.vaporize": "蒸発",
+  "rpg.effects.electrify": "感電",
+  "rpg.effects.erosion": "浸食",
+  "rpg.effects.decay": "枯死",
+  "rpg.effects.fission": "爆発",
+  "rpg.effects.sprout": "芽生え",
+  
+  "rpg.equipment.main_hand": "メインハンド",
+  "rpg.equipment.offhand": "オフハンド",
+  "rpg.equipment.bow": "弓",
+  "rpg.equipment.wand": "魔法棒",
+  "rpg.equipment.helmet": "ヘルメット",
+  "rpg.equipment.chestplate": "チェストプレート",
+  "rpg.equipment.leggings": "レギンス",
+  "rpg.equipment.boots": "ブーツ",
+
+  "dv2.dummy.feedback": "ダメージを与える：",
+
+  "dv2.debug.commandsigns.gamemodes.1": "[ゲームモード] チーム戦",
+  "dv2.debug.commandsigns.gamemodes.feedback.1": "ゲームモードをチーム戦に変更しました。",
+  "dv2.debug.commandsigns.gamemodes.2": "[ゲームモード] ライフスティール",
+  "dv2.debug.commandsigns.gamemodes.feedback.2": "ゲームモードをライフスティールに変更しました。",
+  "dv2.debug.commandsigns.gamemodes.3": "[ゲームモード] クラシック",
+  "dv2.debug.commandsigns.gamemodes.feedback.3": "ゲームモードをクラシックに変更しました。",
+  
+  "dv2.debug.commandsigns.maps.1": "[マップ] 山岳",
+  "dv2.debug.commandsigns.maps.feedback.1": "ゲームの場所を山岳に設定しました。",
+  "dv2.debug.commandsigns.maps.2": "[マップ] 砂漠",
+  "dv2.debug.commandsigns.maps.feedback.2": "ゲームの場所を砂漠に設定しました。",
+  "dv2.debug.commandsigns.maps.3": "[マップ] 大邸宅",
+  "dv2.debug.commandsigns.maps.feedback.3": "ゲームの場所を大邸宅に設定しました。",
+  "dv2.debug.commandsigns.maps.4": "[マップ] 海島",
+  "dv2.debug.commandsigns.maps.feedback.4": "ゲームの場所を海島に設定しました。",
+  
+  "dv2.game.start.1": "ゲーム開始！",
+  "dv2.game.end.1": "ゲームを強制終了しました！",
+  
+  "dv2.game.stage.process.lifesteal.feedback.1": "[ライフスティール] ",
+  "dv2.game.stage.process.lifesteal.feedback.2": "あと ",
+  "dv2.game.stage.process.lifesteal.feedback.3": "つのライフを残しています。",
+  "dv2.game.stage.process.lifesteal.feedback.4": "あなたは既に脱落しました。",
+  "dv2.game.stage.process.lifesteal.feedback.5": " は既に脱落しました！",
+  "dv2.game.stage.process.lifesteal.feedback.6": "ライフスティール",
+  "dv2.game.stage.process.lifesteal.feedback.7": "全員が一つのライフを失いました",
+  
+  "dv2.game.stage.process.capture.feedback.1": "ドミネーション",
+
+  "dv2.kits.berserker.1": "バーサーカー 1",
+  "dv2.kits.berserker.2": "バーサーカー 2",
+  "dv2.kits.tank.1": "タンク 1",
+  "dv2.kits.tank.2": "タンク 2",
+  "dv2.kits.archer.1": "アーチャー 1",
+  "dv2.kits.archer.2": "アーチャー 2",
+  "dv2.kits.mage.1": "メイジ 1",
+  "dv2.kits.mage.2": "メイジ 2",
+
+  "container.enderchest": "\uF82B\uF822%s-ショップ-",
+  "container.enderchest_comment": "space.66",
+  "dv2.gui.cost": "残りのポイント：",
+  "dv2.gui.info": "ヒント：",
+  "dv2.gui.kits": "キット：",
+  "dv2.gui.stats": "個体数値：",
+  "dv2.gui.return": "戻る",
+  "dv2.gui.last_page": "← 前のページ",
+  "dv2.gui.next_page": "次のページ →",
+
+  "dv2.gui.cost.format": " - %s：%s/%s",
+  "dv2.gui.cost.item": "装備",
+  "dv2.gui.cost.movement": "移動",
+  "dv2.gui.cost.signature": "シグネチャー",
+  "dv2.gui.cost.reset": "[ダブルクリックしてリセット]",
+
+  "dv2.display.arrow": "矢",
+  "dv2.display.artifact": "パッシブ",
+  "dv2.display.bow": "弓",
+  "dv2.display.dno": "短剣 & 大剣",
+  "dv2.display.gnl": "巨剣 & 片手剣",
+  "dv2.display.powder": "粉末",
+  "dv2.display.signature": "シグネチャー",
+  "dv2.display.sns": "特殊武器 & シールド",
+  "dv2.display.spell": "魔法陣",
+  "dv2.display.wand": "魔法の杖",
+  "dv2.display.weapon": "武器",
+  "dv2.display.utility": "雑項",
+
+  "dv2.display.shop.failed.1": "[ショップ] ",
+  "dv2.display.shop.failed.2": "通貨が足りません！",
+
+  "dv2.display.allocate_point.failed": "ポイントが足りません！",
+  "dv2.display.allocate_point.reset": " [リセット]",
+
+  "dv2.display.weapon.bow": "弓",
+  "dv2.display.weapon.melee": "近接武器",
+  "dv2.display.weapon.shield": "盾",
+  "dv2.display.weapon.wand": "魔法杖",
+
+  "dv2.display.weapon.melee.dagger": "短剣",
+  "dv2.display.weapon.melee.greatsword": "大剣",
+  "dv2.display.weapon.melee.longsword": "長剣",
+  "dv2.display.weapon.melee.odachi": "大太刀",
+  "dv2.display.weapon.melee.special": "特殊武器",
+
+  "dv2.display.spell.mobility": "移動系",
+  "dv2.display.spell.combat": "戦闘系",
+  "dv2.display.spell.buff": "バフ",
+  "dv2.display.spell.debuff": "デバフ",
+  "dv2.display.spell.others": "その他",
+
+  "dv2.display.loadout.no_group": "グループなし",
+  "dv2.display.loadout.no_loadout": "ロードアウトなし",
+  "dv2.display.loadout.click_to_edit": "[クリックして編集]",
+  "dv2.display.loadout.save_kit": "[今のロードアウトを保存するにはクリック]",
+  "dv2.display.loadout.io": "インポート/エクスポート",
+  "dv2.display.loadout.io.lore.group.0": "グループをインポートするにはここにUSBを置いてください",
+  "dv2.display.loadout.io.lore.group.1": "[ダブルクリック]でこのグループをUSBとしてエクスポート",
+  "dv2.display.loadout.io.lore.kit.0": "キットをインポートするにはここにUSBを置いてください",
+  "dv2.display.loadout.io.lore.kit.1": "[ダブルクリック]でこのキットをUSBとしてエクスポート",
+
+  "dv2.display.loadout.edit.anvil": "アイコンを編集",
+  "dv2.display.loadout.view_loadout": "ロードアウトを表示",
+  "dv2.display.loadout.set_loadout": "ロードアウトを設定",
+  "dv2.display.loadout.set_loadout.lore": "[ダブルクリック]でこのキットを削除",
+
+  "dv2.ability.generic.no_nearby_enemies": "周りに敵がいません",
+  "dv2.ability.generic.ready": "アビリティは準備完了です！",
+  "dv2.ability.generic.not_ready": "アビリティはクールダウン中です！",
+  "dv2.ability.generic.not_enough_health": "体力が不足しています！",
+  "dv2.ability.generic.not_enough_stamina": "スタミナが不足しています！",
+  "dv2.ability.generic.not_enough_mana": "マナが不足しています！",
+  "dv2.ability.generic.health_cost": "-%s体力",
+  "dv2.ability.generic.stamina_cost": "-%sスタミナ",
+  "dv2.ability.generic.mana_cost": "-%sマナ",
+
+
+
+
+  "dv2.ability.dagger.0.0": "短剣（右クリックで発動）",
+  "dv2.ability.dagger.1.0": "右クリックで、短剣の元々のダメージの ",
+  "dv2.ability.dagger.1.1": "0.3",
+  "dv2.ability.dagger.1.2": "倍のダメージを与えます。",
+  "dv2.ability.dagger.2.0": "オフハンドにもう一つの短剣を装備すると、",
+  "dv2.ability.dagger.2.1": "ダメージが",
+  "dv2.ability.dagger.2.2": "2",
+  "dv2.ability.dagger.2.3": "倍になります。",
+
+  "dv2.ability.longsword.0.0": "長剣（右クリックで発動）",
+  "dv2.ability.longsword.1.0": "右クリックで、長剣の元々のダメージの ",
+  "dv2.ability.longsword.1.1": "1.25",
+  "dv2.ability.longsword.1.2": "倍のダメージを与えます。",
+  "dv2.ability.longsword.2.0": "（この攻撃はより長い攻撃範囲を持ちます。）",
+
+  "dv2.ability.greatsword.0.0": "大剣（右クリックで発動）",
+  "dv2.ability.greatsword.1.0": "右クリックで、大剣の元々のダメージの ",
+  "dv2.ability.greatsword.1.1": "3",
+  "dv2.ability.greatsword.1.2": "倍の範囲ダメージを与えます。",
+  "dv2.ability.greatsword.2.0": "（大量のスタミナが必要で、速度が低下します。）",
+
+  "dv2.ability.odachi.0.0": "大太刀（右クリックで発動）",
+  "dv2.ability.odachi.1.0": "右クリックで前方に突き進み、",
+  "dv2.ability.odachi.2.0": "通路上の敵に ",
+  "dv2.ability.odachi.2.1": "2.5倍の DMG",
+  "dv2.ability.odachi.2.2": " を与えます。",
+
+
+
+
+
+
+
+
+  "dv2.weapon.melee.baseball_bat": "野球バット",
+  "dv2.weapon.melee.baseball_bat.description": "ゲームのクラシックな近接武器。",
+
+  "dv2.weapon.melee.iron_sword": "鉄の剣",
+  "dv2.weapon.melee.iron_sword.description": "熟練した鍛冶師によって作られた鉄製の剣。",
+
+  "dv2.weapon.melee.dark_knife": "ダークナイフ",
+  "dv2.weapon.melee.dark_knife.description": "アサシン？ダークナイフ？トリバゴ。",
+
+  "dv2.ability.dark_knife.1.0.0": "影忍者",
+  "dv2.ability.dark_knife.1.1.0": "この武器を持っている間、",
+  "dv2.ability.dark_knife.1.2.0": "",
+  "dv2.ability.dark_knife.1.2.2": "効果に免疫があります。",
+
+  "dv2.ability.dark_knife.2.0.0": "隠密性",
+  "dv2.ability.dark_knife.2.1.0": "",
+  "dv2.ability.dark_knife.2.1.2": "状態下にこの武器を持っていると、",
+  "dv2.ability.dark_knife.2.2.0": "",
+  "dv2.ability.dark_knife.2.2.1": "2点の暗属性DMG",
+  "dv2.ability.dark_knife.2.2.2": " と ",
+  "dv2.ability.dark_knife.2.2.3": "20%のSPD",
+  "dv2.ability.dark_knife.2.2.4": " が付与されます。",
+
+  "dv2.weapon.melee.diamond_sword": "ダイヤモンドの剣",
+  "dv2.weapon.melee.diamond_sword.description": "クラシックな武器",
+
+  "dv2.weapon.melee.excalibur": "エクスカリバー",
+  "dv2.weapon.melee.excalibur.description": "力の代償。",
+
+  "dv2.ability.excalibur.1.0.0": "光り輝く聖剣",
+  "dv2.ability.excalibur.1.1.0": "この武器を持つと、",
+  "dv2.ability.excalibur.1.1.2": " I",
+  "dv2.ability.excalibur.1.1.3": "効果が得られます。",
+
+  "dv2.ability.excalibur.2.0.0": "王者の意志",
+  "dv2.ability.excalibur.2.1.0": "HPが40％以下の場合、",
+  "dv2.ability.excalibur.2.1.1": "2点の光属性DMG <+8.0 EM>",
+  "dv2.ability.excalibur.2.1.2": " が追加されます。",
+
+  "dv2.weapon.melee.leaf_steel_sword": "リーフスチールソード",
+  "dv2.weapon.melee.leaf_steel_sword.description":"土属性の豊富な元素から作られた鋼鉄製の剣。",
+  "dv2.ability.leaf_steel_sword.1.0.0":"自然の恵み",
+  "dv2.ability.leaf_steel_sword.1.1.0":"最大HPが110未満の場合、",
+  "dv2.ability.leaf_steel_sword.1.1.1":"治療量が30％",
+  "dv2.ability.leaf_steel_sword.1.1.2":"増加します。",
+
+  "dv2.weapon.melee.blaze_sword":"ブレイズソード",
+  "dv2.weapon.melee.blaze_sword.description":"高品質な炎の粉末で作られた剣。", 
+
+  "dv2.weapon.melee.giant_sword": "巨人の剣",
+  "dv2.weapon.melee.giant_sword.description": "暮光の神によって鍛造された剣。",
+
+  "dv2.ability.giant_sword.1.0.0": "最良の攻撃は防御です",
+  "dv2.ability.giant_sword.1.1.0": "40 DEF ごとに",
+  "dv2.ability.giant_sword.1.1.1": "1",
+  "dv2.ability.giant_sword.1.1.2": "DMG が増加します。",
+
+  "dv2.weapon.melee.great_sword.might_of_an_utu": "アンウトゥの現れ",
+  "dv2.weapon.melee.great_sword.might_of_an_utu.description": "神を畏れ、覚悟を決めよ！サマシュの審判が来たのだ。",
+
+  "dv2.ability.might_of_an_utu.1.0.0": "サマシュに会う代償",
+  "dv2.ability.might_of_an_utu.1.1.0": "HPが50％以上の場合、",
+  "dv2.ability.might_of_an_utu.1.2.0": "あなたの",
+  "dv2.ability.might_of_an_utu.1.2.2": "倍率が",
+  "dv2.ability.might_of_an_utu.1.2.3": "100％",
+  "dv2.ability.might_of_an_utu.1.2.4": "減少します。",
+
+  "dv2.ability.might_of_an_utu.2.0.0": "「祂」に捧げる犠牲",
+  "dv2.ability.might_of_an_utu.2.1.0": "スニークで現在のHPを",
+  "dv2.ability.might_of_an_utu.2.1.1": "33％",
+  "dv2.ability.might_of_an_utu.2.1.2": "減少し、",
+  "dv2.ability.might_of_an_utu.2.2.0": "同時に、15秒間につき、最大HP毎に",
+  "dv2.ability.might_of_an_utu.2.2.1": "",
+  "dv2.ability.might_of_an_utu.2.2.1.zh": "30",
+  "dv2.ability.might_of_an_utu.2.2.2": "増加する、",
+  "dv2.ability.might_of_an_utu.2.2.3": "",
+  "dv2.ability.might_of_an_utu.2.2.3.zh": "1点の火属性DMG",
+  "dv2.ability.might_of_an_utu.2.2.4": " を与えます。",
+  "dv2.ability.might_of_an_utu.2.2.5": "",
+  "dv2.ability.might_of_an_utu.2.3.0": "（HPが50％以上の場合は50％HPに減少します）",
+  "dv2.ability.might_of_an_utu.2.4.0": "（クールダウン20秒）",
+
+  "dv2.ability.might_of_an_utu.3.0.0": "アンウトゥの奇跡",
+  "dv2.ability.might_of_an_utu.3.1.0": "HPが",
+  "dv2.ability.might_of_an_utu.3.1.1": "50％",
+  "dv2.ability.might_of_an_utu.3.1.2": "未満の場合、",
+  "dv2.ability.might_of_an_utu.3.2.0": "",
+  "dv2.ability.might_of_an_utu.3.2.1": "20のDEF",
+  "dv2.ability.might_of_an_utu.3.2.2": "、 ",
+  "dv2.ability.might_of_an_utu.3.2.3": "6",
+  "dv2.ability.might_of_an_utu.3.2.4": "のDMG と",
+  "dv2.ability.might_of_an_utu.3.2.5": " 20の全属性AFFが増加します。",
+
+  "dv2.weapon.melee.soul_scythe": "ソウルサイズ",
+  "dv2.weapon.melee.soul_scythe.description": "魂を喰らい、鎌の一部として変える",
+
+  "dv2.ability.soul_scythe.1.0.0": "神聖な魂",
+  "dv2.ability.soul_scythe.1.1.0": "毎回キル時、",
+  "dv2.ability.soul_scythe.1.1.2": " 1.5点の暗属性DMG",
+  "dv2.ability.soul_scythe.1.1.4": " が増加します（最大5回）",
+
+  "dv2.ability.soul_scythe.2.0.0": "魂を求める者",
+  "dv2.ability.soul_scythe.2.1.0": "HPが",
+  "dv2.ability.soul_scythe.2.1.1": "30%",
+  "dv2.ability.soul_scythe.2.1.2": "未満の場合、",
+  "dv2.ability.soul_scythe.2.1.3": "",
+  "dv2.ability.soul_scythe.2.1.4": "",
+  "dv2.ability.soul_scythe.2.2.0": "",
+  "dv2.ability.soul_scythe.2.2.1": "15のDEF ",
+  "dv2.ability.soul_scythe.2.2.2": "と 1.5のDMG",
+  "dv2.ability.soul_scythe.2.2.3": " が増加します。",
+  "dv2.ability.soul_scythe.2.2.4": "",
+
+  "dv2.weapon.melee.vampire_tooth": "吸血鬼の歯",
+  "dv2.weapon.melee.vampire_tooth.description": "私は吸血鬼の歯を盗んだ :D",
+
+  "dv2.ability.vampire_tooth.1.0.0": "血魔の視覚",
+  "dv2.ability.vampire_tooth.1.1.0": "この武器を持っている間、",
+  "dv2.ability.vampire_tooth.1.1.2": "効果に免疫があります。",
+
+  "dv2.ability.vampire_tooth.2.0.0": "羞明",
+  "dv2.ability.vampire_tooth.2.1.0": "",
+  "dv2.ability.vampire_tooth.2.1.1": "",
+  "dv2.ability.vampire_tooth.2.1.2": "",
+  "dv2.ability.vampire_tooth.2.1.3": "",
+  "dv2.ability.vampire_tooth.2.2.0": "",
+  "dv2.ability.vampire_tooth.2.2.1": "",
+  "dv2.ability.vampire_tooth.2.2.2": "減少します。",
+  "dv2.ability.vampire_tooth.2.1.0.zh": "",
+  "dv2.ability.vampire_tooth.2.1.1.zh": "発光",
+  "dv2.ability.vampire_tooth.2.1.2.zh": "効果を得た時、",
+  "dv2.ability.vampire_tooth.2.1.3.zh": "SPDが20%",
+  "dv2.ability.vampire_tooth.2.1.4.zh": "増加し、",
+  "dv2.ability.vampire_tooth.2.2.0.zh": "同時に",
+  "dv2.ability.vampire_tooth.2.2.1.zh": "DMGが10%",
+
+
+  "dv2.weapon.melee.torrent_dagger":"トレント",
+  "dv2.weapon.melee.torrent_dagger.description":"激流の中を前進する。",
+  "dv2.ability.torrent_dagger.1.0.0":"アクアダッシュ",
+  "dv2.ability.torrent_dagger.1.1.0":"スニークで水流をコントロールし、プレイヤーを前方にダッシュさせます。",
+  "dv2.ability.torrent_dagger.1.1.1":"（スタミナを消耗する）",
+
+  "dv2.weapon.melee.jormungandrs_tooth":"ヨルムンガンドの歯",
+  "dv2.weapon.melee.jormungandrs_tooth.description":"終焉は、新生を伴い。",
+  "dv2.ability.jormungandrs_tooth.1.0.0":"ラグナロク",
+  "dv2.ability.jormungandrs_tooth.1.1.0":"蹲下以給予半徑20格範圍内的敵人",
+  "dv2.ability.jormungandrs_tooth.1.2.0":"、",
+  "dv2.ability.jormungandrs_tooth.1.2.1":"及",
+  "dv2.ability.jormungandrs_tooth.1.2.2":"效果。",
+  "dv2.ability.jormungandrs_tooth.1.3.0":"(消耗至少 15000 Mana)",
+
+  "dv2.ability.jormungandrs_tooth.2.0.0":"ウロボロスの捕食",
+  "dv2.ability.jormungandrs_tooth.2.1.0":"副手持有這把武器時蹲下以給予半徑5格範圍内的敵人",
+  "dv2.ability.jormungandrs_tooth.2.2.0":"效果。",
+  "dv2.ability.jormungandrs_tooth.2.3.0":"(消耗 Mana)",
+
+
+
+  "dv2.weapon.melee.jormungandrs_scale":"ヨルムンガンドの鱗",
+  "dv2.weapon.melee.jormungandrs_scale.description":"終焉の時だ...",
+  "dv2.ability.jormungandrs_scale.1.0.0":"メビウスリング",
+  "dv2.ability.jormungandrs_scale.1.1.0":"不持盾時增加",
+  "dv2.ability.jormungandrs_scale.1.1.1":" 10 ",
+  "dv2.ability.jormungandrs_scale.1.1.2":"物理&全屬性 DEF,",
+  "dv2.ability.jormungandrs_scale.1.2.0":"HP ",
+  "dv2.ability.jormungandrs_scale.1.2.1":"及",
+  "dv2.ability.jormungandrs_scale.1.2.2":" 3000 ",
+  "dv2.ability.jormungandrs_scale.1.2.3":"Base Mana",
+  "dv2.ability.jormungandrs_scale.1.2.4":"",
+
+
+
+
+  "dv2.weapon.melee.odachi.broken_odachi": "壊れた大太刀",
+  "dv2.weapon.melee.odachi.broken_odachi.description": "かつて剣術の達人が使用したもの",
+  "dv2.weapon.melee.odachi.wooden_odachi": "木の大太刀",
+  "dv2.weapon.melee.odachi.wooden_odachi.description": "高品質の木材を使用して作られたもの",
+  "dv2.weapon.melee.odachi.iron_odachi": "鉄の大太刀",
+  "dv2.weapon.melee.odachi.iron_odachi.description": "数多くの戦いを経験したもの",
+
+
+  "dv2.weapon.melee.odachi.fire_odachi": "烈火の大太刀",
+  "dv2.weapon.melee.odachi.fire_odachi.description": "道を切り開く",
+  "dv2.ability.fire_odachi.1.0.0": "烈火の大太刀",
+  "dv2.ability.fire_odachi.1.1.0": "有 20% 的機率造成4秒的",
+  "dv2.ability.fire_odachi.1.1.2": "效果",
+  "dv2.ability.fire_odachi.1.2.0": "(6 HP/秒)",
+
+  "dv2.weapon.melee.odachi.poison_odachi": "劇毒の大太刀",
+  "dv2.weapon.melee.odachi.poison_odachi.description": "蛇蝎の噛みつき",
+  "dv2.ability.poison_odachi.1.0.0": "劇毒の大太刀",
+  "dv2.ability.poison_odachi.1.1.0": "有 20% 的機率造成3秒的",
+  "dv2.ability.poison_odachi.1.1.2": "效果",
+  "dv2.ability.poison_odachi.1.2.0": "(7% HP/秒)",
+
+
+  "dv2.weapon.melee.odachi.ice_odachi": "氷結の大太刀",
+  "dv2.weapon.melee.odachi.ice_odachi.description": "Let it go!!!",
+
+  "dv2.weapon.melee.odachi.electric_odachi": "稲妻の大太刀",
+  "dv2.weapon.melee.odachi.electric_odachi.description": "I am the storm that is approaching!",
+
+  "dv2.weapon.melee.odachi.muramasa": "妖刀村正",
+  "dv2.weapon.melee.odachi.muramasa.description": "悪鬼の呪いにかかった刀、刀身には果てしない血と混沌が充満しています。",
+  "dv2.weapon.melee.odachi.muramasa.description.2": "",
+  "dv2.ability.muramasa.1.0.0": "村正",
+  "dv2.ability.muramasa.1.1.0": "每擁有",
+  "dv2.ability.muramasa.1.1.1": "1點暗屬性DMG，",
+  "dv2.ability.muramasa.1.1.2": "增加",
+  "dv2.ability.muramasa.1.1.3": "0.1點暗屬性EM",
+  "dv2.ability.muramasa.1.1.4": "",
+  "dv2.ability.muramasa.1.2.0": "(上限為1.5點暗屬性EM)",
+  "dv2.ability.muramasa.2.0.0": "與惡鬼的契約",
+  "dv2.ability.muramasa.2.1.0": "當 HP 低於 ",
+  "dv2.ability.muramasa.2.1.1": "50%",
+  "dv2.ability.muramasa.2.1.2": "，",
+  "dv2.ability.muramasa.2.2.0": "增加",
+  "dv2.ability.muramasa.2.2.1": "20 DEF",
+  "dv2.ability.muramasa.2.2.2": "，",
+  "dv2.ability.muramasa.2.2.3": "30點",
+  "dv2.ability.muramasa.2.2.4": "暗屬性",
+  "dv2.ability.muramasa.2.2.5": "、10點",
+  "dv2.ability.muramasa.2.2.6": "火屬性",
+  "dv2.ability.muramasa.2.2.7": "、10點",
+  "dv2.ability.muramasa.2.2.8": "土屬性",
+  "dv2.ability.muramasa.2.3.0": "AFF",
+  "dv2.ability.muramasa.2.3.1": "和1.5 DMG",
+
+  "dv2.weapon.melee.jurisdiction_of_selene":"セレネの権能",
+  "dv2.weapon.melee.jurisdiction_of_selene.description":"汝等は驚く必要はない、彼は汝等と共にあり、あらゆるものが消え去るまで共にする。",
+  "dv2.ability.jurisdiction_of_selene.1.0.0":"満月",
+  "dv2.ability.jurisdiction_of_selene.1.1.0":"當 HP 高於",
+  "dv2.ability.jurisdiction_of_selene.1.1.1":"33%",
+  "dv2.ability.jurisdiction_of_selene.1.1.2":"時，",
+  "dv2.ability.jurisdiction_of_selene.1.2.0":"免疫",
+  "dv2.ability.jurisdiction_of_selene.1.2.1":"效果和",
+  "dv2.ability.jurisdiction_of_selene.1.2.2":"效果",
+  "dv2.ability.jurisdiction_of_selene.2.0.0":"残月",
+  "dv2.ability.jurisdiction_of_selene.2.1.0":"當 HP 低於",
+  "dv2.ability.jurisdiction_of_selene.2.1.1":"33%",
+  "dv2.ability.jurisdiction_of_selene.2.1.2":"時，",
+  "dv2.ability.jurisdiction_of_selene.2.2.0":"免疫",
+  "dv2.ability.jurisdiction_of_selene.2.2.1":"效果",
+  "dv2.ability.jurisdiction_of_selene.2.2.2":"",
+  "dv2.ability.jurisdiction_of_selene.3.0.0":"ルナの権柄",
+  "dv2.ability.jurisdiction_of_selene.3.1.0":"減少直徑4格範圍内的敵人",
+  "dv2.ability.jurisdiction_of_selene.3.1.1":"10% SPD",
+  "dv2.ability.jurisdiction_of_selene.3.1.2":"",
+  "dv2.ability.jurisdiction_of_selene.4.0.0":"水流波動 <鏡花水月>",
+  "dv2.ability.jurisdiction_of_selene.4.1.0":"潛行以控制水流，",
+  "dv2.ability.jurisdiction_of_selene.4.2.0":"推動直徑3格範圍内的敵人後退",
+  "dv2.ability.jurisdiction_of_selene.4.3.0":"(消耗 Mana)",
+
+
+
+  "dv2.weapon.shield.wooden_shield": "木の盾",
+  "dv2.weapon.shield.wooden_shield.description": "RPGゲームの最初のNPCから手に入る盾",
+  
+  "dv2.weapon.shield.iron_shield": "鉄の盾",
+  "dv2.weapon.shield.iron_shield.description": "ワオ！輝いている！",
+  
+  "dv2.weapon.shield.bone_shield": "骨の盾",
+  "dv2.weapon.shield.bone_shield.description": "キーキー！",
+  
+  "dv2.weapon.shield.heavy_shield": "重い盾",
+  "dv2.weapon.shield.heavy_shield.description": "熟練した鍛冶職人によって作られた",
+  
+  "dv2.weapon.shield.bedrock_shield": "岩盤の盾",
+  "dv2.weapon.shield.bedrock_shield.description": "おお！とても硬い！",
+
+  "dv2.ability.heavy_shield.1.0.0": "無敵な要塞",
+  "dv2.ability.heavy_shield.1.1.0": "HPが40％以下の場合、",
+  "dv2.ability.heavy_shield.1.1.2": "が上昇します。",
+  "dv2.ability.heavy_shield.1.2.0": "（重ねることはできません）",
+
+
+  "dv2.ability.heavy_shield.2.0.0": "重型盾",
+  "dv2.ability.heavy_shield.2.1.0": "減少",
+  "dv2.ability.heavy_shield.2.1.2": "",
+
+  "dv2.weapon.shield.plasma_shield": "プラズマシールド",
+  "dv2.weapon.shield.plasma_shield.description": "力に満ちた魔法の盾",
+
+  "dv2.ability.plasma_shield.1.0.0": "散發光芒的護盾",
+  "dv2.ability.plasma_shield.1.1.0": "手持這面護盾時將會獲得",
+  "dv2.ability.plasma_shield.1.1.2": "效果",
+
+  "dv2.ability.plasma_shield.2.0.0": "希望之星",
+  "dv2.ability.plasma_shield.2.1.0": "當 HP 低於33%時，增加 ",
+  "dv2.ability.plasma_shield.2.1.1.zh": "15",
+  "dv2.ability.plasma_shield.2.1.1": " 全屬性AFF",
+  "dv2.ability.plasma_shield.2.1.2": "",
+  "dv2.ability.plasma_shield.2.1.3": "",
+  "dv2.ability.plasma_shield.2.2.0": "",
+
+
+  "dv2.weapon.shield.mega_shield": "巨盾",
+  "dv2.weapon.shield.mega_shield.description": "由混凝土打造的巨牆",
+
+  "dv2.ability.mega_shield.1.0.0": "抗擊退",
+  "dv2.ability.mega_shield.1.1.0": "獲得 ",
+  "dv2.ability.mega_shield.1.1.1": "擊退抗性",
+  "dv2.ability.mega_shield.1.1.2": "。",
+
+  "dv2.ability.antikb.1.0.0": "抗擊退",
+  "dv2.ability.antikb.1.1.0": "獲得 ",
+  "dv2.ability.antikb.1.1.1": "擊退抗性",
+  "dv2.ability.antikb.1.1.2": "。",
+
+
+
+  "dv2.weapon.shield.bladed_shield.fire": "盾刃 <火>",
+  "dv2.weapon.shield.bladed_shield.fire.description": "受到火精靈的加護",
+
+  "dv2.weapon.shield.bladed_shield.water": "盾刃 <水>",
+  "dv2.weapon.shield.bladed_shield.water.description": "受到水精靈的加護",
+
+  "dv2.weapon.shield.bladed_shield.wind": "盾刃 <風>",
+  "dv2.weapon.shield.bladed_shield.wind.description": "受到風精靈的加護",
+
+  "dv2.weapon.shield.bladed_shield.earth": "盾刃 <土>",
+  "dv2.weapon.shield.bladed_shield.earth.description": "受到土精靈的加護",
+
+  "dv2.ability.bladed_shield.1.0.0": "元素抗性",
+  "dv2.ability.bladed_shield.1.1.0": "蹲下以切換火、水、風、土四種屬性",
+
+  "dv2.weapon.shield.rattan_shield":"藤盾",
+  "dv2.weapon.shield.rattan_shield.description":"完美的燃料",
+
+  "dv2.weapon.bow.archers_bow": "射手之弓",
+  "dv2.weapon.bow.archers_bow.description": "一把好老弓",
+
+  "dv2.weapon.bow.great_bow": "精良弓",
+  "dv2.weapon.bow.great_bow.description": "值得信賴的弓",
+
+  "dv2.weapon.bow.heavy_bow": "重型弓",
+  "dv2.weapon.bow.heavy_bow.description": "請小心使用",
+
+  "dv2.weapon.bow.quick_charge_bow": "速射弩",
+  "dv2.weapon.bow.quick_charge_bow.description": "跑啊那裏有盾啊啊啊啊",
+
+
+
+  "dv2.weapon.bow.nightmare": "夢魘",
+  "dv2.weapon.bow.nightmare.description": "融入漆黑之中，化作夢魘",
+  "dv2.ability.nightmare.1.0.0": "突發驚嚇",
+  "dv2.ability.nightmare.1.1.0": "當你拉弓超過",
+  "dv2.ability.nightmare.1.1.1": "2秒",
+  "dv2.ability.nightmare.1.1.2": "時，",
+  "dv2.ability.nightmare.1.2.0": "你將會獲得",
+  "dv2.ability.nightmare.1.2.2": "2秒，箭矢會獲得",
+  "dv2.ability.nightmare.1.3.0": "3.6點暗屬性DMG <+3.0 EM>",
+  "dv2.ability.nightmare.1.3.1": "，並且你的箭矢會以",
+  "dv2.ability.nightmare.1.3.2": "6 ms⁻¹",
+  "dv2.ability.nightmare.1.3.3": "的速度行進",
+
+  "dv2.ability.nightmare.2.0.0": "完全蓄力",
+  "dv2.ability.nightmare.2.1.0": "當你的弓拉滿時，你將會",
+  "dv2.ability.nightmare.2.2.0": "獲得",
+  "dv2.ability.nightmare.2.2.1": "1.8點暗屬性DMG <+7.0 EM>",
+  "dv2.ability.nightmare.2.2.2": "",
+
+  
+  "dv2.weapon.bow.destroyer": "破壞者",
+  "dv2.weapon.bow.destroyer.description": "「砰砰」！",
+  "dv2.ability.destroyer.1.0.0": "狙擊手",
+  "dv2.ability.destroyer.1.1.0": "你的箭會獲得 ",
+  "dv2.ability.destroyer.1.1.1": "+35 DMG",
+  "dv2.ability.destroyer.1.2.0": "在你的 HP 高於 ",
+  "dv2.ability.destroyer.1.2.1": "70%",
+  "dv2.ability.destroyer.1.2.2": " 的時候",
+
+  
+  "dv2.weapon.bow.bladed_bow": "颶風弓",
+  "dv2.weapon.bow.bladed_bow.description": "掌握手中的狂風。",
+  "dv2.ability.bladed_bow.1.0.0": "操縱輕風",
+  "dv2.ability.bladed_bow.1.1.0": "當你蹲下時，在你腳下製造一陣風以助緩降",
+  "dv2.ability.bladed_bow.1.2.0": "(消耗 Mana)",
+  "dv2.ability.bladed_bow.2.0.0": "高壓氣流",
+  "dv2.ability.bladed_bow.2.1.0": "副手持有這把弓時蹲下，",
+  "dv2.ability.bladed_bow.2.2.0": "將會產生使玩家退後的陣風",
+  "dv2.ability.bladed_bow.2.3.0": "(消耗 Mana)",
+
+  "dv2.weapon.wand.scholar_wand.regular": "魔法の杖",
+  "dv2.weapon.wand.scholar_wand.regular.description": "子供のおもちゃ",
+  "dv2.weapon.wand.scholar_wand.fire": "真紅の魔法の杖",
+  "dv2.weapon.wand.scholar_wand.fire.description": "魔法の炎を加えて...",
+  "dv2.weapon.wand.scholar_wand.water": "蒼青の魔法の杖",
+  "dv2.weapon.wand.scholar_wand.water.description": "流れる力を操る...",
+  "dv2.weapon.wand.scholar_wand.wind": "竜巻の魔法の杖",
+  "dv2.weapon.wand.scholar_wand.wind.description": "風に乗って舞い上がる...",
+  "dv2.weapon.wand.scholar_wand.earth": "土曜の魔法の杖",
+  "dv2.weapon.wand.scholar_wand.earth.description": "森や大地の力を借りる...",
+  "dv2.weapon.wand.scholar_wand.light": "銀光の魔法の杖",
+  "dv2.weapon.wand.scholar_wand.light.description": "栄光と正義と共に...",
+  "dv2.weapon.wand.scholar_wand.dark": "幽影の魔法の杖",
+  "dv2.weapon.wand.scholar_wand.dark.description": "悪魔に悪意を向ける...",
+  "dv2.weapon.wand.scholar_wand.rainbow": "虹の魔法の杖",
+  "dv2.weapon.wand.scholar_wand.rainbow.description": "天翻地覆",
+  
+
+  "dv2.ability.magic_beam.1.0.0": "技能：魔法光束",
+  "dv2.ability.magic_beam.1.1.0": "射出光束",
+  "dv2.ability.magic_beam.1.2.0": "消耗：",
+  "dv2.ability.magic_beam.1.2.1": "150 Mana",
+
+  "dv2.weapon.wand.healing_wand": "回復法杖",
+  "dv2.weapon.wand.healing_staff": "回復魔杖",
+  "dv2.weapon.wand.healing_scepter": "回復權杖",
+  
+  "dv2.ability.healing_beam.1.0.0": "技能：回復光束",
+  "dv2.ability.healing_beam.1.1.0": "射出可回復 %s HP 的光束",
+  "dv2.ability.healing_beam.1.2.0": "（對手被擊中會獲得 50% 效果）",
+  "dv2.ability.healing_beam.1.3.0": "消耗：",
+  "dv2.ability.healing_beam.1.3.1": "%s Mana",
+  "dv2.ability.healing_beam.1.4.0": "(冷卻：%s%s%s秒)",
+
+
+  "dv2.weapon.wand.staff_of_terrestria": "シーシュポスの杖",
+  "dv2.weapon.wand.staff_of_terrestria.description": "その無限の岩を体験してみなさい...",
+
+  "dv2.ability.rock_throw.1.0.0": "技能：投擲石塊",
+  "dv2.ability.rock_throw.1.1.0": "可以投擲石塊",
+  "dv2.ability.rock_throw.1.2.0": "消耗：",
+  "dv2.ability.rock_throw.1.2.1": "500 Mana",
+  
+  "dv2.ability.staff_of_terrestria.2.0.0": "眾石歸位 [蹲下]",
+  "dv2.ability.staff_of_terrestria.2.1.0": "蹲下以將所有石塊喚回你的身邊",
+  "dv2.ability.staff_of_terrestria.2.2.0": "消耗：",
+  "dv2.ability.staff_of_terrestria.2.2.1": "2000 Mana",
+  
+  "dv2.ability.staff_of_terrestria.3.0.0": "防禦節點",
+  "dv2.ability.staff_of_terrestria.3.1.0": "喚回石塊將會增加你 20 DEF",
+
+  "dv2.ability.staff_of_terrestria.4.0.0": "眾石投射 [蹲下]",
+  "dv2.ability.staff_of_terrestria.4.1.0": "向敵人發射你所喚回的石塊",
+  "dv2.ability.staff_of_terrestria.4.2.0": "消耗：",
+  "dv2.ability.staff_of_terrestria.4.2.1": "2000 Mana",
+
+
+  "dv2.weapon.wand.virtuoso": "バーチュアウゾー：%s",
+
+  "dv2.weapon.wand.virtuoso.nocturne": "ノクターン",
+  "dv2.weapon.wand.virtuoso.nocturne.mode": "スロウネス",
+  "dv2.weapon.wand.virtuoso.nocturne.description": "思いは夜空を疾走し、夜明けまで続く。",
+  "dv2.ability.virtuoso.nocturne.1.0.0": "夜想曲",
+  "dv2.ability.virtuoso.nocturne.1.1.0": "射出一個魔球",
+  "dv2.ability.virtuoso.nocturne.1.2.0": "一旦落地，在3秒內半徑4格範圍内的敵人的 ",
+  "dv2.ability.virtuoso.nocturne.1.2.1": "SPD",
+  "dv2.ability.virtuoso.nocturne.1.2.2": "",
+  "dv2.ability.virtuoso.nocturne.1.3.0": "將會被減少 5%",
+  "dv2.ability.virtuoso.nocturne.1.4.0": "消耗：",
+  "dv2.ability.virtuoso.nocturne.1.4.1": "%s Mana",
+  "dv2.ability.virtuoso.nocturne.1.5.0": "(冷卻：%s%s%s秒)",
+
+
+  "dv2.weapon.wand.virtuoso.requiem": "レクイエム",
+  "dv2.weapon.wand.virtuoso.requiem.mode": "ディストーション",
+  "dv2.weapon.wand.virtuoso.requiem.description": "寂しい魂に慰めを与える。",
+  "dv2.ability.virtuoso.requiem.1.0.0": "鎮魂曲",
+  "dv2.ability.virtuoso.requiem.1.1.0": "射出一個魔球",
+  "dv2.ability.virtuoso.requiem.1.2.0": "一旦落地，在2秒內半徑3格範圍内的敵人的 ",
+  "dv2.ability.virtuoso.requiem.1.2.1": "SPD",
+  "dv2.ability.virtuoso.requiem.1.2.2": "",
+  "dv2.ability.virtuoso.requiem.1.3.0": "將會被減少 100%",
+  "dv2.ability.virtuoso.requiem.1.4.0": "同時給予敵人1秒的",
+  "dv2.ability.virtuoso.requiem.1.4.1": "致盲",
+  "dv2.ability.virtuoso.requiem.1.4.2": "效果",
+  "dv2.ability.virtuoso.requiem.1.5.0": "消耗：",
+  "dv2.ability.virtuoso.requiem.1.5.1": "%s Mana",
+  "dv2.ability.virtuoso.requiem.1.6.0": "(冷卻：%s%s%s秒)",
+
+
+  "dv2.weapon.wand.virtuoso.aria": "アリア",
+  "dv2.weapon.wand.virtuoso.aria.mode": "ノックバック",
+  "dv2.weapon.wand.virtuoso.aria.description": "心の孤独を歌う。",
+  "dv2.ability.virtuoso.aria.1.0.0": "詠嘆調",
+  "dv2.ability.virtuoso.aria.1.1.0": "射出一個魔球",
+  "dv2.ability.virtuoso.aria.1.2.0": "一旦落地，半徑5格範圍内",
+  "dv2.ability.virtuoso.aria.1.3.0": "的敵人及隊友將會被彈走",
+  "dv2.ability.virtuoso.aria.1.4.0": "消耗：",
+  "dv2.ability.virtuoso.aria.1.4.1": "%s Mana",
+  "dv2.ability.virtuoso.aria.1.5.0": "(冷卻：%s%s%s秒)",
+
+  "dv2.weapon.wand.virtuoso.change":"(蹲下兩次以切換夜想曲、鎮魂曲、詠嘆調三種模式)",
+
+
+  "dv2.weapon.wand.waltz": "ワルツ",
+  "dv2.weapon.wand.waltz.description": "かつての風情を喜びの舞で証明してみよ",
+
+  "dv2.ability.waltz.echo.1.0.0": "華爾茲的迴聲",
+  "dv2.ability.waltz.echo.1.1.0": "射出一發射程為15格，以5ms⁻¹速度行走的衝擊波",
+  "dv2.ability.waltz.echo.1.2.0": "消耗：",
+  "dv2.ability.waltz.echo.1.2.1": "%s Mana",
+  "dv2.ability.waltz.echo.1.3.0": "(冷卻：%s%s%s秒)",
+
+  "dv2.ability.waltz.steps.1.0.0": "喪狂舞步 [雙擊蹲下]",
+  "dv2.ability.waltz.steps.1.1.0": "根據玩家的元素，在5秒內給予15格半徑",
+  "dv2.ability.waltz.steps.1.2.0": "範圍內的敵人所對應的元素減益效果",
+  "dv2.ability.waltz.steps.1.3.0": "受影響的敵人會被附加持續40秒",
+  "dv2.ability.waltz.steps.1.4.0": "的詛咒，詛咒最多可疊加5次",
+  "dv2.ability.waltz.steps.1.5.0": "(每次附加詛咒之間有20秒的間隔)",
+  "dv2.ability.waltz.steps.1.6.0": "一旦使用，使用者的ALL DMG將被減少50%",
+  "dv2.ability.waltz.steps.1.7.0": "消耗：至少",
+  "dv2.ability.waltz.steps.1.7.1": "%s Mana",
+  "dv2.ability.waltz.steps.1.8.0": "(冷卻：%s%s%s秒)",
+
+  "dv2.ability.waltz.plague.1.0.0": "華爾茲舞疫",
+  "dv2.ability.waltz.plague.1.1.0": "對於每個級別的詛咒，",
+  "dv2.ability.waltz.plague.1.2.0": "華爾茲的迴聲",
+  "dv2.ability.waltz.plague.1.2.1": "將會造成額外的",
+  "dv2.ability.waltz.plague.1.2.2": "4點暗屬性DMG",
+  "dv2.ability.waltz.plague.1.2.3": "",
+
+
+
+
+  "dv2.arrow.effects.burning_arrow": "燃燒箭",
+  "dv2.arrow.effects.burning_arrow.0": "當此箭被選取，",
+  "dv2.arrow.effects.burning_arrow.1.0": "你的箭會有 50% 機率觸發 ",
+  "dv2.arrow.effects.burning_arrow.2": "效果 3秒",
+  "dv2.arrow.effects.burning_arrow.3": "(4 HP 每秒)",
+
+
+  "dv2.arrow.effects.poison": "劇毒箭",
+  "dv2.arrow.effects.poison.0": "當此箭被選取，",
+  "dv2.arrow.effects.poison.1.0": "你的箭會有 50% 機率觸發 ",
+  "dv2.arrow.effects.poison.2": "效果 3秒",
+  "dv2.arrow.effects.poison.3": "(2% HP 每秒)",
+
+
+
+  "dv2.arrow.power.iron_arrow": "鉄の矢",
+  "dv2.arrow.power.steel_arrow": "鋼の矢",
+  "dv2.arrow.power.gold_tipped_arrow": "金の矢",
+  "dv2.arrow.power.lightweight_arrow": "軽量の矢",
+  "dv2.arrow.power.heavy_arrow": "重量の矢",
+  
+  "dv2.arrow.elemental.fire_arrow": "火属性の矢",
+  "dv2.arrow.elemental.water_arrow": "水属性の矢",
+  "dv2.arrow.elemental.wind_arrow": "風属性の矢",
+  "dv2.arrow.elemental.earth_arrow": "土属性の矢",
+  "dv2.arrow.elemental.light_arrow": "光属性の矢",
+  "dv2.arrow.elemental.dark_arrow": "暗属性の矢",
+  
+  "dv2.item.powder.elemental.fire.1":"火属性の粉末 I",
+  "dv2.item.powder.elemental.fire.2":"火属性の粉末 II",
+  "dv2.item.powder.elemental.water.2":"水属性の粉末 II",
+  "dv2.item.powder.elemental.water.1":"水属性の粉末 I",
+  "dv2.item.powder.elemental.wind.1":"風属性の粉末 I",
+  "dv2.item.powder.elemental.wind.2":"風属性の粉末 II",
+  "dv2.item.powder.elemental.earth.1":"土属性の粉末 I",
+  "dv2.item.powder.elemental.earth.2":"土属性の粉末 II",
+  "dv2.item.powder.elemental.light.1":"光属性の粉末 I",
+  "dv2.item.powder.elemental.light.2":"光属性の粉末 II",
+  "dv2.item.powder.elemental.dark.1":"暗属性の粉末 I",
+  "dv2.item.powder.elemental.dark.2":"暗属性の粉末 II",
+  "dv2.item.powder.elemental.super":"スーパーパウダー",
+  
+  "dv2.item.special.whetstone":"砥石",
+
+
+
+
+
+  "dv2.arrow.power.description.0": "當此箭被選取，",
+  "dv2.arrow.power.description.1.0": "你的箭會獲得 ",
+  "dv2.arrow.power.description.1.2": "",
+
+  
+  "dv2.arrow.power.description_array.0": "當此箭被選取，",
+  "dv2.arrow.power.description_array.1": "你的箭會獲得:",
+
+  "dv2.item.melee.description.0": "當此物品被選取，",
+  "dv2.item.melee.description.1.0": "您的近戰武器會獲得 ",
+  "dv2.item.melee.description.1.2": "",
+
+
+
+
+  "dv2.spells.enchantments": " - 法陣效果",
+
+  "dv2.spells.long_lasting.wind.1.escape": "逃脫 (等級一)",
+  "dv2.spells.long_lasting.wind.1.escape.0": "<等級一 - 持久型 - 風屬性>",
+  "dv2.spells.long_lasting.wind.1.escape.1": "消除你 33% 的 HP,",
+  "dv2.spells.long_lasting.wind.1.escape.2": "並於5秒內增加你的 SPD 100%",
+  "dv2.spells.long_lasting.wind.1.escape.3.0": "代價：",
+  "dv2.spells.long_lasting.wind.1.escape.3.1": "33% HP",
+
+
+  "dv2.spells.long_lasting.earth.1.health_recovery_array": "血量回復法陣 (等級一)",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.0": "<等級一 - 持久型 - 土屬性>",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.1.0": "Increases the ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.1.2": " of players within a ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.2.0": " block radius by ",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.2.1": ".",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.3": "(持續30秒)",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.4.0": "消耗：",
+  "dv2.spells.long_lasting.earth.1.health_recovery_array.4.1": "2500 Mana",
+
+  "dv2.spells.long_lasting.earth.health_recovery_array.1": "Heals players within a %s block radius for %s HP per %ss. ",
+
+  
+  "dv2.spells.long_lasting.earth.2.health_recovery_array": "血量回復法陣 (等級二)",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.0": "<等級二 - 持久型 - 土屬性>",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.1.0": "Increases the ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.1.2": " of players within a ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.2.0": " block radius by ",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.2.1": ".",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.3": "(持續30秒)",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.4.0": "消耗：",
+  "dv2.spells.long_lasting.earth.2.health_recovery_array.4.1": "2500 Mana",
+
+
+
+  "dv2.spells.long_lasting.earth.1.defensive_array": "防禦法陣 (等級一)",
+  "dv2.spells.long_lasting.earth.1.defensive_array.0": "<等級一 - 持久型 - 土屬性>",
+  "dv2.spells.long_lasting.earth.1.defensive_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.earth.1.defensive_array.1.1": "30 DEF",
+  "dv2.spells.long_lasting.earth.1.defensive_array.1.2": " to all nearby allies.",
+  "dv2.spells.long_lasting.earth.1.defensive_array.2": "(持續30秒)",
+  "dv2.spells.long_lasting.earth.1.defensive_array.3.0": "消耗：",
+  "dv2.spells.long_lasting.earth.1.defensive_array.3.1": "2500 Mana",
+
+
+  
+
+
+  "dv2.spells.long_lasting.earth.2.defensive_array": "防禦法陣 (等級二)",
+  "dv2.spells.long_lasting.earth.2.defensive_array.0": "<等級二 - 持久型 - 土屬性>",
+  "dv2.spells.long_lasting.earth.2.defensive_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.earth.2.defensive_array.1.1": "50 DEF",
+  "dv2.spells.long_lasting.earth.2.defensive_array.1.2": " to all nearby allies.",
+  "dv2.spells.long_lasting.earth.2.defensive_array.2": "(持續30秒)",
+  "dv2.spells.long_lasting.earth.2.defensive_array.3.0": "消耗：",
+  "dv2.spells.long_lasting.earth.2.defensive_array.3.1": "3000 Mana",
+
+
+
+
+  "dv2.spells.long_lasting.earth.1.meat_shield": "肉盾 (等級一)",
+  "dv2.spells.long_lasting.earth.1.meat_shield.0": "<等級一 - 持久型 - 土屬性>",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.0": "Gives ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.1": "70 DEF",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.2": " and ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.3": "10 Elemental DEF (All)",
+  "dv2.spells.long_lasting.earth.1.meat_shield.2.0": "to all allies within a ",
+  "dv2.spells.long_lasting.earth.1.meat_shield.2.1": "5 Block Radius",
+  "dv2.spells.long_lasting.earth.1.meat_shield.2.2": ".",
+  "dv2.spells.long_lasting.earth.1.meat_shield.3": "(持續20秒，冷卻25秒)",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.0": "消耗：",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.1": "4000 Stamina",
+
+
+
+
+  "dv2.spells.long_lasting.water.1.mana_recovery_array": "魔力回復法陣 (等級一)",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.0": "<等級一 - 持久型 - 水屬性>",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.1": "+2500 Base Mana",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.2": " and ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.3": "+200 Mana",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.1.4": " per second",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.2.0": "to allies within a ",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.2.1": "10 Block Radius",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.2.2": ".",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.3": "(持續30秒)",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.4.0": "消耗：",
+  "dv2.spells.long_lasting.water.1.mana_recovery_array.4.1": "2500 Mana",
+
+
+  "dv2.spells.long_lasting.water.2.mana_recovery_array": "魔力回復法陣 (等級二)",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.0": "<等級二 - 持久型 - 水屬性>",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.0": "Grants ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.1": "+3000 Base Mana",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.2": " and ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.3": "+300 Mana",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.1.4": " per second",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.2.0": "to allies within a ",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.2.1": "12 Block Radius",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.2.2": ".",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.3": "(持續30秒)",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "消耗：",
+  "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
+
+  "dv2.spells.burst.wind.1.leap": "飛躍 (等級一)",
+  "dv2.spells.burst.wind.1.leap.0": "<等級一 - 爆發性 - 風屬性>",
+  "dv2.spells.burst.wind.1.leap.1": "",
+  "dv2.spells.burst.wind.1.leap.2": "",
+  "dv2.spells.burst.wind.1.leap.3.0": "",
+  "dv2.spells.burst.wind.1.leap.3.1": "",
+
+  "dv2.spells.burst.wind.2.leap": "飛躍 (等級二)",
+  "dv2.spells.burst.wind.2.leap.0": "<等級二 - 爆發性 - 風屬性>",
+  "dv2.spells.burst.wind.2.leap.1": "",
+  "dv2.spells.burst.wind.2.leap.2": "",
+  "dv2.spells.burst.wind.2.leap.3.0": "",
+  "dv2.spells.burst.wind.2.leap.3.1": "",
+
+  "dv2.spells.burst.wind.3.leap": "飛躍 (等級三)",
+  "dv2.spells.burst.wind.3.leap.0": "<等級三 - 爆發性 - 風屬性>",
+  "dv2.spells.burst.wind.3.leap.1": "",
+  "dv2.spells.burst.wind.3.leap.2": "",
+  "dv2.spells.burst.wind.3.leap.3.0": "",
+  "dv2.spells.burst.wind.3.leap.3.1": "",
+
+  "dv2.artifacts.berserker":"狂戰士",
+  "dv2.artifacts.berserker.1.0":"在 HP 低於 50% 時增加 15 STR",
+  "dv2.artifacts.berserker.2.0":"在 HP 低於 33% 時增加 30 STR",
+
+  "dv2.artifacts.unyielding_heart":"不屈之心",
+  "dv2.artifacts.unyielding_heart.1.0":"在 HP 低於 50% 時增加 15% DEF",
+  "dv2.artifacts.unyielding_heart.2.0":"在 HP 低於 33% 時增加 30% DEF",
+  
+  "dv2.artifacts.coward":"膽小鬼",
+  "dv2.artifacts.coward.1.0":"在 HP 低於 50% 時增加 15% SPD",
+  "dv2.artifacts.coward.2.0":"在 HP 低於 33% 時增加 30% SPD",
+  
+  "dv2.artifacts.shield.1":"盾牌 I",
+  "dv2.artifacts.shield.1.1.0":"拿著盾牌時增加 10 DEF",
+  "dv2.artifacts.shield.2":"盾牌 II",
+  "dv2.artifacts.shield.2.1.0":"拿著盾牌時增加 20 DEF",
+  "dv2.artifacts.shield.3":"盾牌 III",
+  "dv2.artifacts.shield.3.1.0":"拿著盾牌時增加 40 DEF",
+    
+  "dv2.artifacts.warrior.1":"戰士 I",
+  "dv2.artifacts.warrior.1.1.0":"不持盾時增加 5 STR",
+  "dv2.artifacts.warrior.2":"戰士 II",
+  "dv2.artifacts.warrior.2.1.0":"不持盾時增加 15 STR",
+
+  "dv2.artifacts.shooter.1":"射手 I",
+  "dv2.artifacts.shooter.1.1.0":"不持盾時增加 5 🏹STR",
+  "dv2.artifacts.shooter.2":"射手 II",
+  "dv2.artifacts.shooter.2.1.0":"不持盾時增加 15 🏹STR",
+
+  "dv2.artifacts.totem_of_hope.1":"希望圖騰 I",
+  "dv2.artifacts.totem_of_hope.1.1.0":"將法陣的使用壽命延長 5 秒",
+  "dv2.artifacts.totem_of_hope.2":"希望圖騰 II",
+  "dv2.artifacts.totem_of_hope.2.1.0":"將法陣的使用壽命延長 10 秒",
+  "dv2.artifacts.totem_of_hope.3":"希望圖騰 III",
+  "dv2.artifacts.totem_of_hope.3.1.0":"將法陣的使用壽命延長 15 秒",
+
+  "dv2.artifacts.magic_string.1":"魔弦 I",
+  "dv2.artifacts.magic_string.1.1.0":"不持盾時增加 1500 Base Mana",
+  "dv2.artifacts.magic_string.1.2.0":"持盾時增加 500 Stamina",
+  "dv2.artifacts.magic_string.2":"魔弦 II",
+  "dv2.artifacts.magic_string.2.1.0":"不持盾時增加 2500 Base Mana",
+  "dv2.artifacts.magic_string.2.2.0":"持盾時增加 1500 Stamina",
+  "dv2.artifacts.magic_string.3":"魔弦 III",
+  "dv2.artifacts.magic_string.3.1.0":"不持盾時增加 3500 Base Mana",
+  "dv2.artifacts.magic_string.3.2.0":"持盾時增加 2500 Stamina",
+
+
+  "dv2.artifacts.resistor":"電阻器",
+  "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 30 STR",
+
+  "dv2.artifacts.tank":"坦克",
+  "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的隊友，",
+  "dv2.artifacts.tank.2.0":"將增加你 12 DEF",
+  "dv2.artifacts.tank.3.0":"使用時增加 20 DEF 和 20 HP",
+
+  "dv2.artifacts.wanderer":"遊子",
+  "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家，",
+  "dv2.artifacts.wanderer.2.0":"將會減少你 10 🏹 STR",
+  "dv2.artifacts.wanderer.3.0":"使用時增加 30 🏹 STR",
+  "dv2.artifacts.wanderer.4.0":"(上限：-10 🏹STR)",
+
+  "dv2.artifacts.vikings":"維京人",
+  "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的隊友，",
+  "dv2.artifacts.vikings.2.0":"將會增加你 5 STR",
+  "dv2.artifacts.vikings.3.0":"使用時增加 5 STR",
+  
+  "dv2.artifacts.vampire.1":"吸血鬼 I",
+  "dv2.artifacts.vampire.1.1.0":"全類型STR 減少 10",
+  "dv2.artifacts.vampire.1.2.0":"吸收 5% 的傷害作為治療",
+  "dv2.artifacts.vampire.2":"吸血鬼 II",
+  "dv2.artifacts.vampire.2.1.0":"全類型STR 減少 10",
+  "dv2.artifacts.vampire.2.2.0":"吸收 10% 的傷害作為治療",
+  "dv2.artifacts.vampire.3":"吸血鬼 III",
+  "dv2.artifacts.vampire.3.1.0":"全類型STR 減少 10",
+  "dv2.artifacts.vampire.3.2.0":"吸收 15% 的傷害作為治療",
+  "dv2.artifacts.vampire.3.3.0":"擊殺敵人後，",
+  "dv2.artifacts.vampire.3.4.0":"回復等同於敵人最大 HP 的 25%",
+
+  "dv2.artifacts.wave_sense.1":"感知 I",
+  "dv2.artifacts.wave_sense.1.1.1":"給予半徑5格範圍内的敵人",
+  "dv2.artifacts.wave_sense.1.1.2":"效果",
+  "dv2.artifacts.wave_sense.2":"感知 II",
+  "dv2.artifacts.wave_sense.2.1.1":"給予半徑10格範圍内的敵人",
+  "dv2.artifacts.wave_sense.2.1.2":"效果",
+  "dv2.artifacts.wave_sense.3":"感知 III",
+  "dv2.artifacts.wave_sense.3.1.1":"給予半徑15格範圍内的敵人",
+  "dv2.artifacts.wave_sense.3.1.2":"效果",
+
+
+
+
+  "dv2.artifacts.fighter":"鬥士",
+  "dv2.artifacts.fighter.1.0":"當你的 DEF 低於 20 時，增加 30 STR",
+  "dv2.artifacts.fighter.2.0":"持有此飾品時，你的 STR 將不會超過 40",
+  "dv2.artifacts.soldier":"軍人",
+  "dv2.artifacts.soldier.1.0":"當你的最大 HP 低於 115 時，增加 30 STR",
+  "dv2.artifacts.soldier.2.0":"持有此飾品時，你的 STR 將不會超過 40",
+
+
+  "dv2.artifacts.rose_of_void":"奈落之瑰",
+  "dv2.artifacts.rose_of_void.1.0":"將半徑 7 格範圍內敵人的 DEF 降至 50%",
+
+  "dv2.artifacts.pearl_of_abyss":"虛淵珍珠",
+  "dv2.artifacts.pearl_of_abyss.1.0":"減少半徑 7 格範圍內的敵人 40 全類型STR",
+
+  "dv2.artifacts.drip_of_acheron":"黃泉之淚",
+  "dv2.artifacts.drip_of_acheron.1.0":"將半徑 7 格範圍內敵人的治療幅度降至 50%",
+
+
+
+  "dv2.artifacts.awakened":"覺者",
+  "dv2.artifacts.awakened.1.0":"你將會獲得致盲效果，",
+  "dv2.artifacts.awakened.2.0":"並增加 33% 全屬性魔法 DMG 及 Base Mana",
+
+  "dv2.artifacts.cast_off":"蛻殻",
+  "dv2.artifacts.cast_off.1.0":"當生命值低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
+  "dv2.artifacts.cast_off.2.0":"同時增加 50 STR 及 20% SPD",
+
+  "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
+  "dv2.artifacts.battle_flag_attack.1.0":"使用時減少 20 DEF，並獲得發光效果。",
+  "dv2.artifacts.battle_flag_attack.2.0":"增加 40 STR,",
+  "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑6格範圍內的隊友，將會減少你 40 STR",
+  "dv2.artifacts.battle_flag_attack.4.0":"(上限：1位玩家)",
+  "dv2.artifacts.battle_flag_defend":"戰旗 <防禦模式>",
+  "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% SPD, 25% DMG，並獲得發光效果。",
+  "dv2.artifacts.battle_flag_defend.2.0":"增加 50% DEF",
+  "dv2.artifacts.battle_flag_support":"戰旗 <輔助模式>",
+  "dv2.artifacts.battle_flag_support.1.0":"使用時減少 15% DEF, DMG，並獲得發光效果。",
+  "dv2.artifacts.battle_flag_support.2.0":"增加 10% SPD,",
+  "dv2.artifacts.battle_flag_support.3.0":"每5秒為半徑7格範圍內的隊友回復 5 HP，同時增加其 Base Mana",
+
+  "dv2.artifacts.battle_flag_change":"(蹲下以切換攻擊、防禦、輔助三種模式)",
+
+  "dv2.artifacts.book_of_wisdom":"智慧之書",
+  "dv2.artifacts.book_of_wisdom.1.0":"使用時減少 30% Stamina",
+  "dv2.artifacts.book_of_wisdom.2.0":"增加半徑7格範圍内隊友 75% 的 全屬性EM",
+
+  "dv2.artifacts.aether_substance":"以太物質",
+  "dv2.artifacts.aether_substance.1.0":"持有此製品時，你的 DEF 將不會高於 0",
+  "dv2.artifacts.aether_substance.2.0":"在 HP 高於 99% 時獲得隱形效果。",
+
+  "dv2.artifacts.command_flag_attack":"指揮旗 <攻擊模式>",
+  "dv2.artifacts.command_flag_attack.1.0":"使用時減少 15% DEF 及 DMG，並獲得發光效果。",
+  "dv2.artifacts.command_flag_attack.2.0":"增加半徑10格範圍內的隊友 30% 全屬性DMG",
+  "dv2.artifacts.command_flag_defend":"指揮旗 <防禦模式>",
+  "dv2.artifacts.command_flag_defend.1.0":"使用時減少 15% DEF 及 DMG，並獲得發光效果。",
+  "dv2.artifacts.command_flag_defend.2.0":"增加半徑10格範圍內的隊友 30% 物理&全屬性DEF",
+  "dv2.artifacts.command_flag_escape":"指揮旗 <撤退模式>",
+  "dv2.artifacts.command_flag_escape.1.0":"使用時減少 10% DEF 及 DMG，並增加 10% SPD",
+  "dv2.artifacts.command_flag_escape.2.0":"每3秒為半徑10格範圍內的隊友回復 8 HP，同時為其增加 10% SPD",
+
+  "dv2.artifacts.command_flag_change":"(蹲下以切換攻擊、防禦、撤退三種模式)",
+
+  "dv2.artifacts.defender":"防守者",
+  "dv2.artifacts.defender.1.0":"使用時減少 15% SPD 及 DMG，並獲得發光效果。",
+  "dv2.artifacts.defender.2.0":"給予半徑15格範圍內的敵人黑暗效果。",
+  "dv2.artifacts.defender.3.0":"半徑5格範圍內的隊友將會免疫發光效果。",
+
+  "dv2.artifacts.shelter":"庇護所",
+  "dv2.artifacts.shelter.1.0":"使用時增加 60 HP 及 1秒攻擊間隔。",
+  "dv2.artifacts.shelter.2.0":"當你的 HP 高於 40% 時，",
+  "dv2.artifacts.shelter.3.0":"半徑5格範圍內的隊友將會獲得隱形效果。",
+
+  "dv2.artifacts.guardian":"守衛者",
+  "dv2.artifacts.guardian.1.0":"使用時增加 30 HP",
+  "dv2.artifacts.guardian.2.0":"當你的 HP 高於 30% 時，",
+  "dv2.artifacts.guardian.3.0":"增加半徑7格範圍內的隊友 30 DEF",
+
+
+
+
+
+
+
+
+  "dv2.artifacts.signature": "招牌首飾",
+  "dv2.artifacts.signature.1.0": "當你是最後一位倖存者時才會生效。",
+
+  "dv2.artifacts.antibiotics": "抗生素",
+  "dv2.artifacts.antibiotics.1.0": "增加 100 物理&全屬性DEF",
+  "dv2.artifacts.antibiotics.2.0": "免疫所有負面效果。",
+
+  "dv2.artifacts.epiphyte": "附生植物",
+  "dv2.artifacts.epiphyte.1.0": "增加 100% 自然回復 及 50 吸血。",
+  "dv2.artifacts.epiphyte.2.0": "擊殺敵人時回復自身最大 HP 的 25%",
+
+  "dv2.artifacts.fiesta": "狂歡節",
+  "dv2.artifacts.fiesta.1.0": "增加 100% 全屬性EM",
+
+  "dv2.artifacts.lone_wolf": "孤狼",
+  "dv2.artifacts.lone_wolf.1.0": "增加 50 全類型STR, 20% SPD, 25 吸血及減少 50% 技能 Stamina 消耗。",
+  
+  "dv2.artifacts.nihility": "虛無",
+  "dv2.artifacts.nihility.1.0": "當你的 HP 高於 70% 時獲得隱形效果，",
+  "dv2.artifacts.nihility.2.0": "同時給予所有敵人黑暗效果。",
+
+
+  "dv2.point":"點數 (PT)",
+  "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
+
+  "dv2.movement_point":"行動點數 (MP)",
+  "dv2.movement_point.1.0":"你只有一個MP，可用於購買特殊行動",
+
+  "dv2.signature_point":"招牌點數 (SP)",
+  "dv2.signature_point.1.0":"你只有一個SP，可用於購買招牌首飾",
+
+  "dv2.point.description":"凡事都有代價。"
+}
+

@@ -1,0 +1,9 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "rpg/weapon/bow/yellow_portal",
+		"1": "rpg/weapon/bow/nightmare",
+		"particle": "rpg/weapon/bow/yellow_portal"
+	},
+	"parent": "rpg/weapon/bow/nightmare/nightmare"
+}
