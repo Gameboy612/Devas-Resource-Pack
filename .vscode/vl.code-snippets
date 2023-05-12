@@ -1,12 +1,13 @@
 {
-    "voiceline": {
+    "atlases": {
         "prefix": "atlases",
-        "body": [{
-            "type": "directory",
-            "source": "${1:LINE HERE}}",
-            "prefix": "${2:LINE HERE}/"
-        },
+        "body": [
+            "{",
+            "    \"type\": \"directory\",",
+            "    \"source\": \"${1:LINE HERE}\",",
+            "    \"prefix\": \"${1:LINE HERE}/\"",
+            "}"
         ],
-        "description": "Voiceline"
+        "description": "uwu"
     }
 }
