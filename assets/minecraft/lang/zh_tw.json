@@ -185,7 +185,7 @@
   "dv2.kits.mage.2": "法師 2",
 
 
-  "container.enderchest": "\uF82B\uF822%s-商店-",
+  "container.enderchest": "\uF82B\uF822-商店-",
   "container.enderchest_comment": "space.66",
   "dv2.gui.cost": "剩餘點數：",
   "dv2.gui.info": "提示：",

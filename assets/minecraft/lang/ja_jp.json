@@ -82,7 +82,7 @@
   "dv2.kits.mage.1": "メイジ 1",
   "dv2.kits.mage.2": "メイジ 2",
 
-  "container.enderchest": "\uF82B\uF822%s-ショップ-",
+  "container.enderchest": "\uF82B\uF822-ショップ-",
   "container.enderchest_comment": "space.66",
   "dv2.gui.cost": "残りのポイント：",
   "dv2.gui.info": "ヒント：",
