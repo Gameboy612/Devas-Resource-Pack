@@ -30,6 +30,11 @@
       {"predicate": {"custom_model_data":6900042}, "model": "rpg/weapon/bow/nightmare/nightmare_pulling_1"},
       {"predicate": {"custom_model_data":6900043}, "model": "rpg/weapon/bow/nightmare/nightmare_pulling_2"},
 
+      {"predicate": {"custom_model_data":6900050}, "model": "rpg/weapon/bow/hurricane_bow/hurricane_bow"},
+      {"predicate": {"custom_model_data":6900051}, "model": "rpg/weapon/bow/hurricane_bow/hurricane_bow_pulling_0"},
+      {"predicate": {"custom_model_data":6900052}, "model": "rpg/weapon/bow/hurricane_bow/hurricane_bow_pulling_1"},
+      {"predicate": {"custom_model_data":6900053}, "model": "rpg/weapon/bow/hurricane_bow/hurricane_bow_pulling_2"},
+
       {"predicate": {"custom_model_data":6910040}, "model": "rpg/weapon/bow/nightmare/golden_nightmare"},
       {"predicate": {"custom_model_data":6910041}, "model": "rpg/weapon/bow/nightmare/golden_nightmare_pulling_0"},
       {"predicate": {"custom_model_data":6910042}, "model": "rpg/weapon/bow/nightmare/golden_nightmare_pulling_1"},

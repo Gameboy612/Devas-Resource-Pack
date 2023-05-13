@@ -279,6 +279,7 @@
   "rpg.effects.freeze": "Freeze",
   "rpg.effects.seal": "Seal",
   "rpg.effects.chaos": "Chaos",
+  "rpg.effects.paralysis": "Paralysis",
   "rpg.effects.vaporize": "Vaporize",
   "rpg.effects.electrify": "Electrify",
   "rpg.effects.erosion": "Erosion",
@@ -1381,6 +1382,114 @@
 
   "dv2.point.description":"Everything comes with a price.",
 
+
+
+  "dv2.tips":"Tips:",
+
+  "dv2.tips.1":"For most weapons, right-click to deal extra damage.",
+
+  "dv2.tips.2":"Damage will be weakened when the bow isn't full-charged.",
+  
+  "dv2.tips.3.1":"The 4 bars above experience bar are: ",
+  "dv2.tips.3.2":"Health, ",
+  "dv2.tips.3.3":"Mana, ",
+  "dv2.tips.3.4":"Stamina ",
+  "dv2.tips.3.5":"and ",
+  "dv2.tips.3.6":"Signature.",
+
+  "dv2.tips.17.1":"Every player has a ",
+  "dv2.tips.17.2":"Elemental Affinity",
+  "dv2.tips.17.3":" Stat, which can be reduced by ",
+  "dv2.tips.17.4":"Elemental Damage",
+  "dv2.tips.17.5":". When it drops to 0, player will receive corresponding ",
+  "dv2.tips.17.6":"Elemental Debuff",
+  "dv2.tips.17.7":".",
+
+  "dv2.tips.18.1":"Elemental Reaction ",
+  "dv2.tips.18.2":"can be applied by dealing different ",
+  "dv2.tips.18.3":"Elemental Damage ",
+  "dv2.tips.18.4":"when target's having ",
+  "dv2.tips.18.5":"Elemental Debuff",
+  "dv2.tips.18.6":".",
+
+  "dv2.tips.4.1":"Fire Elemental Damage",
+  "dv2.tips.4.2":" has a ",
+  "dv2.tips.4.3":"Burn",
+  "dv2.tips.4.4":" Debuff,",
+  "dv2.tips.4.5":" which deals fixed damage for 5 seconds.",
+
+  "dv2.tips.5.1":"Water Elemental Damage",
+  "dv2.tips.5.2":" has a ",
+  "dv2.tips.5.3":"Freeze",
+  "dv2.tips.5.4":" Debuff,",
+  "dv2.tips.5.5":" which deals a bit fixed damage and slows target for 5 seconds.",
+
+
+  "dv2.tips.6.1":"Wind Elemental Damage",
+  "dv2.tips.6.2":" has a ",
+  "dv2.tips.6.3":"Paralysis",
+  "dv2.tips.6.4":" Debuff,",
+  "dv2.tips.6.5":" which weakens target's ATK for 5 seconds.",
+
+
+  "dv2.tips.7.1":"Earth Elemental Damage",
+  "dv2.tips.7.2":" has a ",
+  "dv2.tips.7.3":"Poison",
+  "dv2.tips.7.4":" Debuff,",
+  "dv2.tips.7.5":" which deals percentual damage for 5 seconds.",
+
+
+  "dv2.tips.8.1":"Light Elemental Damage",
+  "dv2.tips.8.2":" has a ",
+  "dv2.tips.8.3":"Seal",
+  "dv2.tips.8.4":" Debuff,",
+  "dv2.tips.8.5":" which locks the target's HP to 75% for 5 seconds.",
+
+
+  "dv2.tips.9.1":"Dark Elemental Damage",
+  "dv2.tips.9.2":" has a ",
+  "dv2.tips.9.3":"Chaos",
+  "dv2.tips.9.4":" Debuff,",
+  "dv2.tips.9.5":" which weakens target's DEF and apply Blindness effect to target for 5 seconds.",
+
+
+  "dv2.tips.10.1":"Vaporize can be applied by the reaction between",
+  "dv2.tips.10.2":"Fire",
+  "dv2.tips.10.3":" & ",
+  "dv2.tips.10.4":"Water",
+  "dv2.tips.10.5":" Elemental Damage.",
+
+  "dv2.tips.11.1":"Electrify can only be applied by the reaction between",
+  "dv2.tips.11.2":"Water",
+  "dv2.tips.11.3":"Elemental Debuff & ",
+  "dv2.tips.11.4":"Wind",
+  "dv2.tips.11.5":" Elemental Damage.",
+
+  "dv2.tips.12.1":"Erosion can be applied by the reaction between",
+  "dv2.tips.12.2":"Wind",
+  "dv2.tips.12.3":" & ",
+  "dv2.tips.12.4":"Earth",
+  "dv2.tips.12.5":" Elemental Damage.",
+
+  "dv2.tips.13.1":"Decay can be applied by the reaction between",
+  "dv2.tips.13.2":"Fire",
+  "dv2.tips.13.3":" & ",
+  "dv2.tips.13.4":"Earth",
+  "dv2.tips.13.5":" Elemental Damage.",
+
+  "dv2.tips.14.1":"Fission can be applied by the reaction between",
+  "dv2.tips.14.2":"Fire",
+  "dv2.tips.14.3":" & ",
+  "dv2.tips.14.4":"Wind",
+  "dv2.tips.14.5":" Elemental Damage.",
+
+  "dv2.tips.15.1":"Sprout can be applied by the reaction between",
+  "dv2.tips.15.2":"Water",
+  "dv2.tips.15.3":" & ",
+  "dv2.tips.15.4":"Earth",
+  "dv2.tips.15.5":" Elemental Damage.",
+
+  "dv2.tips.16":"Remember to pick your stats point when preparation phrase. Remember, kids.",
 
 
   "dv2.food.canned_food": "Canned Food",
