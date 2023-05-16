@@ -1,0 +1,16 @@
+
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/echo_shard"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":100001}, "model": "particles/kanji/fire"},
+        {"predicate": {"custom_model_data":100002}, "model": "particles/kanji/water"},
+        {"predicate": {"custom_model_data":100003}, "model": "particles/kanji/wind"},
+        {"predicate": {"custom_model_data":100004}, "model": "particles/kanji/earth"},
+        {"predicate": {"custom_model_data":100005}, "model": "particles/kanji/light"},
+        {"predicate": {"custom_model_data":100006}, "model": "particles/kanji/dark"},
+        {"predicate": {"custom_model_data":100007}, "model": "particles/kanji/colorful"}
+    ]
+}
