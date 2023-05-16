@@ -12,6 +12,7 @@
         {"predicate": {"custom_model_data":100005}, "model": "particles/kanji/light"},
         {"predicate": {"custom_model_data":100006}, "model": "particles/kanji/dark"},
         {"predicate": {"custom_model_data":100007}, "model": "particles/kanji/colorful"},
-        {"predicate": {"custom_model_data":100008}, "model": "particles/combat/atk_buff"}
+        {"predicate": {"custom_model_data":100008}, "model": "particles/combat/atk_buff"},
+        {"predicate": {"custom_model_data":100009}, "model": "particles/combat/arrow_buff"}
     ]
 }
