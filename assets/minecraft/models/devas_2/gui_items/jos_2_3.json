@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "devas_2/gui_items/jos_2_3"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 8, -18, 0 ],
+            "scale": [ 3.4, 3.4, 1 ]
+        }
+    }
+}

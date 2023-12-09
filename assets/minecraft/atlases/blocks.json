@@ -14,6 +14,11 @@
             "type": "directory",
             "source": "particles",
             "prefix": "particles/"
+        },
+        {
+            "type": "directory",
+            "source": "devas_2",
+            "prefix": "devas_2/"
         }
     ]
 }

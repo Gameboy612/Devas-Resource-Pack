@@ -7,6 +7,8 @@
         {"predicate": {"custom_model_data":100000}, "model": "rpg/book/menu"},
         {"predicate": {"custom_model_data":100001}, "model": "rpg/magic_array/simple/level1"},
         {"predicate": {"custom_model_data":100002}, "model": "rpg/magic_array/simple/level1_heal"},
-        {"predicate": {"custom_model_data":100050}, "model": "rpg/mob/rock_prism"}
+        {"predicate": {"custom_model_data":100050}, "model": "rpg/mob/rock_prism"},
+        {"predicate": {"custom_model_data":200000}, "model": "devas_2/gui_items/jos_1_2"},
+        {"predicate": {"custom_model_data":200001}, "model": "devas_2/gui_items/jos_2_3"}
     ]
 }
