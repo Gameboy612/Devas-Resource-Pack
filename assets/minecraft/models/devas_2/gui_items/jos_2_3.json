@@ -6,8 +6,8 @@
     "display": {
         "gui": {
             "rotation": [ 0, 0, 0 ],
-            "translation": [ 8, -18, 0 ],
-            "scale": [ 3.4, 3.4, 1 ]
+            "translation": [ 8.5, -17.5, 0 ],
+            "scale": [ 3.3, 3.3, 1 ]
         }
     }
 }

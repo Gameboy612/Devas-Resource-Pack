@@ -56,8 +56,8 @@ with open(f"{workspace.replace('/textures/', '/models/')}/{folder}_1_2.json", "w
     "display": {
         "gui": {
             "rotation": [ 0, 0, 0 ],
-            "translation": [ 0, -9, 0 ],
-            "scale": [ 2.2, 2.2, 1 ]
+            "translation": [ -0.5, -8.5, 0 ],
+            "scale": [ 2.15, 2.2, 1 ]
         }
     }
 }
@@ -73,8 +73,8 @@ with open(f"{workspace.replace('/textures/', '/models/')}/{folder}_2_3.json", "w
     "display": {
         "gui": {
             "rotation": [ 0, 0, 0 ],
-            "translation": [ 8, -18, 0 ],
-            "scale": [ 3.4, 3.4, 1 ]
+            "translation": [ 8.5, -17.5, 0 ],
+            "scale": [ 3.3, 3.3, 1 ]
         }
     }
 }
