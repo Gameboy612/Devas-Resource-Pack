@@ -17,6 +17,10 @@
         {"predicate": {"custom_model_data":100010}, "model": "particles/combat/def_buff"},
         {"predicate": {"custom_model_data":100011}, "model": "particles/special/meme/sus"},
         {"predicate": {"custom_model_data":100012}, "model": "particles/combat/health_buff"},
-        {"predicate": {"custom_model_data":100013}, "model": "particles/combat/mana_buff"}
+        {"predicate": {"custom_model_data":100013}, "model": "particles/combat/mana_buff"},
+        {"predicate": {"custom_model_data":100014}, "model": "devas_2/flag/flag/gray_flag"},
+        {"predicate": {"custom_model_data":100015}, "model": "devas_2/flag/flag/red_flag"},
+        {"predicate": {"custom_model_data":100016}, "model": "devas_2/flag/flag/blue_flag"},
+        {"predicate": {"custom_model_data":100017}, "model": "devas_2/flag/flag_base/flag_base"}
     ]
 }

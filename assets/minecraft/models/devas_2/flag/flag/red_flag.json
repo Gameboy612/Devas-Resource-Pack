@@ -1,0 +1,8 @@
+{
+	"parent": "devas_2/flag/flag/parent",
+	"textures": {
+		"0": "devas_2/flag/flag_anim_red",
+		"1": "block/spruce_log",
+		"particle": "devas_2/flag/flag_anim_red"
+	}
+}
