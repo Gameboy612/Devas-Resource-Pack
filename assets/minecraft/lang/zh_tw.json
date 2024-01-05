@@ -214,7 +214,9 @@
   "dv2.display.wand": "法杖",
   "dv2.display.weapon": "武器",
   "dv2.display.utility": "雜項",
+  "dv2.display.gadget": "道具" ,
 
+  
   "dv2.display.shop.failed.1": "[商店] ",
   "dv2.display.shop.failed.2": "你沒有足夠的點數！",
   

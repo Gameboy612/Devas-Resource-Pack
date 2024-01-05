@@ -169,6 +169,8 @@
   "dv2.display.wand": "法杖",
   "dv2.display.weapon": "武器",
   "dv2.display.utility": "雜項",
+  "dv2.display.gadget": "道具" ,
+
 
   "dv2.display.weapon.bow": "弓",
   "dv2.display.weapon.melee": "近戰武器",

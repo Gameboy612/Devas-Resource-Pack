@@ -366,6 +366,8 @@
   "dv2.display.wand": "Wand",
   "dv2.display.weapon": "Weapon",
   "dv2.display.utility": "Utilities",
+  "dv2.display.gadget": "Gadget",
+
 
   "dv2.display.shop.failed.1": "[Shop] ",
   "dv2.display.shop.failed.2": "You do not have enough currency!",
@@ -391,6 +393,11 @@
   "dv2.display.spell.buff": "Buff",
   "dv2.display.spell.debuff": "Debuff",
   "dv2.display.spell.others": "Others",
+
+  "dv2.display.gadget.projectile": "Projectile",
+  "dv2.display.gadget.deployable": "Deployable",
+  "dv2.display.gadget.effect": "Effect",
+  "dv2.display.gadget.potion": "Potion",
 
   "dv2.display.loadout.no_group": "No Group",
   "dv2.display.loadout.no_loadout": "No Loadout",
