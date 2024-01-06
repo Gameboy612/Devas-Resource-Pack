@@ -242,6 +242,11 @@
   "dv2.display.spell.debuff": "減益",
   "dv2.display.spell.others": "其他",
 
+  "dv2.display.gadget.projectile": "機動性",
+  "dv2.display.gadget.deployable": "可部署物",
+  "dv2.display.gadget.effect": "效果 (WIP)",
+  "dv2.display.gadget.potion": "藥水",
+
   "dv2.display.loadout.no_group": "尚無分組",
   "dv2.display.loadout.no_loadout": "尚無配置",
   "dv2.display.loadout.click_to_edit": "[點擊 以修改]",
@@ -305,10 +310,10 @@
 
 
   "dv2.weapon.melee.baseball_bat": "棒球棍",
-  "dv2.weapon.melee.baseball_bat.description": "電子遊戲中的經典近戰武器",
+  "dv2.weapon.melee.baseball_bat.description": "電子遊戲中的經典近戰武器。",
 
   "dv2.weapon.melee.iron_sword": "鐵劍",
-  "dv2.weapon.melee.iron_sword.description": "由技術精湛的鐵匠製作",
+  "dv2.weapon.melee.iron_sword.description": "由技術精湛的鐵匠製作。",
 
   "dv2.weapon.melee.dark_knife": "黑刃",
   "dv2.weapon.melee.dark_knife.description": "刺客? 黑刃? Trivago.",
@@ -328,10 +333,10 @@
   "dv2.ability.dark_knife.2.2.4": "",
 
   "dv2.weapon.melee.diamond_sword": "鑽石劍",
-  "dv2.weapon.melee.diamond_sword.description": "經典",
+  "dv2.weapon.melee.diamond_sword.description": "經典。",
 
   "dv2.weapon.melee.excalibur": "王者之劍",
-  "dv2.weapon.melee.excalibur.description": "力量的代價",
+  "dv2.weapon.melee.excalibur.description": "力量的代價。",
 
   "dv2.ability.excalibur.1.0.0": "金光璀璨的聖劍",
   "dv2.ability.excalibur.1.1.0": "手持這把武器時將會獲得",
@@ -351,10 +356,10 @@
   "dv2.ability.leaf_steel_sword.1.1.2":"受治療量",
 
   "dv2.weapon.melee.blaze_sword":"熾焰劍",
-  "dv2.weapon.melee.blaze_sword.description":"由上乘的烈焰粉所製作", 
+  "dv2.weapon.melee.blaze_sword.description":"由上乘的烈焰粉所製作。", 
 
   "dv2.weapon.melee.giant_sword": "巨人之劍",
-  "dv2.weapon.melee.giant_sword.description": "由暮光之神所鍛造的劍",
+  "dv2.weapon.melee.giant_sword.description": "由暮光之神所鍛造的劍。",
 
   "dv2.ability.giant_sword.1.0.0": "防禦是最好的攻擊",
   "dv2.ability.giant_sword.1.1.0": "每 40 DEF 將增加",
@@ -401,7 +406,7 @@
 
 
   "dv2.weapon.melee.soul_scythe": "掠魂之鐮",
-  "dv2.weapon.melee.soul_scythe.description": "吞噬靈魂，將其化作鐮刀的一部分",
+  "dv2.weapon.melee.soul_scythe.description": "吞噬靈魂，將其化作鐮刀的一部分。",
 
   "dv2.ability.soul_scythe.1.0.0": "聚魂者",
   "dv2.ability.soul_scythe.1.1.0": "每次擊殺都會增加 ",
@@ -483,22 +488,22 @@
 
 
   "dv2.weapon.melee.odachi.broken_odachi": "破損的大太刀",
-  "dv2.weapon.melee.odachi.broken_odachi.description": "曾被劍術高手用過",
+  "dv2.weapon.melee.odachi.broken_odachi.description": "曾被劍術高手用過。",
   "dv2.weapon.melee.odachi.wooden_odachi": "木大太刀",
-  "dv2.weapon.melee.odachi.wooden_odachi.description": "使用優質原木打造",
+  "dv2.weapon.melee.odachi.wooden_odachi.description": "使用優質原木打造。",
   "dv2.weapon.melee.odachi.iron_odachi": "鐵大太刀",
-  "dv2.weapon.melee.odachi.iron_odachi.description": "身經百戰",
+  "dv2.weapon.melee.odachi.iron_odachi.description": "身經百戰。",
 
 
   "dv2.weapon.melee.odachi.fire_odachi": "烈焰大太刀",
-  "dv2.weapon.melee.odachi.fire_odachi.description": "開闢道路",
+  "dv2.weapon.melee.odachi.fire_odachi.description": "開闢道路。",
   "dv2.ability.fire_odachi.1.0.0": "烈焰大太刀",
   "dv2.ability.fire_odachi.1.1.0": "有 20% 的機率造成4秒的",
   "dv2.ability.fire_odachi.1.1.2": "效果",
   "dv2.ability.fire_odachi.1.2.0": "(6 HP/秒)",
 
   "dv2.weapon.melee.odachi.poison_odachi": "劇毒大太刀",
-  "dv2.weapon.melee.odachi.poison_odachi.description": "蛇蠍之噬",
+  "dv2.weapon.melee.odachi.poison_odachi.description": "蛇蠍之噬。",
   "dv2.ability.poison_odachi.1.0.0": "劇毒大太刀",
   "dv2.ability.poison_odachi.1.1.0": "有 20% 的機率造成3秒的",
   "dv2.ability.poison_odachi.1.1.2": "效果",
@@ -512,7 +517,7 @@
   "dv2.weapon.melee.odachi.electric_odachi.description": "我是來勢洶洶的風暴！",
 
   "dv2.weapon.melee.odachi.muramasa": "妖刀村正",
-  "dv2.weapon.melee.odachi.muramasa.description": "被惡鬼詛咒的刀，刀中充斥著無盡的血性與混沌",
+  "dv2.weapon.melee.odachi.muramasa.description": "被惡鬼詛咒的刀，刀中充斥著無盡的血性與混沌。",
   "dv2.weapon.melee.odachi.muramasa.description.2": "",
   "dv2.ability.muramasa.1.0.0": "村正",
   "dv2.ability.muramasa.1.1.0": "每擁有",
@@ -565,7 +570,7 @@
 
 
   "dv2.weapon.shield.wooden_shield": "木盾",
-  "dv2.weapon.shield.wooden_shield.description": "您會從RPG遊戲中的初始NPC那裡獲得的盾牌",
+  "dv2.weapon.shield.wooden_shield.description": "您會從RPG遊戲中的初始NPC那裡獲得的盾牌。",
 
   "dv2.weapon.shield.iron_shield": "鐵盾",
   "dv2.weapon.shield.iron_shield.description": "哇哦好閃哦哦哦",
@@ -574,7 +579,7 @@
   "dv2.weapon.shield.bone_shield.description": "咯咯！",
 
   "dv2.weapon.shield.heavy_shield": "重型盾",
-  "dv2.weapon.shield.heavy_shield.description": "由技術精湛的鐵匠製作",
+  "dv2.weapon.shield.heavy_shield.description": "由技術精湛的鐵匠製作。",
 
   "dv2.weapon.shield.bedrock_shield": "基岩盾",
   "dv2.weapon.shield.bedrock_shield.description": "噢！太堅硬了！",
@@ -590,7 +595,7 @@
   "dv2.ability.heavy_shield.2.1.2": "",
 
   "dv2.weapon.shield.plasma_shield": "等離子盾",
-  "dv2.weapon.shield.plasma_shield.description": "充滿力量的魔力盾牌",
+  "dv2.weapon.shield.plasma_shield.description": "充滿力量的魔力盾牌。",
 
   "dv2.ability.plasma_shield.1.0.0": "散發光芒的護盾",
   "dv2.ability.plasma_shield.1.1.0": "手持這面護盾時將會獲得",
@@ -606,7 +611,7 @@
 
 
   "dv2.weapon.shield.mega_shield": "巨盾",
-  "dv2.weapon.shield.mega_shield.description": "由混凝土打造的巨牆",
+  "dv2.weapon.shield.mega_shield.description": "由混凝土打造的巨牆。",
 
   "dv2.ability.mega_shield.1.0.0": "抗擊退",
   "dv2.ability.mega_shield.1.1.0": "獲得 ",
@@ -621,31 +626,31 @@
 
 
   "dv2.weapon.shield.bladed_shield.fire": "盾刃 <火>",
-  "dv2.weapon.shield.bladed_shield.fire.description": "受到火精靈的加護",
+  "dv2.weapon.shield.bladed_shield.fire.description": "受到火精靈的加護。",
 
   "dv2.weapon.shield.bladed_shield.water": "盾刃 <水>",
-  "dv2.weapon.shield.bladed_shield.water.description": "受到水精靈的加護",
+  "dv2.weapon.shield.bladed_shield.water.description": "受到水精靈的加護。",
 
   "dv2.weapon.shield.bladed_shield.wind": "盾刃 <風>",
-  "dv2.weapon.shield.bladed_shield.wind.description": "受到風精靈的加護",
+  "dv2.weapon.shield.bladed_shield.wind.description": "受到風精靈的加護。",
 
   "dv2.weapon.shield.bladed_shield.earth": "盾刃 <土>",
-  "dv2.weapon.shield.bladed_shield.earth.description": "受到土精靈的加護",
+  "dv2.weapon.shield.bladed_shield.earth.description": "受到土精靈的加護。",
 
   "dv2.ability.bladed_shield.1.0.0": "元素抗性",
   "dv2.ability.bladed_shield.1.1.0": "蹲下以切換火、水、風、土四種屬性",
 
   "dv2.weapon.shield.rattan_shield":"藤盾",
-  "dv2.weapon.shield.rattan_shield.description":"完美的燃料",
+  "dv2.weapon.shield.rattan_shield.description":"完美的燃料。",
 
   "dv2.weapon.bow.archers_bow": "射手之弓",
-  "dv2.weapon.bow.archers_bow.description": "一把好老弓",
+  "dv2.weapon.bow.archers_bow.description": "一把好老弓。",
 
   "dv2.weapon.bow.great_bow": "精良弓",
-  "dv2.weapon.bow.great_bow.description": "值得信賴的弓",
+  "dv2.weapon.bow.great_bow.description": "值得信賴的弓。",
 
   "dv2.weapon.bow.heavy_bow": "重型弓",
-  "dv2.weapon.bow.heavy_bow.description": "請小心使用",
+  "dv2.weapon.bow.heavy_bow.description": "請小心使用。",
 
   "dv2.weapon.bow.quick_charge_bow": "速射弩",
   "dv2.weapon.bow.quick_charge_bow.description": "跑啊那裏有盾啊啊啊啊",
@@ -653,7 +658,7 @@
 
 
   "dv2.weapon.bow.nightmare": "夢魘",
-  "dv2.weapon.bow.nightmare.description": "融入漆黑之中，化作夢魘",
+  "dv2.weapon.bow.nightmare.description": "融入漆黑之中，化作夢魘。",
   "dv2.ability.nightmare.1.0.0": "突發驚嚇",
   "dv2.ability.nightmare.1.1.0": "當你拉弓超過",
   "dv2.ability.nightmare.1.1.1": "2秒",
@@ -693,7 +698,7 @@
   "dv2.ability.bladed_bow.2.3.0": "(消耗 Mana)",
 
   "dv2.weapon.wand.scholar_wand.regular": "巫師法杖",
-  "dv2.weapon.wand.scholar_wand.regular.description": "幼兒玩具",
+  "dv2.weapon.wand.scholar_wand.regular.description": "幼兒玩具。",
   "dv2.weapon.wand.scholar_wand.fire": "真紅巫師法杖",
   "dv2.weapon.wand.scholar_wand.fire.description": "加上一抹魔法火焰...",
   "dv2.weapon.wand.scholar_wand.water": "蒼青巫師法杖",
@@ -707,7 +712,7 @@
   "dv2.weapon.wand.scholar_wand.dark": "幽影巫師法杖",
   "dv2.weapon.wand.scholar_wand.dark.description": "以惡念施於惡魔...",
   "dv2.weapon.wand.scholar_wand.rainbow": "彩虹法杖",
-  "dv2.weapon.wand.scholar_wand.rainbow.description": "天翻地覆",
+  "dv2.weapon.wand.scholar_wand.rainbow.description": "天翻地覆。",
   
 
   "dv2.ability.magic_beam.1.0.0": "技能：魔法光束",
@@ -797,7 +802,7 @@
 
 
   "dv2.weapon.wand.waltz": "華爾茲",
-  "dv2.weapon.wand.waltz.description": "以歡快舞步印證昔日風光",
+  "dv2.weapon.wand.waltz.description": "以歡快舞步印證昔日風光。",
 
   "dv2.ability.waltz.echo.1.0.0": "華爾茲的迴聲",
   "dv2.ability.waltz.echo.1.1.0": "射出一發射程為15格，以5ms⁻¹速度行走的衝擊波",
@@ -1216,7 +1221,7 @@
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
 
   "dv2.movement_point":"行動點數 (MP)",
-  "dv2.movement_point.1.0":"你只有一個MP，可用於購買特殊行動",
+  "dv2.movement_point.1.0":"你有三個MP，可用於購買特殊物品",
 
   "dv2.signature_point":"招牌點數 (SP)",
   "dv2.signature_point.1.0":"你只有一個SP，可用於購買招牌首飾",

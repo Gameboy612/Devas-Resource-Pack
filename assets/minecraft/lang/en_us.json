@@ -394,9 +394,9 @@
   "dv2.display.spell.debuff": "Debuff",
   "dv2.display.spell.others": "Others",
 
-  "dv2.display.gadget.projectile": "Projectile",
+  "dv2.display.gadget.projectile": "Mobility",
   "dv2.display.gadget.deployable": "Deployable",
-  "dv2.display.gadget.effect": "Effect",
+  "dv2.display.gadget.effect": "Effect (WIP)",
   "dv2.display.gadget.potion": "Potion",
 
   "dv2.display.loadout.no_group": "No Group",
@@ -1181,6 +1181,20 @@
   "dv2.spells.burst.wind.3.leap.3.0": "",
   "dv2.spells.burst.wind.3.leap.3.1": "",
 
+  "dv2.spells.burst.fire.2.blast_jump": "Blast Jump (Level 2)",
+  "dv2.spells.burst.fire.2.blast_jump.0": "<Lv 2 - Burst - Fire>",
+  "dv2.spells.burst.fire.2.blast_jump.1": "",
+  "dv2.spells.burst.fire.2.blast_jump.2": "",
+  "dv2.spells.burst.fire.2.blast_jump.3.0": "",
+  "dv2.spells.burst.fire.2.blast_jump.3.1": "",
+
+  "dv2.spells.burst.earth.2.accelerock": "Accelerock (Level 2)",
+  "dv2.spells.burst.earth.2.accelerock.0": "<Lv 2 - Burst - Earth>",
+  "dv2.spells.burst.earth.2.accelerock.1": "",
+  "dv2.spells.burst.earth.2.accelerock.2": "",
+  "dv2.spells.burst.earth.2.accelerock.3.0": "",
+  "dv2.spells.burst.earth.2.accelerock.3.1": "",
+
   "dv2.artifacts.berserker":"Berserker",
   "dv2.artifacts.berserker.1.0":"Increase STR by 15 when HP lower Than 50%.",
   "dv2.artifacts.berserker.2.0":"Increase STR by 30 when HP lower Than 33%.",
@@ -1382,7 +1396,7 @@
   "dv2.point.1.0":"You can use PT to buy weapon, artifacts, item and array.",
 
   "dv2.movement_point":"Movement Point (MP)",
-  "dv2.movement_point.1.0":"You have only one MP for purchasing special movement.",
+  "dv2.movement_point.1.0":"You have 3 MP for purchasing special item.",
 
   "dv2.signature_point":"Signature Point (SP)",
   "dv2.signature_point.1.0":"You have only one SP for purchasing signature artifacts.",
