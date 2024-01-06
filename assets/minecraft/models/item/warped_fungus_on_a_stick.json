@@ -135,6 +135,11 @@
     {"predicate": {"custom_model_data":7000012}, "model": "rpg/weapon/devas_2/dagger/jormungandrs_tooth"},
     {"predicate": {"custom_model_data":7000013}, "model": "rpg/weapon/devas_2/dagger/jormungandrs_tooth"},
     {"predicate": {"custom_model_data":7000014}, "model": "rpg/weapon/devas_2/soul_scythe"},
-    {"predicate": {"custom_model_data":7000015}, "model": "rpg/weapon/devas_2/soul_scythe"}
+    {"predicate": {"custom_model_data":7000015}, "model": "rpg/weapon/devas_2/soul_scythe"},
+
+    {"predicate": {"custom_model_data":7100000}, "model": "rpg/gadget/small_potion/red"},
+    {"predicate": {"custom_model_data":7100001}, "model": "rpg/gadget/small_potion/blue"},
+    {"predicate": {"custom_model_data":7100002}, "model": "rpg/gadget/large_potion/red"},
+    {"predicate": {"custom_model_data":7100003}, "model": "rpg/gadget/large_potion/blue"}
   ]
 }
