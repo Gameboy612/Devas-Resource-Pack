@@ -1392,7 +1392,7 @@
   "dv2.gadget.ice_cage.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 60s", 
   "dv2.gadget.ice_cage.2.0": "Right-click to set a 7x7x5 Ice Cage centered on the player that lasts for 7 seconds.",
 
-  "dv2.gadget.instant_barrier": "Instant Barrier",
+  "dv2.gadget.instant_barrier": "Ice Barrier",
   "dv2.gadget.instant_barrier.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s", 
   "dv2.gadget.instant_barrier.2.0": "Right-click to set a 2-block wide ice wall in front of the user.",
   "dv2.gadget.instant_barrier.3.0": "The wall will be destroyed after 30 seconds, or being hit for 40 times with melee.",
@@ -1409,7 +1409,7 @@
   "dv2.gadget.large_mana_potion.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 30s/1", 
   "dv2.gadget.large_mana_potion.2.0": "After 8 seconds of using, regenerate 100% of max Mana.",
 
-  "dv2.gadget.small_mana_potion": "Small Healing Potion",
+  "dv2.gadget.small_mana_potion": "Small Mana Potion",
   "dv2.gadget.small_mana_potion.1.0": "Maximum Carrying Amount: 3 | Regenerate CD: 15s/1", 
   "dv2.gadget.small_mana_potion.2.0": "After 5 seconds of using, regenerate 33% of max Mana.",
 

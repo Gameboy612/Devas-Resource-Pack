@@ -1,0 +1,7 @@
+{
+	"parent": "rpg/gadget/potion/large_parent",
+	"textures": {
+		"0": "rpg/gadget/potion/bottle",
+		"1": "rpg/gadget/potion/blue"
+	}
+}

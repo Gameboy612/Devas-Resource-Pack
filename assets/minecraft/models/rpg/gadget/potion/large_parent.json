@@ -1,0 +1,144 @@
+{
+	"credit": "Made by lavafoxerex",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "rpg/gadget/potion/bottle",
+		"1": "rpg/gadget/potion/red",
+		"particle": "rpg/gadget/potion/bottle"
+	},
+	"elements": [
+		{
+			"from": [5, 7, 5],
+			"to": [11, 8, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 0, 5]},
+			"faces": {
+				"north": {"uv": [0, 2.5, 3, 3], "texture": "#0"},
+				"east": {"uv": [0, 2.5, 3, 3], "texture": "#0"},
+				"south": {"uv": [0, 2.5, 3, 3], "texture": "#0"},
+				"west": {"uv": [0, 2.5, 3, 3], "texture": "#0"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"down": {"uv": [3, 3, 6, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 0, 5],
+			"to": [11, 1, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 0, 5]},
+			"faces": {
+				"north": {"uv": [0, 6, 3, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 6, 3, 6.5], "texture": "#0"},
+				"south": {"uv": [0, 6, 3, 6.5], "texture": "#0"},
+				"west": {"uv": [0, 6, 3, 6.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"down": {"uv": [3, 3, 6, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 9, 6],
+			"to": [10, 11, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 0, 5]},
+			"faces": {
+				"north": {"uv": [2.5, 1, 4.5, 2], "texture": "#0"},
+				"east": {"uv": [4, 1, 6, 2], "texture": "#0"},
+				"south": {"uv": [2.5, 1, 4.5, 2], "texture": "#0"},
+				"west": {"uv": [4, 1, 6, 2], "texture": "#0"},
+				"up": {"uv": [4, 1, 6, 3], "texture": "#0"},
+				"down": {"uv": [4, 1, 6, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 8, 6.5],
+			"to": [9.5, 9, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.5, 0, 5.5]},
+			"faces": {
+				"north": {"uv": [3.5, 0, 5, 0.5], "texture": "#0"},
+				"east": {"uv": [2.5, 0, 4, 0.5], "texture": "#0"},
+				"south": {"uv": [3.5, 0, 5, 0.5], "texture": "#0"},
+				"west": {"uv": [2.5, 0, 4, 0.5], "texture": "#0"},
+				"up": {"uv": [8, 1, 9.5, 2.5], "texture": "#0"},
+				"down": {"uv": [8, 1, 9.5, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 11, 6.5],
+			"to": [9.5, 12, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.5, 0, 5.5]},
+			"faces": {
+				"north": {"uv": [6.5, 0, 8, 0.5], "texture": "#0"},
+				"east": {"uv": [6.5, 0, 8, 0.5], "texture": "#0"},
+				"south": {"uv": [6.5, 0, 8, 0.5], "texture": "#0"},
+				"west": {"uv": [6.5, 0, 8, 0.5], "texture": "#0"},
+				"up": {"uv": [6.5, 0, 8, 1.5], "texture": "#0"},
+				"down": {"uv": [6.5, 0, 8, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 1, 4.5],
+			"to": [11.5, 7, 11.5],
+			"faces": {
+				"north": {"uv": [0, 6.5, 3.5, 9.5], "texture": "#0"},
+				"east": {"uv": [0, 6.5, 3.5, 9.5], "texture": "#0"},
+				"south": {"uv": [0, 6.5, 3.5, 9.5], "texture": "#0"},
+				"west": {"uv": [0, 6.5, 3.5, 9.5], "texture": "#0"},
+				"up": {"uv": [3.5, 6, 7, 9.5], "texture": "#0"},
+				"down": {"uv": [6, 2.5, 9.5, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.05, 0.05, 5.05],
+			"to": [10.95, 7.95, 10.95],
+			"faces": {
+				"north": {"uv": [0, 0, 5.9, 7.9], "texture": "#1"},
+				"east": {"uv": [0, 0, 5.9, 7.9], "texture": "#1"},
+				"south": {"uv": [0, 0, 5.9, 7.9], "texture": "#1"},
+				"west": {"uv": [0, 0, 5.9, 7.9], "texture": "#1"},
+				"up": {"uv": [0, 0, 5.9, 5.9], "texture": "#1"},
+				"down": {"uv": [0, 0, 5.9, 5.9], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.25, 2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.25, 2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-12.5, 12.5, 19.25],
+			"translation": [0, 5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-12.5, 12.5, 19.25],
+			"translation": [0, 5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [9.86, -20.54, -17.81],
+			"translation": [0.5, 2.25, 0]
+		},
+		"head": {
+			"translation": [0, -6, 0],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 2, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [4.5, 0, 5.5],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		},
+		6
+	]
+}

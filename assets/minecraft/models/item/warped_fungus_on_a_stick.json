@@ -137,10 +137,10 @@
     {"predicate": {"custom_model_data":7000014}, "model": "rpg/weapon/devas_2/soul_scythe"},
     {"predicate": {"custom_model_data":7000015}, "model": "rpg/weapon/devas_2/soul_scythe"},
 
-    {"predicate": {"custom_model_data":7100000}, "model": "rpg/gadget/small_potion/red"},
-    {"predicate": {"custom_model_data":7100001}, "model": "rpg/gadget/small_potion/blue"},
-    {"predicate": {"custom_model_data":7100002}, "model": "rpg/gadget/large_potion/red"},
-    {"predicate": {"custom_model_data":7100003}, "model": "rpg/gadget/large_potion/blue"},
+    {"predicate": {"custom_model_data":7100000}, "model": "rpg/gadget/potion/small_red"},
+    {"predicate": {"custom_model_data":7100001}, "model": "rpg/gadget/potion/small_blue"},
+    {"predicate": {"custom_model_data":7100002}, "model": "rpg/gadget/potion/large_red"},
+    {"predicate": {"custom_model_data":7100003}, "model": "rpg/gadget/potion/large_blue"},
     {"predicate": {"custom_model_data":7100004}, "model": "rpg/gadget/ice_wall"},
     {"predicate": {"custom_model_data":7100005}, "model": "rpg/gadget/ice_cage"}
   ]
