@@ -251,6 +251,17 @@
   "rpg.ui.mana.31": "\uF80B\uF80A\uF805\uCD30\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD35\uF801\uF82B\uF82A\uF825",
   "rpg.ui.mana.32": "\uF80B\uF80A\uF805\uCD30\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD32\uF801\uCD31\uF801\uF82B\uF82A\uF825",
 
+  "rpg.ui.burn": "\u1011",
+  "rpg.ui.freeze": "\u1012",
+  "rpg.ui.paralyze": "\u1013",
+  "rpg.ui.poison": "\u1014",
+  "rpg.ui.seal": "\u1015",
+  "rpg.ui.chaos": "\u1016",
+  "rpg.ui.sword": "\u1000",
+  "rpg.ui.sword_debuff": "\u1001",
+  "rpg.ui.shield": "\u1002",
+  "rpg.ui.shield_debuff": "\u1003",
+  "rpg.ui.ability_slot": "\u1000",
 
   "game.achievements": "Game Achievements",
 
