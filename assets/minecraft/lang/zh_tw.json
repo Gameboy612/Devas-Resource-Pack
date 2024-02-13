@@ -217,8 +217,9 @@
   "dv2.display.gadget": "道具" ,
 
   
-  "dv2.display.shop.failed.1": "[商店] ",
-  "dv2.display.shop.failed.2": "你沒有足夠的點數！",
+  "dv2.display.shop.name": "[商店] ",
+  "dv2.display.shop.failed.maximum_count": "You have reached the maximum carrying amount of this item already!",
+  "dv2.display.shop.failed.not_enough_points": "你沒有足夠的點數！",
   
   
   "dv2.display.allocate_point.failed": "你沒有足夠的分配點！",
