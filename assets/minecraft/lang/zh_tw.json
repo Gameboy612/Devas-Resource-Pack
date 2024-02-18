@@ -273,7 +273,9 @@
   "dv2.ability.generic.stamina_cost": "-%s Stamina",
   "dv2.ability.generic.mana_cost": "-%s Mana",
 
-
+  "dv2.gui.selected": "已選擇",
+  "dv2.gui.category.selected": "⮞  %s",
+  "dv2.gui.category.all": "所有",
   "dv2.gui.category.weapon": "武器",
   "dv2.gui.category.perk": "被動",
   "dv2.gui.category.gadget": "道具",
