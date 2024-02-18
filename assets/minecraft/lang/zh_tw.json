@@ -1184,8 +1184,8 @@
   "dv2.spells.burst.wind.3.leap.3.1": "",
 
   "dv2.artifacts.berserker":"狂戰士",
-  "dv2.artifacts.berserker.1.0":"在 HP 低於 50% 時增加 15 STR",
-  "dv2.artifacts.berserker.2.0":"在 HP 低於 33% 時增加 30 STR",
+  "dv2.artifacts.berserker.1.0":"在 HP 低於 50% 時增加 15 🗡STR",
+  "dv2.artifacts.berserker.2.0":"在 HP 低於 33% 時增加 30 🗡STR",
 
   "dv2.artifacts.unyielding_heart":"不屈之心",
   "dv2.artifacts.unyielding_heart.1.0":"在 HP 低於 50% 時增加 15% DEF",
@@ -1203,9 +1203,9 @@
   "dv2.artifacts.shield.3.1.0":"拿著盾牌時增加 40 DEF",
     
   "dv2.artifacts.warrior.1":"戰士 I",
-  "dv2.artifacts.warrior.1.1.0":"不持盾時增加 5 STR",
+  "dv2.artifacts.warrior.1.1.0":"不持盾時增加 5 🗡STR",
   "dv2.artifacts.warrior.2":"戰士 II",
-  "dv2.artifacts.warrior.2.1.0":"不持盾時增加 15 STR",
+  "dv2.artifacts.warrior.2.1.0":"不持盾時增加 15 🗡STR",
 
   "dv2.artifacts.shooter.1":"射手 I",
   "dv2.artifacts.shooter.1.1.0":"不持盾時增加 5 🏹STR",
@@ -1231,7 +1231,7 @@
 
 
   "dv2.artifacts.resistor":"電阻器",
-  "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 30 STR",
+  "dv2.artifacts.resistor.1.0":"當擁有負面效果時增加 30 🗡STR",
 
   "dv2.artifacts.tank":"坦克",
   "dv2.artifacts.tank.1.0":"每一位半徑6格範圍內的隊友，",
@@ -1246,17 +1246,17 @@
 
   "dv2.artifacts.vikings":"維京人",
   "dv2.artifacts.vikings.1.0":"每一位半徑6格範圍內的隊友，",
-  "dv2.artifacts.vikings.2.0":"將會增加你 5 STR",
-  "dv2.artifacts.vikings.3.0":"使用時增加 5 STR",
+  "dv2.artifacts.vikings.2.0":"將會增加你 5 🗡STR",
+  "dv2.artifacts.vikings.3.0":"使用時增加 5 🗡STR",
   
   "dv2.artifacts.vampire.1":"吸血鬼 I",
-  "dv2.artifacts.vampire.1.1.0":"全類型STR 減少 10",
+  "dv2.artifacts.vampire.1.1.0":"🗡🏹STR 減少 10",
   "dv2.artifacts.vampire.1.2.0":"吸收 5% 的傷害作為治療",
   "dv2.artifacts.vampire.2":"吸血鬼 II",
-  "dv2.artifacts.vampire.2.1.0":"全類型STR 減少 10",
+  "dv2.artifacts.vampire.2.1.0":"🗡🏹STR 減少 10",
   "dv2.artifacts.vampire.2.2.0":"吸收 10% 的傷害作為治療",
   "dv2.artifacts.vampire.3":"吸血鬼 III",
-  "dv2.artifacts.vampire.3.1.0":"全類型STR 減少 10",
+  "dv2.artifacts.vampire.3.1.0":"🗡🏹STR 減少 10",
   "dv2.artifacts.vampire.3.2.0":"吸收 15% 的傷害作為治療",
   "dv2.artifacts.vampire.3.3.0":"擊殺敵人後，",
   "dv2.artifacts.vampire.3.4.0":"回復等同於敵人最大 HP 的 25%",
@@ -1275,18 +1275,18 @@
 
 
   "dv2.artifacts.fighter":"鬥士",
-  "dv2.artifacts.fighter.1.0":"當你的 DEF 低於 20 時，增加 30 STR",
-  "dv2.artifacts.fighter.2.0":"持有此飾品時，你的 STR 將不會超過 40",
+  "dv2.artifacts.fighter.1.0":"當你的 DEF 低於 20 時，增加 30 🗡STR",
+  "dv2.artifacts.fighter.2.0":"持有此飾品時，你的 🗡STR 將不會超過 40",
   "dv2.artifacts.soldier":"軍人",
-  "dv2.artifacts.soldier.1.0":"當你的最大 HP 低於 115 時，增加 30 STR",
-  "dv2.artifacts.soldier.2.0":"持有此飾品時，你的 STR 將不會超過 40",
+  "dv2.artifacts.soldier.1.0":"當你的最大 HP 低於 115 時，增加 30 🗡STR",
+  "dv2.artifacts.soldier.2.0":"持有此飾品時，你的 🗡STR 將不會超過 40",
 
 
   "dv2.artifacts.rose_of_void":"奈落之瑰",
   "dv2.artifacts.rose_of_void.1.0":"將半徑 7 格範圍內敵人的 DEF 降至 50%",
 
   "dv2.artifacts.pearl_of_abyss":"虛淵珍珠",
-  "dv2.artifacts.pearl_of_abyss.1.0":"減少半徑 7 格範圍內的敵人 40 全類型STR",
+  "dv2.artifacts.pearl_of_abyss.1.0":"減少半徑 7 格範圍內的敵人 40 🗡🏹STR",
 
   "dv2.artifacts.drip_of_acheron":"黃泉之淚",
   "dv2.artifacts.drip_of_acheron.1.0":"將半徑 7 格範圍內敵人的治療幅度降至 50%",
@@ -1299,12 +1299,12 @@
 
   "dv2.artifacts.cast_off":"蛻殻",
   "dv2.artifacts.cast_off.1.0":"當生命值低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
-  "dv2.artifacts.cast_off.2.0":"同時增加 50 STR 及 20% SPD",
+  "dv2.artifacts.cast_off.2.0":"同時增加 50 🗡STR 及 20% SPD",
 
   "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
   "dv2.artifacts.battle_flag_attack.1.0":"使用時減少 20 DEF，並獲得發光效果。",
-  "dv2.artifacts.battle_flag_attack.2.0":"增加 40 STR,",
-  "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑6格範圍內的隊友，將會減少你 40 STR",
+  "dv2.artifacts.battle_flag_attack.2.0":"增加 40 🗡STR,",
+  "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑6格範圍內的隊友，將會減少你 40 🗡STR",
   "dv2.artifacts.battle_flag_attack.4.0":"(上限：1位玩家)",
   "dv2.artifacts.battle_flag_defend":"戰旗 <防禦模式>",
   "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% SPD, 25% DMG，並獲得發光效果。",
@@ -1326,7 +1326,7 @@
 
   "dv2.artifacts.command_flag_attack":"指揮旗 <攻擊模式>",
   "dv2.artifacts.command_flag_attack.1.0":"使用時減少 15% DEF 及 DMG，並獲得發光效果。",
-  "dv2.artifacts.command_flag_attack.2.0":"增加半徑10格範圍內的隊友 30% 全屬性DMG",
+  "dv2.artifacts.command_flag_attack.2.0":"增加半徑10格範圍內的隊友 30 🗡🏹STR",
   "dv2.artifacts.command_flag_defend":"指揮旗 <防禦模式>",
   "dv2.artifacts.command_flag_defend.1.0":"使用時減少 15% DEF 及 DMG，並獲得發光效果。",
   "dv2.artifacts.command_flag_defend.2.0":"增加半徑10格範圍內的隊友 30% 物理&全屬性DEF",
@@ -1373,7 +1373,7 @@
   "dv2.artifacts.fiesta.1.0": "增加 100% 全屬性EM",
 
   "dv2.artifacts.lone_wolf": "孤狼",
-  "dv2.artifacts.lone_wolf.1.0": "增加 50 全類型STR, 20% SPD, 25 吸血及減少 50% 技能 Stamina 消耗。",
+  "dv2.artifacts.lone_wolf.1.0": "增加 50 🗡🏹STR, 20% SPD, 25 吸血及減少 50% 技能 Stamina 消耗。",
   
   "dv2.artifacts.nihility": "虛無",
   "dv2.artifacts.nihility.1.0": "當你的 HP 高於 70% 時獲得隱形效果，",

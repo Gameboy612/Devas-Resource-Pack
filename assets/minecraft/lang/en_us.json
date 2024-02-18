@@ -1491,7 +1491,7 @@
 
   "dv2.artifacts.battle_flag_defend":"Battle Flag <Defend>",
   "dv2.artifacts.battle_flag_defend.1.0":"Reduce 10% SPD, 25% DAMAGE and receive Glowing effect while using.",
-  "dv2.artifacts.battle_flag_defend.2.0":"Increase 50% DEF.",
+  "dv2.artifacts.battle_flag_defend.2.0":"Increase 40 DEF.",
   "dv2.artifacts.battle_flag_support":"Battle Flag <Support>",
   "dv2.artifacts.battle_flag_support.1.0":"Reduce 15% DEF, DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.battle_flag_support.2.0":"Increase 10% SPD.",
