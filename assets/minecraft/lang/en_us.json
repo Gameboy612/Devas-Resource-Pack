@@ -1436,13 +1436,13 @@
   "dv2.artifacts.vikings.3.0":"Gain 5 STR while using.",
   
   "dv2.artifacts.vampire.1":"Vampire I",
-  "dv2.artifacts.vampire.1.1.0":"REDUCED 10 ALL STR while using.",
+  "dv2.artifacts.vampire.1.1.0":"REDUCED 10 🗡🏹 STR while using.",
   "dv2.artifacts.vampire.1.2.0":"Increase 5 Lifesteal",
   "dv2.artifacts.vampire.2":"Vampire II",
-  "dv2.artifacts.vampire.2.1.0":"REDUCED 10 ALL STR while using.",
+  "dv2.artifacts.vampire.2.1.0":"REDUCED 10 🗡🏹 STR while using.",
   "dv2.artifacts.vampire.2.2.0":"Increase 10 Lifesteal",
   "dv2.artifacts.vampire.3":"Vampire III",
-  "dv2.artifacts.vampire.3.1.0":"REDUCED 10 ALL STR while using.",
+  "dv2.artifacts.vampire.3.1.0":"REDUCED 10 🗡🏹 STR while using.",
   "dv2.artifacts.vampire.3.2.0":"Increase 15 Lifesteal",
   "dv2.artifacts.vampire.3.3.0":"After killing the enemy, restores 25% of",
   "dv2.artifacts.vampire.3.4.0":"the enemy's Max HP.",
@@ -1472,14 +1472,14 @@
   "dv2.artifacts.rose_of_void.1.0":"Reduce enemy 50% DEF in an area of 7 blocks radius.",
 
   "dv2.artifacts.pearl_of_abyss":"Pearl of Abyss",
-  "dv2.artifacts.pearl_of_abyss.1.0":"Reduce enemy 40 ALL STR in an area of 7 blocks radius.",
+  "dv2.artifacts.pearl_of_abyss.1.0":"Reduce enemy 40 🗡🏹 STR in an area of 7 blocks radius.",
 
   "dv2.artifacts.drip_of_acheron":"Drip of Acheron",
   "dv2.artifacts.drip_of_acheron.1.0":"Reduce enemy 50% Heal Rate in an area of 7 blocks radius.",
 
   "dv2.artifacts.awakened":"Awakened",
   "dv2.artifacts.awakened.1.0":"You will receive Blindness effect.",
-  "dv2.artifacts.awakened.2.0":"Increase 33% ALL Magic DMG and Base Mana.",
+  "dv2.artifacts.awakened.2.0":"Increase 33% Magic DMG and Base Mana.",
 
   "dv2.artifacts.cast_off":"Cast Off",
   "dv2.artifacts.cast_off.1.0":"Reduce 20 DEF and your DEF WON'T BE OVER 0 when HP lower than 50%,",
@@ -1487,16 +1487,15 @@
 
   "dv2.artifacts.battle_flag_attack":"Battle Flag <Attack>",
   "dv2.artifacts.battle_flag_attack.1.0":"Reduce 20 DEF and receive Glowing effect while using.",
-  "dv2.artifacts.battle_flag_attack.2.0":"Increase 40 STR.",
-  "dv2.artifacts.battle_flag_attack.3.0":"Your STR is REDUCED by 40 per teammate within a 6 block radius.",
-  "dv2.artifacts.battle_flag_attack.4.0":"(Maximum: 1 players)",
+  "dv2.artifacts.battle_flag_attack.2.0":"Gain 40 STR when no teammates within 6 block radius.",
+
   "dv2.artifacts.battle_flag_defend":"Battle Flag <Defend>",
   "dv2.artifacts.battle_flag_defend.1.0":"Reduce 10% SPD, 25% DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.battle_flag_defend.2.0":"Increase 50% DEF.",
   "dv2.artifacts.battle_flag_support":"Battle Flag <Support>",
   "dv2.artifacts.battle_flag_support.1.0":"Reduce 15% DEF, DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.battle_flag_support.2.0":"Increase 10% SPD.",
-  "dv2.artifacts.battle_flag_support.3.0":"Heal teammate 5 HP per 5 seconds and incrase them Base Mana in an area of 7 blocks radius.",
+  "dv2.artifacts.battle_flag_support.3.0":"Heal teammate 5 HP per 5 seconds and incrase their 50% Base Mana in an area of 7 blocks radius.",
 
   "dv2.artifacts.battle_flag_change":"(Sneak to cycle between 3 mode)",
 
@@ -1510,10 +1509,10 @@
 
   "dv2.artifacts.command_flag_attack":"Command Flag <Attack>",
   "dv2.artifacts.command_flag_attack.1.0":"Reduce 15% DEF, DAMAGE and receive Glowing effect while using.",
-  "dv2.artifacts.command_flag_attack.2.0":"Increase teammate 30% ALL Elemental DMG in an area of 10 blocks radius.",
+  "dv2.artifacts.command_flag_attack.2.0":"Increase teammate 30 🗡🏹 STR in an area of 10 blocks radius.",
   "dv2.artifacts.command_flag_defend":"Command Flag <Defend>",
   "dv2.artifacts.command_flag_defend.1.0":"Reduce 15% DEF, DAMAGE and receive Glowing effect while using.",
-  "dv2.artifacts.command_flag_defend.2.0":"Increase teammate 30% ALL DEF in an area of 10 blocks radius.",
+  "dv2.artifacts.command_flag_defend.2.0":"Increase teammate 35% DEF and 10 ALL AFF in an area of 10 blocks radius.",
   "dv2.artifacts.command_flag_escape":"Command Flag <Escape>",
   "dv2.artifacts.command_flag_escape.1.0":"Reduce 10% DEF, DAMAGE and Increase 10% SPD while using.",
   "dv2.artifacts.command_flag_escape.2.0":"Heal teammate 8 HP per 3 seconds and increase them 10% SPD in an area of 10 blocks radius.",
@@ -1526,7 +1525,7 @@
   "dv2.artifacts.defender.3.0":"Your teammate in an area of 5 blocks radius will immune Glowing effect.",
 
   "dv2.artifacts.shelter":"Shelter",
-  "dv2.artifacts.shelter.1.0":"Reduce 1s ATK-SPD and incrase 60 HP while using.",
+  "dv2.artifacts.shelter.1.0":"Delay 1s ATK-SPD and incrase 60 HP while using.",
   "dv2.artifacts.shelter.2.0":"When your HP is more than 40%,",
   "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invisibility effect.",
 
@@ -1555,7 +1554,7 @@
   "dv2.artifacts.fiesta.1.0": "Increase 100% All EM.",
 
   "dv2.artifacts.lone_wolf": "Lone Wolf",
-  "dv2.artifacts.lone_wolf.1.0": "Increase 50 ALL STR, 20% SPD, 25 Lifesteal and reduce 50% Ability Stamina Cost.",
+  "dv2.artifacts.lone_wolf.1.0": "Increase 50 🗡🏹 STR, 20% SPD, 25 Lifesteal and reduce 50% Ability Stamina Cost.",
 
   "dv2.artifacts.nihility": "Nihility",
   "dv2.artifacts.nihility.1.0": "Receive Invisibility effect when your HP is more than 70%",
