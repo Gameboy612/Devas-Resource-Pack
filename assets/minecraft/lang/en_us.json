@@ -436,7 +436,9 @@
   "dv2.ability.generic.stamina_cost": "-%s Stamina",
   "dv2.ability.generic.mana_cost": "-%s Mana",
 
-
+  "dv2.gui.selected": "Selected",
+  "dv2.gui.category.selected": "⮞  %s",
+  "dv2.gui.category.all": "All",
   "dv2.gui.category.weapon": "Weapon",
   "dv2.gui.category.perk": "Perk",
   "dv2.gui.category.gadget": "Gadget",
