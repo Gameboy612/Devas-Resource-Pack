@@ -1370,8 +1370,8 @@
   "dv2.spells.burst.earth.2.accelerock.3.1": "",
 
   "dv2.artifacts.berserker":"Berserker",
-  "dv2.artifacts.berserker.1.0":"Increase STR by 15 when HP lower Than 50%.",
-  "dv2.artifacts.berserker.2.0":"Increase STR by 30 when HP lower Than 33%.",
+  "dv2.artifacts.berserker.1.0":"Increase 🗡STR by 15 when HP lower Than 50%.",
+  "dv2.artifacts.berserker.2.0":"Increase 🗡STR by 30 when HP lower Than 33%.",
 
   "dv2.artifacts.unyielding_heart":"Unyielding Heart",
   "dv2.artifacts.unyielding_heart.1.0":"Increase DEF by 15% when HP lower Than 50%.",
@@ -1389,9 +1389,9 @@
   "dv2.artifacts.shield.3.1.0":"Increase 40 DEF when holding a shield.",
 
   "dv2.artifacts.warrior.1":"Warrior I",
-  "dv2.artifacts.warrior.1.1.0":"Increase 5 STR when not holding shield.",
+  "dv2.artifacts.warrior.1.1.0":"Increase 5 🗡STR when not holding shield.",
   "dv2.artifacts.warrior.2":"Warrior II",
-  "dv2.artifacts.warrior.2.1.0":"Increase 15 STR when not holding shield.",
+  "dv2.artifacts.warrior.2.1.0":"Increase 15 🗡STR when not holding shield.",
 
   "dv2.artifacts.shooter.1":"Shooter I",
   "dv2.artifacts.shooter.1.1.0":"Increase 5 🏹STR when not holding shield.",
@@ -1417,7 +1417,7 @@
 
 
   "dv2.artifacts.resistor":"Resistor",
-  "dv2.artifacts.resistor.1.0":"Increase 30 STR when you have a negative effect.",
+  "dv2.artifacts.resistor.1.0":"Increase 30 🗡STR when you have a negative effect.",
 
   "dv2.artifacts.tank":"Tank",
   "dv2.artifacts.tank.1.0":"Your DEF is Increase by 12",
@@ -1431,9 +1431,9 @@
   "dv2.artifacts.wanderer.4.0":"(Maximum: -10 🏹STR)",
 
   "dv2.artifacts.vikings":"Vikings",
-  "dv2.artifacts.vikings.1.0":"Your STR is Increase by 5",
+  "dv2.artifacts.vikings.1.0":"Your 🗡STR is Increase by 5",
   "dv2.artifacts.vikings.2.0":"per teammate within a 6 block radius.",
-  "dv2.artifacts.vikings.3.0":"Gain 5 STR while using.",
+  "dv2.artifacts.vikings.3.0":"Gain 5 🗡STR while using.",
   
   "dv2.artifacts.vampire.1":"Vampire I",
   "dv2.artifacts.vampire.1.1.0":"REDUCED 10 🗡🏹 STR while using.",
@@ -1460,11 +1460,11 @@
 
 
   "dv2.artifacts.fighter":"Fighter",
-  "dv2.artifacts.fighter.1.0":"Increase 30 STR when your DEF lower than 20.",
-  "dv2.artifacts.fighter.2.0":"Your STR WILL NOT OVER 40 while holding this artifacts.",
+  "dv2.artifacts.fighter.1.0":"Increase 30 🗡STR when your DEF lower than 20.",
+  "dv2.artifacts.fighter.2.0":"Your 🗡STR WILL NOT OVER 40 while holding this artifacts.",
   "dv2.artifacts.soldier":"Soldier",
-  "dv2.artifacts.soldier.1.0":"Increase 30 STR when your Max HP lower than 115.",
-  "dv2.artifacts.soldier.2.0":"Your STR WILL NOT OVER 40 while holding this artifacts.",
+  "dv2.artifacts.soldier.1.0":"Increase 30 🗡STR when your Max HP lower than 115.",
+  "dv2.artifacts.soldier.2.0":"Your 🗡STR WILL NOT OVER 40 while holding this artifacts.",
 
 
 
@@ -1483,11 +1483,11 @@
 
   "dv2.artifacts.cast_off":"Cast Off",
   "dv2.artifacts.cast_off.1.0":"Reduce 20 DEF and your DEF WON'T BE OVER 0 when HP lower than 50%,",
-  "dv2.artifacts.cast_off.2.0":"increase 50 STR and 20% SPD. ",
+  "dv2.artifacts.cast_off.2.0":"increase 50 🗡STR and 20% SPD. ",
 
   "dv2.artifacts.battle_flag_attack":"Battle Flag <Attack>",
   "dv2.artifacts.battle_flag_attack.1.0":"Reduce 20 DEF and receive Glowing effect while using.",
-  "dv2.artifacts.battle_flag_attack.2.0":"Gain 40 STR when no teammates within 6 block radius.",
+  "dv2.artifacts.battle_flag_attack.2.0":"Gain 40 🗡STR when no teammates within 6 block radius.",
 
   "dv2.artifacts.battle_flag_defend":"Battle Flag <Defend>",
   "dv2.artifacts.battle_flag_defend.1.0":"Reduce 10% SPD, 25% DAMAGE and receive Glowing effect while using.",
