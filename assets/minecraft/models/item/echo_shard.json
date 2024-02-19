@@ -21,6 +21,11 @@
         {"predicate": {"custom_model_data":100014}, "model": "devas_2/flag/flag/gray_flag"},
         {"predicate": {"custom_model_data":100015}, "model": "devas_2/flag/flag/red_flag"},
         {"predicate": {"custom_model_data":100016}, "model": "devas_2/flag/flag/blue_flag"},
-        {"predicate": {"custom_model_data":100017}, "model": "devas_2/flag/flag_base/flag_base"}
+        {"predicate": {"custom_model_data":100017}, "model": "devas_2/flag/flag_base/flag_base"},
+        {"predicate": {"custom_model_data":100018}, "model": "particles/effects/sweep/1"},
+        {"predicate": {"custom_model_data":100019}, "model": "particles/effects/sweep/2"},
+        {"predicate": {"custom_model_data":100020}, "model": "particles/effects/sweep/3"},
+        {"predicate": {"custom_model_data":100021}, "model": "particles/effects/sweep/4"},
+        {"predicate": {"custom_model_data":100022}, "model": "particles/effects/sweep/5"}
     ]
 }
