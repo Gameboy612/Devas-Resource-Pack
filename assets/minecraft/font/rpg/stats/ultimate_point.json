@@ -42,21 +42,21 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:rpg/ui/_new_statsbar/ultimate_point/1.png",
+            "file": "minecraft:rpg/ui/_new_statsbar/ultimate_point/3.png",
             "ascent": 0,
             "height": 26,
             "chars": ["\u1001"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:rpg/ui/_new_statsbar/ultimate_point/2.png",
+            "file": "minecraft:rpg/ui/_new_statsbar/ultimate_point/4.png",
             "ascent": 0,
             "height": 26,
             "chars": ["\u1002"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:rpg/ui/_new_statsbar/ultimate_point/3.png",
+            "file": "minecraft:rpg/ui/_new_statsbar/ultimate_point/5.png",
             "ascent": 0,
             "height": 26,
             "chars": ["\u1003"]

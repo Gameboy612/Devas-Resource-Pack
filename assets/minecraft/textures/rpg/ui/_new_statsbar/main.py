@@ -48,5 +48,5 @@ generateFiles(
     path="assets/minecraft/textures/rpg/ui/_new_statsbar/_references/ultimate_point/ultimate_option$.png",
     save_path="assets/minecraft/textures/rpg/ui/_new_statsbar/ultimate_point/$.png",
     height=26,
-    num_range=(1, 3)
+    num_range=(1, 5)
 )

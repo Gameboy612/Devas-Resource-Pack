@@ -325,9 +325,9 @@
   "rpg.new_ui.71": "\u1000\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1008",
   "rpg.new_ui.72": "\u1000\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1002\uF801\u1007",
 
-  "rpg.ui.ultimate_point.1": "\u1001",
-  "rpg.ui.ultimate_point.2": "\u1002",
-  "rpg.ui.ultimate_point.3": "\u1003",
+  "rpg.ui.ultimate_point.3.filled": "\u1001",
+  "rpg.ui.ultimate_point.3.empty": "\u1002",
+  "rpg.ui.ultimate_point.3.locked": "\u1003",
 
   "rpg.ui.burn": "\u1011",
   "rpg.ui.freeze": "\u1012",
