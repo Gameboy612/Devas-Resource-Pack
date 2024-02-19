@@ -11,3 +11,5 @@
 |     8.png | End of Bar 2/3      |
 |     9.png | End of Bar 1/3      |
 |    10.png | End of Bar 0/3      |
+
+0-1.png + 17*(2-6.png) + 7-10.png
