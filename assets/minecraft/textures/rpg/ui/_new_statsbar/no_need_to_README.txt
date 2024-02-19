@@ -1,7 +1,7 @@
 | File Name |       Content       |
 | --------- | ------------------- |
-|     0.png | Logo with Empty Bar |
-|     1.png | Logo with Full Bar  |
+|     0.png | Logo with Full Bar |
+|     1.png | Logo with Empty Bar  |
 |     2.png | Middle of Bar 4/4   |
 |     3.png | Middle of Bar 3/4   |
 |     4.png | Middle of Bar 2/4   |
