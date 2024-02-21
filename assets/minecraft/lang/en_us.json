@@ -1677,7 +1677,7 @@
   "dv2.gadget.small_mana_potion.2.0": "After 5 seconds of using, regenerate 33% of max Mana.",
 
   "dv2.gadget.crystal_potion": "Crystal Potion",
-  "dv2.gadget.crystal_potion.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 60s/1", 
+  "dv2.gadget.crystal_potion.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1", 
   "dv2.gadget.crystal_potion.2.0": "After 2 seconds of using, gain 2 crystal point.",
 
   "dv2.gadget.battle_horn": "Battle Horn",
