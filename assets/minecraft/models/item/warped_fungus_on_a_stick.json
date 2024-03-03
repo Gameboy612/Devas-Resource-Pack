@@ -143,6 +143,7 @@
     {"predicate": {"custom_model_data":7100003}, "model": "rpg/gadget/potion/large_blue"},
     {"predicate": {"custom_model_data":7100004}, "model": "rpg/gadget/ice_wall"},
     {"predicate": {"custom_model_data":7100005}, "model": "rpg/gadget/ice_cage"},
-    {"predicate": {"custom_model_data":7100006}, "model": "rpg/gadget/potion/large_crystal"}
+    {"predicate": {"custom_model_data":7100006}, "model": "rpg/gadget/potion/large_crystal"},
+    {"predicate": {"custom_model_data":7100007}, "model": "rpg/gadget/battle_horn"}
   ]
 }
