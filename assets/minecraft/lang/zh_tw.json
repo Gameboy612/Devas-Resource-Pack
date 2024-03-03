@@ -1446,20 +1446,42 @@
   "dv2.gadget.instant_barrier.3.0": "The wall will be destroyed after 30 seconds, or being hit for 40 times with melee.",
 
   "dv2.gadget.large_hp_potion": "大瓶回復藥水",
-  "dv2.gadget.large_hp_potion.1.0": "最大持有數：1 | 補充冷卻時間：每個40秒", 
+  "dv2.gadget.large_hp_potion.1.0": "最大持有數：1 | 補充冷卻時間：40秒1個", 
   "dv2.gadget.large_hp_potion.2.0": "After 8 seconds of using, regenerate 100% of max HP.",
 
   "dv2.gadget.small_hp_potion": "小瓶回復藥水",
-  "dv2.gadget.small_hp_potion.1.0": "最大持有數：3 | 補充冷卻時間：每個20秒", 
+  "dv2.gadget.small_hp_potion.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
   "dv2.gadget.small_hp_potion.2.0": "After 5 seconds of using, regenerate 33% of max HP.",
 
   "dv2.gadget.large_mana_potion": "大瓶魔力藥水",
-  "dv2.gadget.large_mana_potion.1.0": "最大持有數：1 | 補充冷卻時間：每個30秒", 
+  "dv2.gadget.large_mana_potion.1.0": "最大持有數：1 | 補充冷卻時間：30秒1個", 
   "dv2.gadget.large_mana_potion.2.0": "After 8 seconds of using, regenerate 100% of max Mana.",
 
   "dv2.gadget.small_mana_potion": "小瓶魔力藥水",
-  "dv2.gadget.small_mana_potion.1.0": "最大持有數：3 | 補充冷卻時間：每個15秒", 
+  "dv2.gadget.small_mana_potion.1.0": "最大持有數：3 | 補充冷卻時間：15秒1個", 
   "dv2.gadget.small_mana_potion.2.0": "After 5 seconds of using, regenerate 33% of max Mana.",
+
+  "dv2.gadget.crystal_potion": "結晶藥水",
+  "dv2.gadget.crystal_potion.1.0": "最大持有數：1 | 補充冷卻時間：90秒1個", 
+  "dv2.gadget.crystal_potion.2.0": "After 2 seconds of using, gain 2 crystal point.",
+
+  "dv2.gadget.battle_horn": "戰吼號角",
+  "dv2.gadget.battle_horn.1.0": "最大持有數：1 | 補充冷卻時間：100秒1個", 
+  "dv2.gadget.battle_horn.2.0": "Right-click to increase 10 🗡🏹 STR for all teammates within a 10-block radius,",
+  "dv2.gadget.battle_horn.3.0": "and reduce their stamina costs by 30% for 15 seconds.",
+
+  "dv2.gadget.prelude_incantation": "序言唱詠",
+  "dv2.gadget.prelude_incantation.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
+  "dv2.gadget.prelude_incantation.2.0": "Increase 100% ALL magic EM for 10 seconds.",
+
+  "dv2.gadget.reborn_heart": "重燃心火",
+  "dv2.gadget.reborn_heart.1.0": "最大持有數：2 | 補充冷卻時間：60秒1個", 
+  "dv2.gadget.reborn_heart.2.0": "Gain 5 Fire Melee EM and a haste 1 second ATK-SPD for 20 seconds.",
+  "dv2.gadget.reborn_heart.3.0":"Your current HP will be set to 33% of your maximum HP after the effect ends.",
+
+  "dv2.gadget.overload": "超負荷",
+  "dv2.gadget.overload.1.0": "最大持有數：1 | 補充冷卻時間：240秒1個", 
+  "dv2.gadget.overload.2.0": "Consume all of your mana and reduce 100% mana cost for 10 seconds.",
 
 
   "dv2.point":"點數 (PT)",
