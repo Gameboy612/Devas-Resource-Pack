@@ -1689,6 +1689,14 @@
   "dv2.gadget.prelude_incantation.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 80s/1", 
   "dv2.gadget.prelude_incantation.2.0": "Increase 100% ALL magic EM for 10 seconds.",
 
+  "dv2.gadget.reborn_heart": "Rborn Heart",
+  "dv2.gadget.reborn_heart.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: 60s/1", 
+  "dv2.gadget.reborn_heart.2.0": "Gain 5 Fire Melee EM and a haste 1 second ATK-SPD for 20 seconds.",
+  "dv2.gadget.reborn_heart.3.0":"Your current HP will be set to 33% of your maximum HP after the effect ends.",
+
+  "dv2.gadget.overload": "Overload",
+  "dv2.gadget.overload.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 240s/1", 
+  "dv2.gadget.overload.2.0": "Consume all of your mana and reduce 100% mana cost for 10 seconds.",
 
   "dv2.point":"Point (PT)",
   "dv2.point.1.0":"You can use PT to buy weapon, artifacts, item and array.",
