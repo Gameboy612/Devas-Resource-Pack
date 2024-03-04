@@ -546,7 +546,7 @@
   "dv2.ability.might_of_an_utu.2.2.0": "同時於15秒内，以每 ",
   "dv2.ability.might_of_an_utu.2.2.1": "",
   "dv2.ability.might_of_an_utu.2.2.1.zh": "30",
-  "dv2.ability.might_of_an_utu.2.2.2": " 最大血量增加",
+  "dv2.ability.might_of_an_utu.2.2.2": " 最大 HP 增加",
   "dv2.ability.might_of_an_utu.2.2.3": "",
   "dv2.ability.might_of_an_utu.2.2.3.zh": "1點火屬性DMG",
   "dv2.ability.might_of_an_utu.2.2.4": "",
@@ -721,11 +721,11 @@
   "dv2.ability.jurisdiction_of_selene.2.2.0":"免疫",
   "dv2.ability.jurisdiction_of_selene.2.2.1":"效果",
   "dv2.ability.jurisdiction_of_selene.2.2.2":"",
-  "dv2.ability.jurisdiction_of_selene.3.0.0":"露娜的權柄",
+  "dv2.ability.jurisdiction_of_selene.3.0.0":"新月",
   "dv2.ability.jurisdiction_of_selene.3.1.0":"減少直徑4格範圍内的敵人",
   "dv2.ability.jurisdiction_of_selene.3.1.1":"10% SPD",
   "dv2.ability.jurisdiction_of_selene.3.1.2":"",
-  "dv2.ability.jurisdiction_of_selene.4.0.0":"水流波動 <鏡花水月>",
+  "dv2.ability.jurisdiction_of_selene.4.0.0":"鏡花水月",
   "dv2.ability.jurisdiction_of_selene.4.1.0":"潛行以控制水流，",
   "dv2.ability.jurisdiction_of_selene.4.2.0":"推動直徑3格範圍内的敵人後退",
   "dv2.ability.jurisdiction_of_selene.4.3.0":"(消耗 Mana)",
@@ -1354,7 +1354,7 @@
   "dv2.artifacts.awakened.2.0":"並增加 33% 全屬性魔法 DMG 及 Base Mana",
 
   "dv2.artifacts.cast_off":"蛻殻",
-  "dv2.artifacts.cast_off.1.0":"當生命值低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
+  "dv2.artifacts.cast_off.1.0":"當 HP 低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
   "dv2.artifacts.cast_off.2.0":"同時增加 50 🗡STR 及 20% SPD",
 
   "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
@@ -1437,51 +1437,51 @@
 
 
   "dv2.gadget.ice_cage": "冰霜囚籠",
-  "dv2.gadget.ice_cage.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 60s", 
-  "dv2.gadget.ice_cage.2.0": "Right-click to set a 7x7x5 Ice Cage centered on the player that lasts for 7 seconds.",
+  "dv2.gadget.ice_cage.1.0": "最大持有數：1 | 補充冷卻時間：60秒1個", 
+  "dv2.gadget.ice_cage.2.0": "右鍵以在玩家周圍設置一個以其為中心，持續時間為7秒，7×7×5的冰籠。",
 
   "dv2.gadget.instant_barrier": "冰霜屏障",
-  "dv2.gadget.instant_barrier.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s", 
-  "dv2.gadget.instant_barrier.2.0": "Right-click to set a 2-block wide ice wall in front of the user.",
-  "dv2.gadget.instant_barrier.3.0": "The wall will be destroyed after 30 seconds, or being hit for 40 times with melee.",
+  "dv2.gadget.instant_barrier.1.0": "最大持有數：1 | 補充冷卻時間：90秒1個", 
+  "dv2.gadget.instant_barrier.2.0": "右鍵以在玩家前方設置一個寬度為2格的冰牆。",
+  "dv2.gadget.instant_barrier.3.0": "該冰牆將在30秒後，或者被近戰攻擊擊中40次後消失。",
 
   "dv2.gadget.large_hp_potion": "大瓶回復藥水",
   "dv2.gadget.large_hp_potion.1.0": "最大持有數：1 | 補充冷卻時間：40秒1個", 
-  "dv2.gadget.large_hp_potion.2.0": "After 8 seconds of using, regenerate 100% of max HP.",
+  "dv2.gadget.large_hp_potion.2.0": "使用8秒後，將 HP 恢復至上限的100%",
 
   "dv2.gadget.small_hp_potion": "小瓶回復藥水",
   "dv2.gadget.small_hp_potion.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
-  "dv2.gadget.small_hp_potion.2.0": "After 5 seconds of using, regenerate 33% of max HP.",
+  "dv2.gadget.small_hp_potion.2.0": "使用5秒後，將 HP 恢復至上限的33%",
 
   "dv2.gadget.large_mana_potion": "大瓶魔力藥水",
   "dv2.gadget.large_mana_potion.1.0": "最大持有數：1 | 補充冷卻時間：30秒1個", 
-  "dv2.gadget.large_mana_potion.2.0": "After 8 seconds of using, regenerate 100% of max Mana.",
+  "dv2.gadget.large_mana_potion.2.0": "使用8秒後，將Mana恢復至上限的100%",
 
   "dv2.gadget.small_mana_potion": "小瓶魔力藥水",
   "dv2.gadget.small_mana_potion.1.0": "最大持有數：3 | 補充冷卻時間：15秒1個", 
-  "dv2.gadget.small_mana_potion.2.0": "After 5 seconds of using, regenerate 33% of max Mana.",
+  "dv2.gadget.small_mana_potion.2.0": "使用5秒後，將Mana恢復至上限的33%",
 
   "dv2.gadget.crystal_potion": "結晶藥水",
   "dv2.gadget.crystal_potion.1.0": "最大持有數：1 | 補充冷卻時間：90秒1個", 
-  "dv2.gadget.crystal_potion.2.0": "After 2 seconds of using, gain 2 crystal point.",
+  "dv2.gadget.crystal_potion.2.0": "使用2秒後，獲取2個大絕充能點",
 
   "dv2.gadget.battle_horn": "戰吼號角",
   "dv2.gadget.battle_horn.1.0": "最大持有數：1 | 補充冷卻時間：100秒1個", 
-  "dv2.gadget.battle_horn.2.0": "Right-click to increase 10 🗡🏹 STR for all teammates within a 10-block radius,",
-  "dv2.gadget.battle_horn.3.0": "and reduce their stamina costs by 30% for 15 seconds.",
+  "dv2.gadget.battle_horn.2.0": "右鍵以於15秒內增加所有在半徑10格內的隊友 10 🗡️🏹STR,",
+  "dv2.gadget.battle_horn.3.0": "並減少其 30% Stamina 消耗。",
 
   "dv2.gadget.prelude_incantation": "序言唱詠",
   "dv2.gadget.prelude_incantation.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
-  "dv2.gadget.prelude_incantation.2.0": "Increase 100% ALL magic EM for 10 seconds.",
+  "dv2.gadget.prelude_incantation.2.0": "使用後10秒内提升 100% 全屬性魔法 EM",
 
   "dv2.gadget.reborn_heart": "重燃心火",
   "dv2.gadget.reborn_heart.1.0": "最大持有數：2 | 補充冷卻時間：60秒1個", 
-  "dv2.gadget.reborn_heart.2.0": "Gain 5 Fire Melee EM and a haste 1 second ATK-SPD for 20 seconds.",
-  "dv2.gadget.reborn_heart.3.0":"Your current HP will be set to 33% of your maximum HP after the effect ends.",
+  "dv2.gadget.reborn_heart.2.0": "在20秒內獲得5點火屬性近戰 EM，並加速1秒攻擊速度。",
+  "dv2.gadget.reborn_heart.3.0": "效果結束後，你的當前 HP 將被設置為最大 HP 的33%",
 
   "dv2.gadget.overload": "超負荷",
   "dv2.gadget.overload.1.0": "最大持有數：1 | 補充冷卻時間：240秒1個", 
-  "dv2.gadget.overload.2.0": "Consume all of your mana and reduce 100% mana cost for 10 seconds.",
+  "dv2.gadget.overload.2.0": "消耗你所有 Mana，並在10秒內減少100%的 Mana 消耗。",
 
 
   "dv2.point":"點數 (PT)",
@@ -1508,7 +1508,7 @@
   "dv2.tips.3.3":"魔力值(Mana)",
   "dv2.tips.3.4":"耐力值(Stamina)",
   "dv2.tips.3.5":"及",
-  "dv2.tips.3.6":"招牌充能值(Signature)。",
+  "dv2.tips.3.6":"大絕充能點(Ultimate)。",
 
   "dv2.tips.17.1": "每位玩家都有一個",
   "dv2.tips.17.2": "元素韌性",
