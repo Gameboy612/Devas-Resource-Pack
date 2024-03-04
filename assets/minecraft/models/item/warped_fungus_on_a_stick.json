@@ -146,6 +146,7 @@
     {"predicate": {"custom_model_data":7100006}, "model": "rpg/gadget/potion/large_crystal"},
     {"predicate": {"custom_model_data":7100007}, "model": "rpg/gadget/battle_horn"},
     {"predicate": {"custom_model_data":7100008}, "model": "rpg/gadget/prelude_incantation"},
-    {"predicate": {"custom_model_data":7100009}, "model": "rpg/gadget/reborn_heart"}
+    {"predicate": {"custom_model_data":7100009}, "model": "rpg/gadget/reborn_heart"},
+    {"predicate": {"custom_model_data":7100010}, "model": "rpg/gadget/overload"}
   ]
 }
