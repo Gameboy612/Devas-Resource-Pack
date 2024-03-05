@@ -947,7 +947,7 @@
   "dv2.ability.muramasa.2.3.1": "and 1.5 DMG.",
 
   "dv2.weapon.melee.jurisdiction_of_selene":"Jurisdiction of Selene",
-  "dv2.weapon.melee.jurisdiction_of_selene.description":"Needn't be dismayed, my people! As She is with you, eternally!",
+  "dv2.weapon.melee.jurisdiction_of_selene.description":"Needn't be dismayed, moonchild. As She is with you, eternally.",
   "dv2.ability.jurisdiction_of_selene.1.0.0":"Full Moon",
   "dv2.ability.jurisdiction_of_selene.1.1.0":"When your HP is more than ",
   "dv2.ability.jurisdiction_of_selene.1.1.1":"33%",
@@ -962,11 +962,11 @@
   "dv2.ability.jurisdiction_of_selene.2.2.0":"Immune ",
   "dv2.ability.jurisdiction_of_selene.2.2.1":" effect.",
   "dv2.ability.jurisdiction_of_selene.2.2.2":"",
-  "dv2.ability.jurisdiction_of_selene.3.0.0":"Luna's Power",
+  "dv2.ability.jurisdiction_of_selene.3.0.0":"Crescent",
   "dv2.ability.jurisdiction_of_selene.3.1.0":"Reduce enemy ",
   "dv2.ability.jurisdiction_of_selene.3.1.1":"10% SPD",
   "dv2.ability.jurisdiction_of_selene.3.1.2":" in an area of 4 blocks diameter.",
-  "dv2.ability.jurisdiction_of_selene.4.0.0":"Hydro Pump -- Illusionary",
+  "dv2.ability.jurisdiction_of_selene.4.0.0":"Lunacy",
   "dv2.ability.jurisdiction_of_selene.4.1.0":"Sneak to control water to pump enemy",
   "dv2.ability.jurisdiction_of_selene.4.2.0":"in an area of 3 blocks diameter to move backward.",
   "dv2.ability.jurisdiction_of_selene.4.3.0":"(Requires Mana)",
@@ -1687,12 +1687,12 @@
 
   "dv2.gadget.prelude_incantation": "Prelude Incantation",
   "dv2.gadget.prelude_incantation.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 80s/1", 
-  "dv2.gadget.prelude_incantation.2.0": "Increase 100% ALL magic EM for 10 seconds.",
+  "dv2.gadget.prelude_incantation.2.0": "Increase 100% ALL magic EM for 10 seconds after use.",
 
   "dv2.gadget.reborn_heart": "Reborn Heart",
   "dv2.gadget.reborn_heart.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: 60s/1", 
   "dv2.gadget.reborn_heart.2.0": "Gain 5 Fire Melee EM and a haste 1 second ATK-SPD for 20 seconds.",
-  "dv2.gadget.reborn_heart.3.0":"Your current HP will be set to 33% of your maximum HP after the effect ends.",
+  "dv2.gadget.reborn_heart.3.0": "Your current HP will be set to 33% of your maximum HP after the effect ends.",
 
   "dv2.gadget.overload": "Overload",
   "dv2.gadget.overload.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 240s/1", 
