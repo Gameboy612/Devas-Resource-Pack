@@ -1696,7 +1696,7 @@
 
   "dv2.gadget.overload": "Overload",
   "dv2.gadget.overload.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 240s/1", 
-  "dv2.gadget.overload.2.0": "Consume all of your mana and reduce 100% mana cost for 10 seconds.",
+  "dv2.gadget.overload.2.0": "Consume 75% of your mana and reduce 100% mana cost for 10 seconds.",
 
   "dv2.point":"Point (PT)",
   "dv2.point.1.0":"You can use PT to buy weapon, artifacts, item and array.",

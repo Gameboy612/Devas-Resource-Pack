@@ -1481,7 +1481,7 @@
 
   "dv2.gadget.overload": "超負荷",
   "dv2.gadget.overload.1.0": "最大持有數：1 | 補充冷卻時間：240秒1個", 
-  "dv2.gadget.overload.2.0": "消耗你所有 Mana，並在10秒內減少100%的 Mana 消耗。",
+  "dv2.gadget.overload.2.0": "消耗你75% Mana，並在10秒內減少100%的 Mana 消耗。",
 
 
   "dv2.point":"點數 (PT)",
