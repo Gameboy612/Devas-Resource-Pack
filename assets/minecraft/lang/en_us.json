@@ -1682,7 +1682,7 @@
 
   "dv2.gadget.battle_horn": "Battle Horn",
   "dv2.gadget.battle_horn.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 100s/1", 
-  "dv2.gadget.battle_horn.2.0": "Right-click to increase 10 🗡🏹 STR for all teammates within a 10-block radius,",
+  "dv2.gadget.battle_horn.2.0": "Right-click to increase 10 🗡🏹 STR for all teammates within a 25-block radius,",
   "dv2.gadget.battle_horn.3.0": "and reduce their stamina costs by 30% for 15 seconds.",
 
   "dv2.gadget.prelude_incantation": "Prelude Incantation",
