@@ -1,0 +1,70 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "blocks/smooth_basalt",
+		"1": "blocks/redstone_block",
+		"particle": "blocks/redstone_block"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 7, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"north": {"uv": [4, 8, 12, 15], "texture": "#1"},
+				"east": {"uv": [4, 8, 12, 15], "texture": "#1"},
+				"south": {"uv": [4, 8, 12, 15], "texture": "#1"},
+				"west": {"uv": [4, 8, 12, 15], "texture": "#1"},
+				"up": {"uv": [4, 8, 12, 16], "texture": "#1"},
+				"down": {"uv": [4, 8, 12, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 7, 5],
+			"to": [11, 8, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"north": {"uv": [5, 5, 11, 6], "texture": "#0"},
+				"east": {"uv": [5, 5, 11, 6], "texture": "#0"},
+				"south": {"uv": [5, 5, 11, 6], "texture": "#0"},
+				"west": {"uv": [5, 5, 11, 6], "texture": "#0"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"down": {"uv": [5, 5, 11, 11], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [10.5, 0, 19],
+			"translation": [0, 3.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [10.5, 0, 19],
+			"translation": [0, 3.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [22.64, -31.15, -7.83],
+			"translation": [0.75, 3.5, 0]
+		},
+		"head": {
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -7]
+		}
+	}
+}
