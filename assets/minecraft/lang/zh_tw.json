@@ -1476,7 +1476,7 @@
 
   "dv2.gadget.reborn_heart": "重燃心火",
   "dv2.gadget.reborn_heart.1.0": "最大持有數：2 | 補充冷卻時間：60秒1個", 
-  "dv2.gadget.reborn_heart.2.0": "在20秒內獲得5點火屬性近戰 EM，並加速1秒攻擊速度。",
+  "dv2.gadget.reborn_heart.2.0": "在15秒內獲得5點火屬性近戰 EM，並加速1秒攻擊速度。",
   "dv2.gadget.reborn_heart.3.0": "效果結束後，你的當前 HP 將被設置為最大 HP 的33%",
 
   "dv2.gadget.overload": "超負荷",

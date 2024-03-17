@@ -1691,7 +1691,7 @@
 
   "dv2.gadget.reborn_heart": "Reborn Heart",
   "dv2.gadget.reborn_heart.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: 60s/1", 
-  "dv2.gadget.reborn_heart.2.0": "Gain 5 Fire Melee EM and a haste 1 second ATK-SPD for 20 seconds.",
+  "dv2.gadget.reborn_heart.2.0": "Gain 5 Fire Melee EM and a haste 1 second ATK-SPD for 15 seconds.",
   "dv2.gadget.reborn_heart.3.0": "Your current HP will be set to 33% of your maximum HP after the effect ends.",
 
   "dv2.gadget.overload": "Overload",
