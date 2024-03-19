@@ -1461,6 +1461,10 @@
   "dv2.gadget.small_mana_potion.1.0": "最大持有數：3 | 補充冷卻時間：15秒1個", 
   "dv2.gadget.small_mana_potion.2.0": "使用5秒後，將Mana恢復至上限的33%",
 
+  "dv2.gadget.nature_potion": "自然藥水",
+  "dv2.gadget.nature_potion.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: Per Life", 
+  "dv2.gadget.nature_potion.2.0": "After 2 seconds of using, remove all effect, no matter positive or negative.",
+
   "dv2.gadget.crystal_potion": "結晶藥水",
   "dv2.gadget.crystal_potion.1.0": "最大持有數：1 | 補充冷卻時間：90秒1個", 
   "dv2.gadget.crystal_potion.2.0": "使用2秒後，獲取2個大絕充能點",
@@ -1483,6 +1487,9 @@
   "dv2.gadget.overload.1.0": "最大持有數：1 | 補充冷卻時間：240秒1個", 
   "dv2.gadget.overload.2.0": "消耗你75% Mana，並在10秒內減少100%的 Mana 消耗。",
 
+  "dv2.gadget.Phantom_dive": "Phantom Dive",
+  "dv2.gadget.Phantom_dive.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
+  "dv2.gadget.Phantom_dive.2.0": "Teleport to nearest enemy within 7 blocks and gain invisibility for 5s. ",
 
   "dv2.point":"點數 (PT)",
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
