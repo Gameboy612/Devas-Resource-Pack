@@ -1699,7 +1699,7 @@
   "dv2.gadget.reborn_heart.3.0": "Your current HP will be set to 33% of your maximum HP after the effect ends.",
 
   "dv2.gadget.overload": "Overload",
-  "dv2.gadget.overload.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 240s/1", 
+  "dv2.gadget.overload.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 100s/1", 
   "dv2.gadget.overload.2.0": "Consume 75% of your mana and reduce 100% mana cost for 10 seconds.",
 
   "dv2.gadget.phantom_dive": "Phantom Dive",

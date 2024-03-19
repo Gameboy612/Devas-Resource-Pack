@@ -1484,7 +1484,7 @@
   "dv2.gadget.reborn_heart.3.0": "效果結束後，你的當前 HP 將被設置為最大 HP 的33%",
 
   "dv2.gadget.overload": "超負荷",
-  "dv2.gadget.overload.1.0": "最大持有數：1 | 補充冷卻時間：240秒1個", 
+  "dv2.gadget.overload.1.0": "最大持有數：1 | 補充冷卻時間：100秒1個", 
   "dv2.gadget.overload.2.0": "消耗你75% Mana，並在10秒內減少100%的 Mana 消耗。",
 
   "dv2.gadget.Phantom_dive": "Phantom Dive",
