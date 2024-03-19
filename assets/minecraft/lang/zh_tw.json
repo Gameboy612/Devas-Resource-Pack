@@ -1295,7 +1295,7 @@
   "dv2.artifacts.tank.3.0":"使用時增加 20 DEF 和 20 HP",
 
   "dv2.artifacts.wanderer":"遊子",
-  "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家，",
+  "dv2.artifacts.wanderer.1.0":"每一位半徑4格範圍內的玩家，",
   "dv2.artifacts.wanderer.2.0":"將會減少你 10 🏹 STR",
   "dv2.artifacts.wanderer.3.0":"使用時增加 30 🏹 STR",
   "dv2.artifacts.wanderer.4.0":"(上限：-10 🏹STR)",
@@ -1318,7 +1318,7 @@
   "dv2.artifacts.vampire.3.4.0":"回復等同於敵人最大 HP 的 25%",
 
   "dv2.artifacts.wave_sense.1":"感知 I",
-  "dv2.artifacts.wave_sense.1.1.1":"給予半徑5格範圍内的敵人",
+  "dv2.artifacts.wave_sense.1.1.1":"給予半徑7格範圍内的敵人",
   "dv2.artifacts.wave_sense.1.1.2":"效果",
   "dv2.artifacts.wave_sense.2":"感知 II",
   "dv2.artifacts.wave_sense.2.1.1":"給予半徑10格範圍内的敵人",

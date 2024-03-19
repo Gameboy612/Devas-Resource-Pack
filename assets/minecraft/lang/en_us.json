@@ -1516,7 +1516,7 @@
 
   "dv2.artifacts.wanderer":"Wanderer",
   "dv2.artifacts.wanderer.1.0":"Your 🏹STR is REDUCED by 10",
-  "dv2.artifacts.wanderer.2.0":"per player within a 7 block radius.",
+  "dv2.artifacts.wanderer.2.0":"per player within a 4 block radius.",
   "dv2.artifacts.wanderer.3.0":"Gain 30 🏹STR while using.",
   "dv2.artifacts.wanderer.4.0":"(Maximum: -10 🏹STR)",
 
@@ -1539,7 +1539,7 @@
 
   "dv2.artifacts.wave_sense.1":"Wave Sense I",
   "dv2.artifacts.wave_sense.1.1.1":"Giving enemy ",
-  "dv2.artifacts.wave_sense.1.1.2":" in an area of 5 blocks radius.",
+  "dv2.artifacts.wave_sense.1.1.2":" in an area of 7 blocks radius.",
   "dv2.artifacts.wave_sense.2":"Wave Sense II",
   "dv2.artifacts.wave_sense.2.1.1":"Giving enemy ",
   "dv2.artifacts.wave_sense.2.1.2":" in an area of 10 blocks radius.",
