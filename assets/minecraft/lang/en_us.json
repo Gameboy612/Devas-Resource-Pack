@@ -1074,9 +1074,10 @@
   "dv2.ability.nightmare.1.1.0": "When your bow is charged for over ",
   "dv2.ability.nightmare.1.1.1": "1.5s",
   "dv2.ability.nightmare.1.1.2": ",",
-  "dv2.ability.nightmare.1.2.0": "you will be ",
-  "dv2.ability.nightmare.1.2.2": " and gain additional ",
-  "dv2.ability.nightmare.1.3.0": "+3.6 Dark DMG <+3.0 EM>",
+  "dv2.ability.nightmare.1.2.0": "you will gain ",
+  "dv2.ability.nightmare.1.2.1": "300% ALL 🏹EM", 
+  "dv2.ability.nightmare.1.2.2": " and additional ",
+  "dv2.ability.nightmare.1.3.0": "+3 POW",
   "dv2.ability.nightmare.1.3.1": " and travel in ",
   "dv2.ability.nightmare.1.3.2": "6 ms⁻¹",
   "dv2.ability.nightmare.1.3.3": ".",
@@ -1084,7 +1085,7 @@
   "dv2.ability.nightmare.2.0.0": "Full Charge",
   "dv2.ability.nightmare.2.1.0": "When your bow is fully charged, you will",
   "dv2.ability.nightmare.2.2.0": "receive ",
-  "dv2.ability.nightmare.2.2.1": "1.8 Dark DMG <+7.0 EM>",
+  "dv2.ability.nightmare.2.2.1": "1.8 POW <+7.0 EM>",
   "dv2.ability.nightmare.2.2.2": ".",
 
   
