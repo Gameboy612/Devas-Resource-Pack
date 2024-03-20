@@ -1295,6 +1295,7 @@
 
   "dv2.item.special.whetstone":"Whetstone",
   "dv2.item.special.flint":"Flint",
+
   "dv2.item.gem.ruby":"Ruby",
   "dv2.item.gem.sapphire":"Sapphire",
   "dv2.item.gem.topaz":"Topaz",
@@ -1707,12 +1708,12 @@
   "dv2.gadget.crystal_potion.2.0": "After 2 seconds of using, gain 2 crystal point.",
 
   "dv2.gadget.nature_potion": "Nature Potion",
-  "dv2.gadget.nature_potion.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: Per Life", 
-  "dv2.gadget.nature_potion.2.0": "After 2 seconds of using, remove all effect, no matter positive or negative.",
+  "dv2.gadget.nature_potion.1.0": "Maximum Carrying Amount: 2 | Limited Per Life", 
+  "dv2.gadget.nature_potion.2.0": "After 2 seconds of using, remove all positive and negative effect.",
 
   "dv2.gadget.battle_horn": "Battle Horn",
   "dv2.gadget.battle_horn.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 100s/1", 
-  "dv2.gadget.battle_horn.2.0": "Increase 10 🗡🏹 STR for all teammates(include yourself) within a 25-block radius,",
+  "dv2.gadget.battle_horn.2.0": "Increase 10 🗡🏹 STR for all teammates. include oneself within a 25-block radius,",
   "dv2.gadget.battle_horn.3.0": "and reduce their stamina costs by 30% for 15 seconds.",
 
   "dv2.gadget.prelude_incantation": "Prelude Incantation",
@@ -1732,10 +1733,10 @@
   "dv2.gadget.phantom_dive.1.0": "Maximum Carrying Amount: 3 | Regenerate CD: 20s/1", 
   "dv2.gadget.phantom_dive.2.0": "Teleport to nearest enemy within 7 blocks and gain invisibility for 5s. ",
 
-  "dv2.gadget.curse_horn": "Curse Horn",
+  "dv2.gadget.curse_horn": "Acedia",
   "dv2.gadget.curse_horn.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 80s/1", 
-  "dv2.gadget.curse_horn.2.0": "Delay 1s ATK-SPD(extra 1s if original ATK-SPD less than 1s)",
-  "dv2.gadget.curse_horn.3.0": "for all enemy within a 15-block radius for 15s .",
+  "dv2.gadget.curse_horn.2.0": "Delay ATK-SPD by 1s (or 2s if the original ATK-SPD is less than 1s)",
+  "dv2.gadget.curse_horn.3.0": "for all enemy within a 15-block radius for 15s.",
 
 
 
