@@ -306,6 +306,8 @@
   "dv2.gui.category.spell.others": "其他",
   "dv2.gui.category.ability_item.arrow": "特殊箭矢",
   "dv2.gui.category.ability_item.melee": "近戰道具",
+  "dv2.gui.category.ability_item.gem": "寶石",
+  "dv2.gui.category.ability_item.others": "其他",
   "dv2.gui.category.signature.offensive": "攻擊型",
   "dv2.gui.category.signature.survival": "生存型",
   "dv2.gui.category.element.fire": "火屬性元素",
@@ -391,6 +393,11 @@
   "dv2.gui.category.ability_item.arrow.elemental": "元素型",
   "dv2.gui.category.ability_item.melee.powder": "粉末",
   "dv2.gui.category.ability_item.melee.others": "其他",
+  "dv2.gui.category.ability_item.gem.health": "生命型",
+  "dv2.gui.category.ability_item.gem.mana": "魔力型",
+  "dv2.gui.category.ability_item.gem.stamina": "耐力型",
+  "dv2.gui.category.ability_item.gem.others": "其他",  
+  "dv2.gui.category.ability_item.others.others": "其他",
   "dv2.gui.category.signature.offensive.damage": "攻擊型",
   "dv2.gui.category.signature.offensive.lifesteal": "生命掠奪型",
   "dv2.gui.category.signature.offensive.elemental": "元素型",
@@ -1040,6 +1047,9 @@
   "dv2.item.special.whetstone":"磨刀石",
   "dv2.item.special.flint":"燧石",
 
+  "dv2.item.gem.ruby":"紅寶石",
+  "dv2.item.gem.sapphire":"藍寶石",
+  "dv2.item.gem.topaz":"黃玉",
 
 
 
@@ -1055,7 +1065,9 @@
   "dv2.item.melee.description.1.0": "您的近戰武器會獲得 ",
   "dv2.item.melee.description.1.2": "",
 
-
+  "dv2.item.gem.description.0": "當此寶石被選取，",
+  "dv2.item.gem.description.1.0": "您會獲得 ",
+  "dv2.item.gem.description.1.2": "",
 
 
   "dv2.spells.enchantments": " - 法陣效果",
