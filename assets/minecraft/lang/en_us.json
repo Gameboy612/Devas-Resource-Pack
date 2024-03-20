@@ -1299,7 +1299,8 @@
   "dv2.item.gem.ruby":"Ruby",
   "dv2.item.gem.sapphire":"Sapphire",
   "dv2.item.gem.topaz":"Topaz",
-
+  "dv2.item.gem.aquamarine":"Aquamarine",
+  
   "dv2.arrow.power.description.0": "When this arrow is selected, your arrows",
   "dv2.arrow.power.description.1.0": "will have ",
   "dv2.arrow.power.description.1.2": ".",
