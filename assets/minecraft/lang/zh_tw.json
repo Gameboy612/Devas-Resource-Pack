@@ -1049,7 +1049,7 @@
 
   "dv2.item.gem.ruby":"紅寶石",
   "dv2.item.gem.sapphire":"藍寶石",
-  "dv2.item.gem.topaz":"黃玉",
+  "dv2.item.gem.topaz":"托帕石",
 
 
 
@@ -1490,8 +1490,8 @@
   "dv2.gadget.small_mana_potion.2.0": "使用5秒後，將Mana恢復至上限的33%",
 
   "dv2.gadget.nature_potion": "自然藥水",
-  "dv2.gadget.nature_potion.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: Per Life", 
-  "dv2.gadget.nature_potion.2.0": "After 2 seconds of using, remove all effect, no matter positive or negative.",
+  "dv2.gadget.nature_potion.1.0": "最大持有數：2 | 重生時補充", 
+  "dv2.gadget.nature_potion.2.0": "使用5秒後，消除所有正面及負面效果。",
 
   "dv2.gadget.crystal_potion": "結晶藥水",
   "dv2.gadget.crystal_potion.1.0": "最大持有數：1 | 補充冷卻時間：90秒1個", 
@@ -1499,7 +1499,7 @@
 
   "dv2.gadget.battle_horn": "戰吼號角",
   "dv2.gadget.battle_horn.1.0": "最大持有數：1 | 補充冷卻時間：100秒1個", 
-  "dv2.gadget.battle_horn.2.0": "於15秒內增加所有在半徑25格內的隊友（包括自己） 10 🗡️🏹STR,",
+  "dv2.gadget.battle_horn.2.0": "在15秒內為在半徑25格內的隊友及自身增加 10 🗡️🏹STR,",
   "dv2.gadget.battle_horn.3.0": "並減少其 30% Stamina 消耗。",
 
   "dv2.gadget.prelude_incantation": "序言唱詠",
@@ -1515,12 +1515,12 @@
   "dv2.gadget.overload.1.0": "最大持有數：1 | 補充冷卻時間：100秒1個", 
   "dv2.gadget.overload.2.0": "消耗你75% Mana，並在10秒內減少100%的 Mana 消耗。",
 
-  "dv2.gadget.Phantom_dive": "Phantom Dive",
-  "dv2.gadget.Phantom_dive.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
-  "dv2.gadget.Phantom_dive.2.0": "Teleport to nearest enemy within 7 blocks and gain invisibility for 5s. ",
+  "dv2.gadget.phantom_dive": "幽影潛行",
+  "dv2.gadget.phantom_dive.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
+  "dv2.gadget.phantom_dive.2.0": "傳送至半徑7格内距離最近的敵人身邊，並獲得5秒的隱身效果。",
 
-  "dv2.gadget.curse_horn": "Curse Horn",
-  "dv2.gadget.curse_horn.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 80s/1", 
+  "dv2.gadget.curse_horn": "阿瑟迪亞",
+  "dv2.gadget.curse_horn.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
   "dv2.gadget.curse_horn.2.0": "Delay 1s ATK-SPD(extra 1s if original ATK-SPD less than 1s)",
   "dv2.gadget.curse_horn.3.0": "for all enemy within a 15-block radius for 15s .",
 
