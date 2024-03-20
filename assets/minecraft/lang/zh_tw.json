@@ -1492,6 +1492,12 @@
   "dv2.gadget.Phantom_dive.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
   "dv2.gadget.Phantom_dive.2.0": "Teleport to nearest enemy within 7 blocks and gain invisibility for 5s. ",
 
+  "dv2.gadget.curse_horn": "Curse Horn",
+  "dv2.gadget.curse_horn.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 80s/1", 
+  "dv2.gadget.curse_horn.2.0": "Delay 1s ATK-SPD(extra 1s if original ATK-SPD less than 1s)",
+  "dv2.gadget.curse_horn.3.0": "for all enemy within a 15-block radius for 15s .",
+
+
   "dv2.point":"點數 (PT)",
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
 
