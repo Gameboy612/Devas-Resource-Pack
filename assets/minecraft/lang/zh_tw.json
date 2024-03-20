@@ -1163,6 +1163,21 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "消耗：",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
 
+  "dv2.spells.long_lasting.defense_shredding_array": "Defense Shredding Array",
+  "dv2.spells.long_lasting.defense_shredding_array.0": "<Long Lasting>",
+  "dv2.spells.long_lasting.defense_shredding_array.1.0": "Reduces the ",
+  "dv2.spells.long_lasting.defense_shredding_array.1.1": "DEF",
+  "dv2.spells.long_lasting.defense_shredding_array.1.2": " of your opponents within",
+  "dv2.spells.long_lasting.defense_shredding_array.2.0": "a ",
+  "dv2.spells.long_lasting.defense_shredding_array.2.1": "8 Block Radius",
+  "dv2.spells.long_lasting.defense_shredding_array.2.2": " by ",
+  "dv2.spells.long_lasting.defense_shredding_array.2.3": "30%",
+  "dv2.spells.long_lasting.defense_shredding_array.2.4": ".",
+  "dv2.spells.long_lasting.defense_shredding_array.3": "(Lasts for 20 seconds)",
+  "dv2.spells.long_lasting.defense_shredding_array.4.0": "Cost: ",
+  "dv2.spells.long_lasting.defense_shredding_array.4.1": "2500 Mana",
+
+
   "dv2.spells.burst.wind.2.leap": "飛躍 [⬈]",
   "dv2.spells.burst.wind.2.leap.0": "<爆發型>",
   "dv2.spells.burst.wind.2.leap.1": "",
