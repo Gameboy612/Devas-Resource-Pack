@@ -1513,7 +1513,7 @@
 
   "dv2.gadget.overload": "超負荷",
   "dv2.gadget.overload.1.0": "最大持有數：1 | 補充冷卻時間：100秒1個", 
-  "dv2.gadget.overload.2.0": "消耗你75% Mana，並在10秒內減少100%的 Mana 消耗。",
+  "dv2.gadget.overload.2.0": "消耗自身75% Mana，並在10秒內減少100%的 Mana 消耗。",
 
   "dv2.gadget.phantom_dive": "幽影潛行",
   "dv2.gadget.phantom_dive.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
@@ -1521,11 +1521,11 @@
 
   "dv2.gadget.curse_horn": "阿瑟迪亞",
   "dv2.gadget.curse_horn.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
-  "dv2.gadget.curse_horn.2.0": "Delay 1s ATK-SPD(extra 1s if original ATK-SPD less than 1s)",
-  "dv2.gadget.curse_horn.3.0": "for all enemy within a 15-block radius for 15s .",
+  "dv2.gadget.curse_horn.2.0": "在15秒內為在半徑15格內的敵人延長1秒 ATK-SPD",
+  "dv2.gadget.curse_horn.3.0": "（如果敵人原本 ATK-SPD 小於1秒，ATK-SPD會被延長2秒。）",
 
   "dv2.gadget.decomposing_sandstone": "\"Decomposing Sandstone\"",
-  "dv2.gadget.decomposing_sandstone.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: 40s/1", 
+  "dv2.gadget.decomposing_sandstone.1.0": "最大持有數：2 | 補充冷卻時間：40秒1個", 
   "dv2.gadget.decomposing_sandstone.2.0": "Decrease 30% ALL EM for all enemy within a 10-block radius for 10 seconds.",
 
 

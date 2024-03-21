@@ -1739,7 +1739,7 @@
   "dv2.gadget.curse_horn.2.0": "Delay ATK-SPD by 1s (or 2s if the original ATK-SPD is less than 1s)",
   "dv2.gadget.curse_horn.3.0": "for all enemy within a 15-block radius for 15s.",
 
-  "dv2.gadget.decomposing_sandstone": "\"Decomposing Sandstone\"",
+  "dv2.gadget.decomposing_sandstone": "Nihility-stone-thing-i-guess",
   "dv2.gadget.decomposing_sandstone.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: 40s/1", 
   "dv2.gadget.decomposing_sandstone.2.0": "Decrease 30% ALL EM for all enemy within a 10-block radius for 10 seconds.",
 
