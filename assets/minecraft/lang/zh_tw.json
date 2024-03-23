@@ -1521,12 +1521,12 @@
 
   "dv2.gadget.curse_horn": "阿瑟迪亞",
   "dv2.gadget.curse_horn.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
-  "dv2.gadget.curse_horn.2.0": "在15秒內為在半徑15格內的敵人延長1秒 ATK-SPD",
+  "dv2.gadget.curse_horn.2.0": "在15秒內為半徑15格內的敵人延長1秒 ATK-SPD",
   "dv2.gadget.curse_horn.3.0": "（如果敵人原本 ATK-SPD 小於1秒，ATK-SPD會被延長2秒。）",
 
-  "dv2.gadget.decomposing_sandstone": "\"Decomposing Sandstone\"",
+  "dv2.gadget.decomposing_sandstone": "虛無的凝視",
   "dv2.gadget.decomposing_sandstone.1.0": "最大持有數：2 | 補充冷卻時間：40秒1個", 
-  "dv2.gadget.decomposing_sandstone.2.0": "Decrease 30% ALL EM for all enemy within a 10-block radius for 10 seconds.",
+  "dv2.gadget.decomposing_sandston e.2.0": "在10秒內為半徑10格內的敵人減少 30% ALL EM",
 
 
   "dv2.point":"點數 (PT)",
