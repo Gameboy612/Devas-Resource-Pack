@@ -1,9 +1,9 @@
 {
 	"credit": "Made by lavafoxerex",
 	"textures": {
-		"0": "blocks/smooth_basalt",
-		"1": "blocks/redstone_block",
-		"particle": "blocks/redstone_block"
+		"0": "block/smooth_basalt",
+		"1": "block/redstone_block",
+		"particle": "block/redstone_block"
 	},
 	"elements": [
 		{
