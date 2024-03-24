@@ -568,7 +568,7 @@
   "dv2.ability.might_of_an_utu.3.2.0": "增加",
   "dv2.ability.might_of_an_utu.3.2.1": "20 DEF",
   "dv2.ability.might_of_an_utu.3.2.2": "，",
-  "dv2.ability.might_of_an_utu.3.2.3": "6 ",
+  "dv2.ability.might_of_an_utu.3.2.3": "5 ",
   "dv2.ability.might_of_an_utu.3.2.4": "DMG ",
   "dv2.ability.might_of_an_utu.3.2.5": "以及 20 全屬性 AFF",
 
@@ -1508,7 +1508,7 @@
 
   "dv2.gadget.reborn_heart": "重燃心火",
   "dv2.gadget.reborn_heart.1.0": "最大持有數：2 | 補充冷卻時間：60秒1個", 
-  "dv2.gadget.reborn_heart.2.0": "在15秒內獲得5點火屬性近戰 EM，並加速50%攻擊速度。",
+  "dv2.gadget.reborn_heart.2.0": "在15秒內獲得5點火屬性近戰 EM，並加速25%攻擊速度。",
   "dv2.gadget.reborn_heart.3.0": "效果結束後，你的當前 HP 將被設置為最大 HP 的33%",
 
   "dv2.gadget.overload": "超負荷",

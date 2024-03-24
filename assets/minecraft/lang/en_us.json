@@ -813,7 +813,7 @@
   "dv2.ability.might_of_an_utu.3.2.0": "Increase ",
   "dv2.ability.might_of_an_utu.3.2.1": "20 DEF",
   "dv2.ability.might_of_an_utu.3.2.2": ", ",
-  "dv2.ability.might_of_an_utu.3.2.3": "6 ",
+  "dv2.ability.might_of_an_utu.3.2.3": "5 ",
   "dv2.ability.might_of_an_utu.3.2.4": "DMG",
   "dv2.ability.might_of_an_utu.3.2.5": " and 20 All Affinity.",
 
@@ -836,7 +836,7 @@
   "dv2.ability.soul_scythe.2.1.4": "",
   "dv2.ability.soul_scythe.2.2.0": "Increase ",
   "dv2.ability.soul_scythe.2.2.1": "15 DEF ",
-  "dv2.ability.soul_scythe.2.2.2": "and 1.5 DMG",
+  "dv2.ability.soul_scythe.2.2.2": "and 1 DMG",
   "dv2.ability.soul_scythe.2.2.3": ".",
   "dv2.ability.soul_scythe.2.2.4": "",
 
@@ -1723,7 +1723,7 @@
 
   "dv2.gadget.reborn_heart": "Reborn Heart",
   "dv2.gadget.reborn_heart.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: 60s/1", 
-  "dv2.gadget.reborn_heart.2.0": "Gain 5 Fire Melee EM and a haste 50% ATK-SPD for 15 seconds.",
+  "dv2.gadget.reborn_heart.2.0": "Cost 50% of Current HP and gain 5 Fire Melee EM and a haste 25% ATK-SPD for 15 seconds.",
   "dv2.gadget.reborn_heart.3.0": "Your current HP will be set to 33% of your maximum HP after the effect ends.",
 
   "dv2.gadget.overload": "Overload",
