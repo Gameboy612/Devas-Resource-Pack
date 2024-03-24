@@ -340,7 +340,24 @@
   "rpg.ui.shield": "\u1002",
   "rpg.ui.shield_debuff": "\u1003",
   "rpg.ui.ability_slot": "\u1000",
-
+    
+  "rpg.ui.active_effects.phases.0": "\u1000",
+  "rpg.ui.active_effects.phases.1": "\u1001",
+  "rpg.ui.active_effects.phases.2": "\u1002",
+  "rpg.ui.active_effects.phases.3": "\u1003",
+  "rpg.ui.active_effects.phases.4": "\u1004",
+  "rpg.ui.active_effects.phases.5": "\u1005",
+  "rpg.ui.active_effects.phases.6": "\u1006",
+  "rpg.ui.active_effects.phases.7": "\u1007",
+  "rpg.ui.active_effects.phases.8": "\u1008",
+  "rpg.ui.active_effects.phases.9": "\u1009",
+  "rpg.ui.active_effects.phases.10": "\u1010",
+  "rpg.ui.active_effects.phases.11": "\u1011",
+  "rpg.ui.active_effects.phases.12": "\u1012",
+  "rpg.ui.active_effects.phases.13": "\u1013",
+  "rpg.ui.active_effects.phases.14": "\u1014",
+  "rpg.ui.active_effects.phases.15": "\u1015",
+  
   "game.achievements": "Game Achievements",
 
   "rpg.stats.recovery": "Recovery",

@@ -1,0 +1,117 @@
+
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/0.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/1.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/2.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/3.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/4.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/5.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/6.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/7.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/8.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/9.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/10.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/11.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/12.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/13.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/14.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/active_effects/phases/15.png",
+            "ascent": 16,
+            "height": 48,
+            "chars": ["\u1015"]
+        }
+    ]
+}
