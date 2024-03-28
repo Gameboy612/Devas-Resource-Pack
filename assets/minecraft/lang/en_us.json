@@ -1762,19 +1762,19 @@
 
   "dv2.gadget.jump_pad": "Jump Pad",
   "dv2.gadget.jump_pad.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 45s/1",
-  "dv2.gadget.jump_pad.2.0": "Set a jump pad that can catapult players. The pad lasts for 30 seconds.",
+  "dv2.gadget.jump_pad.2.0": "Set a jump pad that can catapult players, which lasts for 30 seconds.",
 
 
   "dv2.gadget.explosive_trap": "Explosive Trap",
   "dv2.gadget.explosive_trap.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: 60s/1", 
-  "dv2.gadget.explosive_trap.2.0": "Set a hard-to-seek Explosive Trap. When an enemy approaches within 2 blocks,",
+  "dv2.gadget.explosive_trap.2.0": "Set an Explosive Trap. When an enemy approaches within 2 blocks,",
   "dv2.gadget.explosive_trap.3.0": "it will explode and deal 40% true DMG to all players (including teammates) in 5-block radius.",
   "dv2.gadget.explosive_trap.4.0": "When the user places a third Explosive Trap,",
   "dv2.gadget.explosive_trap.5.0": "the oldest one will be replaced. Each trap lasts for 180 seconds.",    
 
   "dv2.gadget.stun_trap": "Stun Trap",
   "dv2.gadget.stun_trap.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: 30s/1", 
-  "dv2.gadget.stun_trap.2.0": "Set a hard-to-seek Stun Trap. When an enemy approaches within 2 blocks,",
+  "dv2.gadget.stun_trap.2.0": "Set a Stun Trap. When an enemy approaches within 2 blocks,",
   "dv2.gadget.stun_trap.3.0": "it will stun all players (including teammates) within a 5-block radius for 3 seconds.",
   "dv2.gadget.stun_trap.4.0": "When the user places a third Stun Trap,",
   "dv2.gadget.stun_trap.5.0": "the oldest one will be replaced. Each trap lasts for 180 seconds.",   
