@@ -777,8 +777,8 @@
 
   "dv2.ability.excalibur.2.0.0": "Glory of Justice",
   "dv2.ability.excalibur.2.1.0": "Gain ",
-  "dv2.ability.excalibur.2.1.1": "2 Light DMG <+8.0 EM>",
-  "dv2.ability.excalibur.2.1.2": " when your HP falls below 40%.",
+  "dv2.ability.excalibur.2.1.1": "3 DMG <+10.0 EM>",
+  "dv2.ability.excalibur.2.1.2": " when your HP falls below 51%.",
 
   "dv2.weapon.melee.leaf_steel_sword": "Leaf Steel Sword",
   "dv2.weapon.melee.leaf_steel_sword.description":"Make with steel rich in Earth element.",
@@ -949,11 +949,11 @@
   "dv2.weapon.melee.odachi.muramasa.description.2": "",
   "dv2.ability.muramasa.1.0.0": "Muramasa",
   "dv2.ability.muramasa.1.1.0": "Increase ",
-  "dv2.ability.muramasa.1.1.1": "0.1 Dark EM",
+  "dv2.ability.muramasa.1.1.1": "1 DMG",
   "dv2.ability.muramasa.1.1.2": " per ",
-  "dv2.ability.muramasa.1.1.3": "1 Dark DMG",
+  "dv2.ability.muramasa.1.1.3": "1 Dark EM",
   "dv2.ability.muramasa.1.1.4": ".",
-  "dv2.ability.muramasa.1.2.0": "(Max: 1.5 Dark EM)",
+  "dv2.ability.muramasa.1.2.0": "",
   "dv2.ability.muramasa.2.0.0": "Pact with the Demon",
   "dv2.ability.muramasa.2.1.0": "When your HP is lower than ",
   "dv2.ability.muramasa.2.1.1": "50%",
@@ -1722,7 +1722,7 @@
   "dv2.gadget.small_mana_potion.2.0": "After 3 seconds of using, regenerate 33% of max Mana.",
 
   "dv2.gadget.crystal_potion": "Crystal Potion",
-  "dv2.gadget.crystal_potion.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1", 
+  "dv2.gadget.crystal_potion.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 60s/1", 
   "dv2.gadget.crystal_potion.2.0": "After 2 seconds of using, gain 2 crystal point.",
 
   "dv2.gadget.nature_potion": "Nature Potion",
@@ -1753,7 +1753,7 @@
 
   "dv2.gadget.curse_horn": "Acedia",
   "dv2.gadget.curse_horn.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 80s/1", 
-  "dv2.gadget.curse_horn.2.0": "Delay ATK-SPD by 1s (or 2s if the original ATK-SPD is less than 1s)",
+  "dv2.gadget.curse_horn.2.0": "Delay ATK-SPD by 1s (or 2s if the original ATK-SPD is less than 1.5s)",
   "dv2.gadget.curse_horn.3.0": "for all enemy within a 15-block radius for 15s.",
 
   "dv2.gadget.decomposing_sandstone": "Nihility's Gaze",
