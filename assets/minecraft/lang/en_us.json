@@ -951,7 +951,7 @@
   "dv2.ability.muramasa.1.1.0": "Increase ",
   "dv2.ability.muramasa.1.1.1": "1 DMG",
   "dv2.ability.muramasa.1.1.2": " per ",
-  "dv2.ability.muramasa.1.1.3": "1 Dark EM",
+  "dv2.ability.muramasa.1.1.3": "2 Dark EM",
   "dv2.ability.muramasa.1.1.4": ".",
   "dv2.ability.muramasa.1.2.0": "",
   "dv2.ability.muramasa.2.0.0": "Pact with the Demon",
@@ -1252,7 +1252,7 @@
   "dv2.ability.waltz.steps.1.1.0": "Give the enemies in an area of 15 blocks radius elemental",
   "dv2.ability.waltz.steps.1.2.0": "debuff, basing on the player's element for 5 seconds.",
   "dv2.ability.waltz.steps.1.3.0": "The affected enemies will receive a curse lasting for",
-  "dv2.ability.waltz.steps.1.4.0": "40 seconds, which can be stacked up to 5 times.",
+  "dv2.ability.waltz.steps.1.4.0": "120 seconds, which can be stacked up to 5 times.",
   "dv2.ability.waltz.steps.1.5.0": "(There's a 18-second interval between each curse addition.)",
   "dv2.ability.waltz.steps.1.6.0": "Once used, user's ALL DMG will be reduced by 50%.",
   "dv2.ability.waltz.steps.1.7.0": "Cost: At least ",
@@ -1595,34 +1595,37 @@
 
 
   "dv2.artifacts.fighter":"Fighter",
-  "dv2.artifacts.fighter.1.0":"Increase 30 🗡STR when your DEF lower than 20.",
-  "dv2.artifacts.fighter.2.0":"Your 🗡STR WILL NOT OVER 40 while holding this artifacts.",
+  "dv2.artifacts.fighter.1.0":"Increase 20 🗡STR when your DEF lower than 20.",
+  "dv2.artifacts.fighter.2.0":"Your 🗡STR WILL NOT OVER 50 while holding this artifacts.",
   "dv2.artifacts.soldier":"Soldier",
-  "dv2.artifacts.soldier.1.0":"Increase 30 🗡STR when your Max HP lower than 115.",
-  "dv2.artifacts.soldier.2.0":"Your 🗡STR WILL NOT OVER 40 while holding this artifacts.",
+  "dv2.artifacts.soldier.1.0":"Increase 20 🗡STR when your Max HP lower than 115.",
+  "dv2.artifacts.soldier.2.0":"Your 🗡STR WILL NOT OVER 50 while holding this artifacts.",
 
 
 
   "dv2.artifacts.rose_of_void":"Rose of Void",
-  "dv2.artifacts.rose_of_void.1.0":"Reduce enemy 50% DEF in an area of 7 blocks radius.",
+  "dv2.artifacts.rose_of_void.1.0":"Reduce enemy 50% DEF in an area of 12 blocks radius.",
 
   "dv2.artifacts.pearl_of_abyss":"Pearl of Abyss",
-  "dv2.artifacts.pearl_of_abyss.1.0":"Reduce enemy 40 🗡🏹 STR in an area of 7 blocks radius.",
+  "dv2.artifacts.pearl_of_abyss.1.0":"Reduce enemy 40 🗡🏹 STR in an area of 12 blocks radius.",
 
   "dv2.artifacts.drip_of_acheron":"Drip of Acheron",
-  "dv2.artifacts.drip_of_acheron.1.0":"Reduce enemy 50% Heal Rate in an area of 7 blocks radius.",
+  "dv2.artifacts.drip_of_acheron.1.0":"Reduce enemy 50% Heal Rate in an area of 12 blocks radius.",
 
   "dv2.artifacts.awakened":"Awakened",
   "dv2.artifacts.awakened.1.0":"You will receive Blindness effect.",
-  "dv2.artifacts.awakened.2.0":"Increase 33% Magic DMG and Base Mana.",
+  "dv2.artifacts.awakened.2.0":"Increase 50% Magic DMG and Base Mana.",
 
   "dv2.artifacts.cast_off":"Cast Off",
-  "dv2.artifacts.cast_off.1.0":"When HP lower than 50%, reduce 20 DEF, increase 50 ⚔️STR and 20% SPD,",
+  "dv2.artifacts.cast_off.1.0":"When HP lower than 50%, reduce 50 DEF, increase 50 ⚔️STR and 20% SPD,",
   "dv2.artifacts.cast_off.2.0":"and your DEF won’t more than 0.",
 
   "dv2.artifacts.battle_flag_attack":"Battle Flag <Attack>",
   "dv2.artifacts.battle_flag_attack.1.0":"Reduce 20 DEF and receive Glowing effect while using.",
-  "dv2.artifacts.battle_flag_attack.2.0":"Gain 40 🗡STR when no teammates within 6 block radius.",
+  "dv2.artifacts.battle_flag_attack.2.0":"Gain 40 🗡STR when no teammates within 15 block radius.",
+  "dv2.artifacts.battle_flag_attack.3.0":"",
+  "dv2.artifacts.battle_flag_attack.4.0":"",
+
 
   "dv2.artifacts.battle_flag_defend":"Battle Flag <Defend>",
   "dv2.artifacts.battle_flag_defend.1.0":"Reduce 10% SPD, 25% DAMAGE and receive Glowing effect while using.",
@@ -1636,7 +1639,7 @@
 
   "dv2.artifacts.book_of_wisdom":"Book of Wisdom",
   "dv2.artifacts.book_of_wisdom.1.0":"Reduce 30% Stamina while using.",
-  "dv2.artifacts.book_of_wisdom.2.0":"Increase teammate 75% ALL EM in an area of 7 blocks radius.",
+  "dv2.artifacts.book_of_wisdom.2.0":"Increase teammate 75% ALL EM in an area of 12 blocks radius.",
 
   "dv2.artifacts.aether_substance":"Aether Substance",
   "dv2.artifacts.aether_substance.1.0":"Your DEF WON'T BE OVER 0 while using.",
@@ -1657,17 +1660,17 @@
   "dv2.artifacts.defender":"Defender",
   "dv2.artifacts.defender.1.0":"Reduce 15% SPD, DAMAGE and receive Glowing effect while using.",
   "dv2.artifacts.defender.2.0":"Give enemy Darkness effect and reduce 10% SPD in an area of 15 blocks radius.",
-  "dv2.artifacts.defender.3.0":"Your teammate in an area of 5 blocks radius will immune Glowing effect.",
+  "dv2.artifacts.defender.3.0":"Your teammate in an area of 7 blocks radius will immune Glowing effect.",
 
   "dv2.artifacts.shelter":"Shelter",
   "dv2.artifacts.shelter.1.0":"Delay 1s ATK-SPD and incrase 60 HP while using.",
   "dv2.artifacts.shelter.2.0":"When your HP is more than 40%,",
-  "dv2.artifacts.shelter.3.0":"your teammate in an area of 5 blocks radius will receive Invisibility effect.",
+  "dv2.artifacts.shelter.3.0":"your teammate in an area of 7 blocks radius will receive Invisibility effect.",
 
   "dv2.artifacts.guardian":"Guardian",
   "dv2.artifacts.guardian.1.0":"Increase 30 HP while using.",
   "dv2.artifacts.guardian.2.0":"When your HP is more than 30%,",
-  "dv2.artifacts.guardian.3.0":"teammate in an area of 7 blocks radius will increase 30 DEF.",
+  "dv2.artifacts.guardian.3.0":"teammate in an area of 12 blocks radius will increase 30 DEF.",
 
 
 

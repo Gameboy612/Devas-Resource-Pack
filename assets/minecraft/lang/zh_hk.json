@@ -1360,7 +1360,7 @@
   "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
   "dv2.artifacts.battle_flag_attack.1.0":"使用時減少 20 DEF，並獲得發光效果。",
   "dv2.artifacts.battle_flag_attack.2.0":"增加 40 🗡STR,",
-  "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑6格範圍內的隊友，將會減少你 40 🗡STR",
+  "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑15格範圍內的隊友，將會減少你 40 🗡STR",
   "dv2.artifacts.battle_flag_attack.4.0":"(上限：1位玩家)",
   "dv2.artifacts.battle_flag_defend":"戰旗 <防禦模式>",
   "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% SPD, 25% DMG，並獲得發光效果。",
