@@ -149,6 +149,9 @@
     {"predicate": {"custom_model_data":7100009}, "model": "rpg/gadget/reborn_heart"},
     {"predicate": {"custom_model_data":7100010}, "model": "rpg/gadget/overload"},
     {"predicate": {"custom_model_data":7100011}, "model": "rpg/gadget/deployable_placeholder"},
-    {"predicate": {"custom_model_data":7100012}, "model": "rpg/gadget/jump_pad"}
+    {"predicate": {"custom_model_data":7100012}, "model": "rpg/gadget/jump_pad"},
+    {"predicate": {"custom_model_data":7100013}, "model": "rpg/gadget/stun_pad"},
+    {"predicate": {"custom_model_data":7100013}, "model": "rpg/gadget/potion/natural_potion"},
+    {"predicate": {"custom_model_data":7100013}, "model": "rpg/gadget/potion/explosive_trap"}
   ]
 }
