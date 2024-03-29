@@ -1,10 +1,10 @@
 {
 	"credit": "Made by lavafoxerex",
 	"textures": {
-		"0": "blocks/anvil",
-		"1": "blocks/smooth_stone",
-		"2": "blocks/campfire_fire",
-		"particle": "blocks/anvil"
+		"0": "block/anvil",
+		"1": "block/smooth_stone",
+		"2": "block/campfire_fire",
+		"particle": "block/anvil"
 	},
 	"elements": [
 		{
