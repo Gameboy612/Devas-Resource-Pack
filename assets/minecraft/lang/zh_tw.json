@@ -1359,27 +1359,27 @@
 
 
   "dv2.artifacts.fighter":"鬥士",
-  "dv2.artifacts.fighter.1.0":"當你的 DEF 低於 20 時，增加 30 🗡STR",
-  "dv2.artifacts.fighter.2.0":"持有此飾品時，你的 🗡STR 將不會超過 40",
+  "dv2.artifacts.fighter.1.0":"當你的 DEF 低於 20 時，增加 20 🗡STR",
+  "dv2.artifacts.fighter.2.0":"持有此飾品時，你的 🗡STR 將不會超過 50",
   "dv2.artifacts.soldier":"軍人",
-  "dv2.artifacts.soldier.1.0":"當你的最大 HP 低於 115 時，增加 30 🗡STR",
-  "dv2.artifacts.soldier.2.0":"持有此飾品時，你的 🗡STR 將不會超過 40",
+  "dv2.artifacts.soldier.1.0":"當你的最大 HP 低於 115 時，增加 20 🗡STR",
+  "dv2.artifacts.soldier.2.0":"持有此飾品時，你的 🗡STR 將不會超過 50",
 
 
   "dv2.artifacts.rose_of_void":"奈落之瑰",
-  "dv2.artifacts.rose_of_void.1.0":"將半徑 7 格範圍內敵人的 DEF 降至 50%",
+  "dv2.artifacts.rose_of_void.1.0":"將半徑 12 格範圍內敵人的 DEF 降至 50%",
 
   "dv2.artifacts.pearl_of_abyss":"虛淵珍珠",
-  "dv2.artifacts.pearl_of_abyss.1.0":"減少半徑 7 格範圍內的敵人 40 🗡🏹STR",
+  "dv2.artifacts.pearl_of_abyss.1.0":"減少半徑 12 格範圍內的敵人 40 🗡🏹STR",
 
   "dv2.artifacts.drip_of_acheron":"黃泉之淚",
-  "dv2.artifacts.drip_of_acheron.1.0":"將半徑 7 格範圍內敵人的治療幅度降至 50%",
+  "dv2.artifacts.drip_of_acheron.1.0":"將半徑 12 格範圍內敵人的治療幅度降至 50%",
 
 
 
   "dv2.artifacts.awakened":"覺者",
   "dv2.artifacts.awakened.1.0":"你將會獲得致盲效果，",
-  "dv2.artifacts.awakened.2.0":"並增加 33% 全屬性魔法 DMG 及 Base Mana",
+  "dv2.artifacts.awakened.2.0":"並增加 50% 全屬性魔法 DMG 及 Base Mana",
 
   "dv2.artifacts.cast_off":"蛻殻",
   "dv2.artifacts.cast_off.1.0":"當 HP 低於 50% 時，減少 50 DEF，並且你的 DEF 將不會高於 0，",
@@ -1402,7 +1402,7 @@
 
   "dv2.artifacts.book_of_wisdom":"智慧之書",
   "dv2.artifacts.book_of_wisdom.1.0":"使用時減少 30% Stamina",
-  "dv2.artifacts.book_of_wisdom.2.0":"增加半徑7格範圍内隊友 75% 的 全屬性EM",
+  "dv2.artifacts.book_of_wisdom.2.0":"增加半徑12格範圍内隊友 75% 的 全屬性EM",
 
   "dv2.artifacts.aether_substance":"以太物質",
   "dv2.artifacts.aether_substance.1.0":"持有此製品時，你的 DEF 將不會高於 0",
@@ -1423,17 +1423,17 @@
   "dv2.artifacts.defender":"防守者",
   "dv2.artifacts.defender.1.0":"使用時減少 15% SPD 及 DMG，並獲得發光效果。",
   "dv2.artifacts.defender.2.0":"給予半徑15格範圍內的敵人黑暗效果。",
-  "dv2.artifacts.defender.3.0":"半徑5格範圍內的隊友將會免疫發光效果。",
+  "dv2.artifacts.defender.3.0":"半徑7格範圍內的隊友將會免疫發光效果。",
 
   "dv2.artifacts.shelter":"庇護所",
   "dv2.artifacts.shelter.1.0":"使用時增加 60 HP 及 1秒攻擊間隔。",
   "dv2.artifacts.shelter.2.0":"當你的 HP 高於 40% 時，",
-  "dv2.artifacts.shelter.3.0":"半徑5格範圍內的隊友將會獲得隱形效果。",
+  "dv2.artifacts.shelter.3.0":"半徑7格範圍內的隊友將會獲得隱形效果。",
 
   "dv2.artifacts.guardian":"守衛者",
   "dv2.artifacts.guardian.1.0":"使用時增加 30 HP",
   "dv2.artifacts.guardian.2.0":"當你的 HP 高於 30% 時，",
-  "dv2.artifacts.guardian.3.0":"增加半徑7格範圍內的隊友 30 DEF",
+  "dv2.artifacts.guardian.3.0":"增加半徑12格範圍內的隊友 30 DEF",
 
 
 
