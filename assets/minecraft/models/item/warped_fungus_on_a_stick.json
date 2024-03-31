@@ -152,6 +152,8 @@
     {"predicate": {"custom_model_data":7100012}, "model": "rpg/gadget/jump_pad"},
     {"predicate": {"custom_model_data":7100013}, "model": "rpg/gadget/stun_trap"},
     {"predicate": {"custom_model_data":7100014}, "model": "rpg/gadget/potion/natural_potion"},
-    {"predicate": {"custom_model_data":7100015}, "model": "rpg/gadget/explosive_trap"}
+    {"predicate": {"custom_model_data":7100015}, "model": "rpg/gadget/explosive_trap"},
+    {"predicate": {"custom_model_data":7100016}, "model": "rpg/gadget/acedia"},
+    {"predicate": {"custom_model_data":7100017}, "model": "rpg/gadget/nihilitys_gaze"}
   ]
 }
