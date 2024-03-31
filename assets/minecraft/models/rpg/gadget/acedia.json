@@ -1,0 +1,8 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "rpg/gadget/acedia",
+		"particle": "rpg/gadget/acedia"
+	},
+	"parent": "rpg/gadget/battle_horn"
+}
