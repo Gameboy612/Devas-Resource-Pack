@@ -702,6 +702,16 @@
   "dv2.gui.category.element.dark.ability_item": "Ability Item",
   "dv2.gui.category.element.dark.ultimate": "Ultimate",
 
+
+  "dv2.ultimate.rampage": "Rampage",
+  "dv2.ultimate.purify": "Purify",
+  "dv2.ultimate.death_chain": "Death Chain",
+  "dv2.ultimate.starfall": "Starfall",
+  "dv2.ultimate.death_mark": "Death Mark",
+  "dv2.ultimate.glory_heart": "Glory Heart",
+  "dv2.ultimate.great_grenade": "Great Grenade",
+  "dv2.ultimate.instant_protect": "Instant Protect",
+
   
   "dv2.ability.dagger.0.0": "Dagger (Right Click)",
   "dv2.ability.dagger.1.0": "Deal ",

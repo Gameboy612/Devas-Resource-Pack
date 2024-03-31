@@ -9,5 +9,12 @@
             "}"
         ],
         "description": "uwu"
+    },
+    "line": {
+        "prefix": "line",
+        "body": [
+            "\"dv2.${1:LINE HERE}\": \"${2:LINE HERE}\","
+        ],
+        "description": "uwu"
     }
 }

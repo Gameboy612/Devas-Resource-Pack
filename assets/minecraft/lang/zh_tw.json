@@ -445,6 +445,16 @@
   "dv2.gui.category.element.dark.ultimate": "終極技能",
 
 
+  "dv2.ultimate.rampage": "狂暴",
+  "dv2.ultimate.purify": "淨化",
+  "dv2.ultimate.death_chain": "死亡連鎖",
+  "dv2.ultimate.starfall": "星塵",
+  "dv2.ultimate.death_mark": "死亡印記",
+  "dv2.ultimate.glory_heart": "榮耀之心",
+  "dv2.ultimate.great_grenade": "自爆兵",
+  "dv2.ultimate.instant_protect": "瞬移堡壘",
+
+
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
   "dv2.ability.dagger.1.0": "右鍵時造成匕首原本傷害的",
   "dv2.ability.dagger.1.1": "0.3",
