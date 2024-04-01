@@ -2,8 +2,8 @@
 	"credit": "Made by lavafoxerex",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "rpg/gadget/acedia",
-		"particle": "rpg/gadget/acedia"
+		"0": "rpg/gadget/battle_horn",
+		"particle": "rpg/gadget/battle_horn"
 	},
 	"elements": [
 		{
