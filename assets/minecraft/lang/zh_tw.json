@@ -525,7 +525,7 @@
 
   "dv2.ability.excalibur.2.0.0": "王者的意志",
   "dv2.ability.excalibur.2.1.0": "在 HP 低於51%時增加",
-  "dv2.ability.excalibur.2.1.1": "4點DMG <+20.0 EM>",
+  "dv2.ability.excalibur.2.1.1": "3點DMG <+20.0 EM>",
   "dv2.ability.excalibur.2.1.2": "",
 
   "dv2.weapon.melee.leaf_steel_sword": "鋼葉劍",
@@ -1445,7 +1445,15 @@
   "dv2.artifacts.guardian.2.0":"當你的 HP 高於 30% 時，",
   "dv2.artifacts.guardian.3.0":"增加半徑12格範圍內的隊友 30 DEF",
 
-
+  "dv2.artifacts.quick_aim.1":"Quick Aim I",
+  "dv2.artifacts.quick_aim.1.1":"When Your Bow's ⌚Load More than 0.5s,",
+  "dv2.artifacts.quick_aim.1.2":"Reduce 10% ⌚Load.",
+  "dv2.artifacts.quick_aim.2":"Quick Aim II",
+  "dv2.artifacts.quick_aim.2.1":"When Your Bow's ⌚Load More than 0.5s,",
+  "dv2.artifacts.quick_aim.2.2":"Reduce 20% ⌚Load.",
+  "dv2.artifacts.quick_aim.3":"Quick Aim III",
+  "dv2.artifacts.quick_aim.3.1":"When Your Bow's ⌚Load More than 0.5s,",
+  "dv2.artifacts.quick_aim.3.2":"Reduce 30% ⌚Load.",
 
 
 
