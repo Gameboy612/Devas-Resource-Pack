@@ -1527,9 +1527,9 @@
   "dv2.artifacts.coward.2.0":"Increase SPD by 30% when HP lower Than 33%.",
 
   "dv2.artifacts.shield.1":"Shield I",
-  "dv2.artifacts.shield.1.1.0":"Increase 20 DEF when holding a shield.",
+  "dv2.artifacts.shield.1.1.0":"Increase 10 DEF when holding a shield.",
   "dv2.artifacts.shield.2":"Shield II",
-  "dv2.artifacts.shield.2.1.0":"Increase 30 DEF when holding a shield.",
+  "dv2.artifacts.shield.2.1.0":"Increase 20 DEF when holding a shield.",
   "dv2.artifacts.shield.3":"Shield III",
   "dv2.artifacts.shield.3.1.0":"Increase 40 DEF when holding a shield.",
 
