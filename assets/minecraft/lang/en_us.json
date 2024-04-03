@@ -1683,13 +1683,13 @@
   "dv2.artifacts.guardian.3.0":"teammate in an area of 12 blocks radius will increase 30 DEF.",
 
   "dv2.artifacts.quick_aim.1":"Quick Aim I",
-  "dv2.artifacts.quick_aim.1.1":"When Your Bow's ⌚Load More than 0.5s,",
+  "dv2.artifacts.quick_aim.1.1":"When Your Bow's ⌚Load More than 0.4s,",
   "dv2.artifacts.quick_aim.1.2":"Reduce 10% ⌚Load.",
   "dv2.artifacts.quick_aim.2":"Quick Aim II",
-  "dv2.artifacts.quick_aim.2.1":"When Your Bow's ⌚Load More than 0.5s,",
+  "dv2.artifacts.quick_aim.2.1":"When Your Bow's ⌚Load More than 0.4s,",
   "dv2.artifacts.quick_aim.2.2":"Reduce 20% ⌚Load.",
   "dv2.artifacts.quick_aim.3":"Quick Aim III",
-  "dv2.artifacts.quick_aim.3.1":"When Your Bow's ⌚Load More than 0.5s,",
+  "dv2.artifacts.quick_aim.3.1":"When Your Bow's ⌚Load More than 0.4s,",
   "dv2.artifacts.quick_aim.3.2":"Reduce 30% ⌚Load.",
 
 
