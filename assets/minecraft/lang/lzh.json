@@ -232,6 +232,9 @@
   "dv2.game.start.1": "戲始！",
   "dv2.game.end.1": "戲制終！",
 
+  "dv2.dead.actionbar": "You will respawn in %s.%ss.",
+  "dv2.game.stage.process.capture.feedback.claimed_item": "You received +100 Points from the claimable.",
+
   "dv2.game.stage.process.lifesteal.feedback.1": "[食血] ",
   "dv2.game.stage.process.lifesteal.feedback.2": "汝尚餘 ",
   "dv2.game.stage.process.lifesteal.feedback.3": " 命。",

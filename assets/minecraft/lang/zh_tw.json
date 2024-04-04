@@ -166,6 +166,9 @@
   "dv2.game.start.1": "遊戲開始！",
   "dv2.game.end.1": "遊戲強制完結！",
 
+  "dv2.dead.actionbar": "You will respawn in %s.%ss.",
+  "dv2.game.stage.process.capture.feedback.claimed_item": "You received +100 Points from the claimable.",
+  
   "dv2.game.stage.process.lifesteal.feedback.1": "[奪命模式] ",
   "dv2.game.stage.process.lifesteal.feedback.2": "你還剩餘 ",
   "dv2.game.stage.process.lifesteal.feedback.3": " 條命。",
