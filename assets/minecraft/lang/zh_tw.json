@@ -1564,6 +1564,12 @@
   "dv2.gadget.stun_trap.4.0": "當玩家放置第三個爆炸陷阱時，",
   "dv2.gadget.stun_trap.5.0": "最舊的將會被替換。每個陷阱會持續180秒。",   
 
+  "dv2.gadget.crystal_shield": "Crystal Shield",
+  "dv2.gadget.crystal_shield.1.0": "Maximum Carrying Amount: 2 | Limited Per Life", 
+  "dv2.gadget.crystal_shield.2.0": "Gain 2.5s Invulnerability.",
+
+
+
   "dv2.point":"點數 (PT)",
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
 
