@@ -1446,15 +1446,15 @@
   "dv2.artifacts.guardian.2.0":"當你的 HP 高於 30% 時，",
   "dv2.artifacts.guardian.3.0":"增加半徑12格範圍內的隊友 30 DEF",
 
-  "dv2.artifacts.quick_aim.1":"Quick Aim I",
-  "dv2.artifacts.quick_aim.1.1":"When Your Bow's ⌚Load More than 0.4s,",
-  "dv2.artifacts.quick_aim.1.2":"Reduce 10% ⌚Load.",
-  "dv2.artifacts.quick_aim.2":"Quick Aim II",
-  "dv2.artifacts.quick_aim.2.1":"When Your Bow's ⌚Load More than 0.4s,",
-  "dv2.artifacts.quick_aim.2.2":"Reduce 20% ⌚Load.",
-  "dv2.artifacts.quick_aim.3":"Quick Aim III",
-  "dv2.artifacts.quick_aim.3.1":"When Your Bow's ⌚Load More than 0.4s,",
-  "dv2.artifacts.quick_aim.3.2":"Reduce 30% ⌚Load.",
+  "dv2.artifacts.quick_aim.1":"快速瞄準 I",
+  "dv2.artifacts.quick_aim.1.1":"如果你的 ⌚ 拉弓時間超過 0.4 秒，",
+  "dv2.artifacts.quick_aim.1.2":"減少 10% 拉弓時間。",
+  "dv2.artifacts.quick_aim.2":"快速瞄準 II",
+  "dv2.artifacts.quick_aim.2.1":"如果你的 ⌚ 拉弓時間超過 0.4 秒，",
+  "dv2.artifacts.quick_aim.2.2":"減少 20% 拉弓時間。",
+  "dv2.artifacts.quick_aim.3":"快速瞄準 III",
+  "dv2.artifacts.quick_aim.3.1":"如果你的 ⌚ 拉弓時間超過 0.4 秒，",
+  "dv2.artifacts.quick_aim.3.2":"減少 30% 拉弓時間。",
 
 
 
