@@ -806,7 +806,7 @@
   "dv2.ability.giant_sword.1.0.0": "Defense is the Best Offense",
   "dv2.ability.giant_sword.1.1.0": "Increase ",
   "dv2.ability.giant_sword.1.1.1": "1",
-  "dv2.ability.giant_sword.1.1.2": " DMG per 20 DEF.",
+  "dv2.ability.giant_sword.1.1.2": " DMG per 40 DEF.",
 
   "dv2.weapon.melee.great_sword.might_of_an_utu": "Manifestation of An-Utu",
   "dv2.weapon.melee.great_sword.might_of_an_utu.description": "Feeling the judgement of Shamash.",
@@ -1390,7 +1390,7 @@
   "dv2.spells.long_lasting.earth.2.defensive_array.1.2": " to all nearby allies.",
   "dv2.spells.long_lasting.earth.2.defensive_array.2": "(Lasts for 30 seconds)",
   "dv2.spells.long_lasting.earth.2.defensive_array.3.0": "Cost: ",
-  "dv2.spells.long_lasting.earth.2.defensive_array.3.1": "3000 Mana",
+  "dv2.spells.long_lasting.earth.2.defensive_array.3.1": "1000 Mana",
 
 
 
@@ -1398,13 +1398,13 @@
   "dv2.spells.long_lasting.earth.1.meat_shield": "Meat Shield",
   "dv2.spells.long_lasting.earth.1.meat_shield.0": "<Long Lasting>",
   "dv2.spells.long_lasting.earth.1.meat_shield.1.0": "Gives ",
-  "dv2.spells.long_lasting.earth.1.meat_shield.1.1": "120 DEF",
+  "dv2.spells.long_lasting.earth.1.meat_shield.1.1": "70 DEF",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.0": "to all allies within a ",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.1": "5 Block Radius",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.2": ".",
   "dv2.spells.long_lasting.earth.1.meat_shield.3": "(Lasts for 20 seconds, Cooldown: 25s)",
   "dv2.spells.long_lasting.earth.1.meat_shield.4.0": "Cost: ",
-  "dv2.spells.long_lasting.earth.1.meat_shield.4.1": "3500 Stamina",
+  "dv2.spells.long_lasting.earth.1.meat_shield.4.1": "4000 Stamina",
 
   "dv2.spells.long_lasting.water.2.mana_recovery_array": "Mana Recovery Array ",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.0": "<Long Lasting>",
@@ -1802,7 +1802,7 @@
 
   "dv2.gadget.crystal_shield": "Crystal Shield",
   "dv2.gadget.crystal_shield.1.0": "Maximum Carrying Amount: 2 | Limited Per Life", 
-  "dv2.gadget.crystal_shield.2.0": "Gain 1.5s Invulnerability.",
+  "dv2.gadget.crystal_shield.2.0": "Gain 1s Invulnerability.",
 
 
 
