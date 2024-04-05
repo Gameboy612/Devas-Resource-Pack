@@ -166,6 +166,9 @@
   "dv2.game.start.1": "遊戲開始！",
   "dv2.game.end.1": "遊戲強制完結！",
 
+  "dv2.dead.actionbar": "你將在%s.%s秒後重生。",
+  "dv2.game.stage.process.capture.feedback.claimed_item": "你從掉落物中獲得了100點。",
+  
   "dv2.game.stage.process.lifesteal.feedback.1": "[奪命模式] ",
   "dv2.game.stage.process.lifesteal.feedback.2": "你還剩餘 ",
   "dv2.game.stage.process.lifesteal.feedback.3": " 條命。",
@@ -1562,9 +1565,9 @@
   "dv2.gadget.stun_trap.4.0": "當玩家放置第三個爆炸陷阱時，",
   "dv2.gadget.stun_trap.5.0": "最舊的將會被替換。每個陷阱會持續180秒。",   
 
-  "dv2.gadget.crystal_shield": "Crystal Shield",
-  "dv2.gadget.crystal_shield.1.0": "Maximum Carrying Amount: 2 | Limited Per Life", 
-  "dv2.gadget.crystal_shield.2.0": "Gain 1s Invulnerability.",
+  "dv2.gadget.crystal_shield": "水晶護盾",
+  "dv2.gadget.crystal_shield.1.0": "最大持有數：2 | 重生時補充", 
+  "dv2.gadget.crystal_shield.2.0": "獲得1秒的無敵。",
 
 
 

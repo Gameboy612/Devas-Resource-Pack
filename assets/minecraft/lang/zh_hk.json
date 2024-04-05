@@ -166,6 +166,9 @@
   "dv2.game.start.1": "遊戲開始！",
   "dv2.game.end.1": "遊戲強制完結！",
 
+  "dv2.dead.actionbar": "你將在%s.%s秒後重生。",
+  "dv2.game.stage.process.capture.feedback.claimed_item": "你從掉落物中獲得了100點。",
+  
   "dv2.game.stage.process.lifesteal.feedback.1": "[奪命模式] ",
   "dv2.game.stage.process.lifesteal.feedback.2": "你還剩餘 ",
   "dv2.game.stage.process.lifesteal.feedback.3": " 條命。",
@@ -306,6 +309,8 @@
   "dv2.gui.category.spell.others": "其他",
   "dv2.gui.category.ability_item.arrow": "特殊箭矢",
   "dv2.gui.category.ability_item.melee": "近戰道具",
+  "dv2.gui.category.ability_item.gem": "寶石",
+  "dv2.gui.category.ability_item.others": "其他",
   "dv2.gui.category.signature.offensive": "攻擊型",
   "dv2.gui.category.signature.survival": "生存型",
   "dv2.gui.category.element.fire": "火屬性元素",
@@ -391,6 +396,11 @@
   "dv2.gui.category.ability_item.arrow.elemental": "元素型",
   "dv2.gui.category.ability_item.melee.powder": "粉末",
   "dv2.gui.category.ability_item.melee.others": "其他",
+  "dv2.gui.category.ability_item.gem.health": "生命型",
+  "dv2.gui.category.ability_item.gem.mana": "魔力型",
+  "dv2.gui.category.ability_item.gem.stamina": "耐力型",
+  "dv2.gui.category.ability_item.gem.others": "其他",  
+  "dv2.gui.category.ability_item.others.others": "其他",
   "dv2.gui.category.signature.offensive.damage": "攻擊型",
   "dv2.gui.category.signature.offensive.lifesteal": "生命掠奪型",
   "dv2.gui.category.signature.offensive.elemental": "元素型",
@@ -438,6 +448,16 @@
   "dv2.gui.category.element.dark.ultimate": "終極技能",
 
 
+  "dv2.ultimate.rampage": "狂暴",
+  "dv2.ultimate.purify": "淨化",
+  "dv2.ultimate.death_chain": "死亡連鎖",
+  "dv2.ultimate.starfall": "星塵",
+  "dv2.ultimate.death_mark": "死亡印記",
+  "dv2.ultimate.glory_heart": "榮耀之心",
+  "dv2.ultimate.great_grenade": "自爆兵",
+  "dv2.ultimate.instant_protect": "瞬移堡壘",
+
+
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
   "dv2.ability.dagger.1.0": "右鍵時造成匕首原本傷害的",
   "dv2.ability.dagger.1.1": "0.3",
@@ -455,14 +475,14 @@
 
   "dv2.ability.greatsword.0.0": "巨劍 (右鍵發動)",
   "dv2.ability.greatsword.1.0": "右鍵時造成巨劍原本傷害",
-  "dv2.ability.greatsword.1.1": "3",
+  "dv2.ability.greatsword.1.1": "2",
   "dv2.ability.greatsword.1.2": "倍的範圍傷害",
   "dv2.ability.greatsword.2.0": "（需要大量的 Stamina，並會減緩你的速度）",
 
   "dv2.ability.odachi.0.0": "大太刀 (右鍵發動)",
   "dv2.ability.odachi.1.0": "右鍵時向前突刺，",
   "dv2.ability.odachi.2.0": "對路徑上的敵人造成 ",
-  "dv2.ability.odachi.2.1": "2.5倍的 DMG",
+  "dv2.ability.odachi.2.1": "2倍的 DMG",
   "dv2.ability.odachi.2.2": "",
 
 
@@ -507,8 +527,8 @@
   "dv2.ability.excalibur.1.1.3": "效果",
 
   "dv2.ability.excalibur.2.0.0": "王者的意志",
-  "dv2.ability.excalibur.2.1.0": "在 HP 低於40%時增加",
-  "dv2.ability.excalibur.2.1.1": "2點光屬性DMG <+8.0 EM>",
+  "dv2.ability.excalibur.2.1.0": "在 HP 低於51%時增加",
+  "dv2.ability.excalibur.2.1.1": "3點DMG <+20.0 EM>",
   "dv2.ability.excalibur.2.1.2": "",
 
   "dv2.weapon.melee.leaf_steel_sword": "鋼葉劍",
@@ -525,7 +545,7 @@
   "dv2.weapon.melee.giant_sword.description": "由暮光之神所鍛造的劍。",
 
   "dv2.ability.giant_sword.1.0.0": "防禦是最好的攻擊",
-  "dv2.ability.giant_sword.1.1.0": "每 40 DEF 將增加",
+  "dv2.ability.giant_sword.1.1.0": "每 20 DEF 將增加",
   "dv2.ability.giant_sword.1.1.1": " 1 ",
   "dv2.ability.giant_sword.1.1.2": "DMG",
 
@@ -548,7 +568,7 @@
   "dv2.ability.might_of_an_utu.2.2.1.zh": "30",
   "dv2.ability.might_of_an_utu.2.2.2": " 最大 HP 增加",
   "dv2.ability.might_of_an_utu.2.2.3": "",
-  "dv2.ability.might_of_an_utu.2.2.3.zh": "1點火屬性DMG",
+  "dv2.ability.might_of_an_utu.2.2.3.zh": "1 DMG",
   "dv2.ability.might_of_an_utu.2.2.4": "",
   "dv2.ability.might_of_an_utu.2.2.5": "",
   "dv2.ability.might_of_an_utu.2.3.0": "(當你的 HP 超過 50% 時將減至 50% HP)",
@@ -561,7 +581,7 @@
   "dv2.ability.might_of_an_utu.3.2.0": "增加",
   "dv2.ability.might_of_an_utu.3.2.1": "20 DEF",
   "dv2.ability.might_of_an_utu.3.2.2": "，",
-  "dv2.ability.might_of_an_utu.3.2.3": "6 ",
+  "dv2.ability.might_of_an_utu.3.2.3": "5 ",
   "dv2.ability.might_of_an_utu.3.2.4": "DMG ",
   "dv2.ability.might_of_an_utu.3.2.5": "以及 20 全屬性 AFF",
 
@@ -573,7 +593,7 @@
 
   "dv2.ability.soul_scythe.1.0.0": "聚魂者",
   "dv2.ability.soul_scythe.1.1.0": "每次擊殺都會增加 ",
-  "dv2.ability.soul_scythe.1.1.2": " 1.5點暗屬性DMG",
+  "dv2.ability.soul_scythe.1.1.2": " 1點DMG",
   "dv2.ability.soul_scythe.1.1.4": "(最多5次)",
 
   "dv2.ability.soul_scythe.2.0.0": "嗜魂者",
@@ -631,7 +651,7 @@
   "dv2.ability.jormungandrs_tooth.2.0.0":"銜尾蛇的吞噬",
   "dv2.ability.jormungandrs_tooth.2.1.0":"副手持有這把武器時蹲下以給予半徑5格範圍内的敵人",
   "dv2.ability.jormungandrs_tooth.2.2.0":"效果。",
-  "dv2.ability.jormungandrs_tooth.2.3.0":"(消耗 Mana)",
+  "dv2.ability.jormungandrs_tooth.2.3.0":"(消耗固定 5000 Mana)",
 
 
 
@@ -640,7 +660,7 @@
   "dv2.ability.jormungandrs_scale.1.0.0":"莫比烏斯環",
   "dv2.ability.jormungandrs_scale.1.1.0":"不持盾時增加",
   "dv2.ability.jormungandrs_scale.1.1.1":" 10 ",
-  "dv2.ability.jormungandrs_scale.1.1.2":"物理&全屬性 DEF,",
+  "dv2.ability.jormungandrs_scale.1.1.2":"DEF,",
   "dv2.ability.jormungandrs_scale.1.2.0":"HP ",
   "dv2.ability.jormungandrs_scale.1.2.1":"及",
   "dv2.ability.jormungandrs_scale.1.2.2":" 3000 ",
@@ -684,11 +704,11 @@
   "dv2.weapon.melee.odachi.muramasa.description.2": "",
   "dv2.ability.muramasa.1.0.0": "村正",
   "dv2.ability.muramasa.1.1.0": "每擁有",
-  "dv2.ability.muramasa.1.1.1": "1點暗屬性DMG，",
+  "dv2.ability.muramasa.1.1.1": "2點暗屬性EM，",
   "dv2.ability.muramasa.1.1.2": "增加",
-  "dv2.ability.muramasa.1.1.3": "0.1點暗屬性EM",
+  "dv2.ability.muramasa.1.1.3": "1點 DMG",
   "dv2.ability.muramasa.1.1.4": "",
-  "dv2.ability.muramasa.1.2.0": "(上限為1.5點暗屬性EM)",
+  "dv2.ability.muramasa.1.2.0": "",
   "dv2.ability.muramasa.2.0.0": "與惡鬼的契約",
   "dv2.ability.muramasa.2.1.0": "當 HP 低於 ",
   "dv2.ability.muramasa.2.1.1": "50%",
@@ -722,8 +742,8 @@
   "dv2.ability.jurisdiction_of_selene.2.2.1":"效果",
   "dv2.ability.jurisdiction_of_selene.2.2.2":"",
   "dv2.ability.jurisdiction_of_selene.3.0.0":"新月",
-  "dv2.ability.jurisdiction_of_selene.3.1.0":"減少直徑4格範圍内的敵人",
-  "dv2.ability.jurisdiction_of_selene.3.1.1":"10% SPD",
+  "dv2.ability.jurisdiction_of_selene.3.1.0":"直徑4格範圍内的敵人",
+  "dv2.ability.jurisdiction_of_selene.3.1.1":"冰凍效果",
   "dv2.ability.jurisdiction_of_selene.3.1.2":"",
   "dv2.ability.jurisdiction_of_selene.4.0.0":"鏡花水月",
   "dv2.ability.jurisdiction_of_selene.4.1.0":"潛行以控制水流，",
@@ -827,8 +847,9 @@
   "dv2.ability.nightmare.1.1.1": "1.5秒",
   "dv2.ability.nightmare.1.1.2": "時，",
   "dv2.ability.nightmare.1.2.0": "你將會獲得",
+  "dv2.ability.nightmare.1.2.1": "200% ALL 🏹EM",
   "dv2.ability.nightmare.1.2.2": "1.5秒，箭矢會獲得",
-  "dv2.ability.nightmare.1.3.0": "3.6點暗屬性DMG <+3.0 EM>",
+  "dv2.ability.nightmare.1.3.0": "3 DMG",
   "dv2.ability.nightmare.1.3.1": "，並且你的箭矢會以",
   "dv2.ability.nightmare.1.3.2": "6 ms⁻¹",
   "dv2.ability.nightmare.1.3.3": "的速度行進",
@@ -836,7 +857,7 @@
   "dv2.ability.nightmare.2.0.0": "完全蓄力",
   "dv2.ability.nightmare.2.1.0": "當你的弓拉滿時，你將會",
   "dv2.ability.nightmare.2.2.0": "獲得",
-  "dv2.ability.nightmare.2.2.1": "1.8點暗屬性DMG <+7.0 EM>",
+  "dv2.ability.nightmare.2.2.1": "1.8 DMG <+7.0 EM>",
   "dv2.ability.nightmare.2.2.2": "",
 
   
@@ -976,7 +997,7 @@
   "dv2.ability.waltz.steps.1.0.0": "喪狂舞步 [雙擊蹲下]",
   "dv2.ability.waltz.steps.1.1.0": "根據玩家的元素，在5秒內給予15格半徑",
   "dv2.ability.waltz.steps.1.2.0": "範圍內的敵人所對應的元素減益效果",
-  "dv2.ability.waltz.steps.1.3.0": "受影響的敵人會被附加持續40秒",
+  "dv2.ability.waltz.steps.1.3.0": "受影響的敵人會被附加持續120秒",
   "dv2.ability.waltz.steps.1.4.0": "的詛咒，詛咒最多可疊加5次",
   "dv2.ability.waltz.steps.1.5.0": "(每次附加詛咒之間有18秒的間隔)",
   "dv2.ability.waltz.steps.1.6.0": "一旦使用，使用者的ALL DMG將被減少50%",
@@ -1037,9 +1058,12 @@
   "dv2.item.powder.elemental.super":"超級粉末",
 
   "dv2.item.special.whetstone":"磨刀石",
+  "dv2.item.special.flint":"燧石",
 
-
-
+  "dv2.item.gem.ruby":"紅寶石",
+  "dv2.item.gem.sapphire":"藍寶石",
+  "dv2.item.gem.topaz":"托帕石",
+  "dv2.item.gem.aquamarine":"海藍寶石",
 
 
   "dv2.arrow.power.description.0": "當此箭被選取，",
@@ -1054,7 +1078,9 @@
   "dv2.item.melee.description.1.0": "您的近戰武器會獲得 ",
   "dv2.item.melee.description.1.2": "",
 
-
+  "dv2.item.gem.description.0": "當此寶石被選取，",
+  "dv2.item.gem.description.1.0": "您會獲得 ",
+  "dv2.item.gem.description.1.2": "",
 
 
   "dv2.spells.enchantments": " - 法陣效果",
@@ -1161,6 +1187,21 @@
   "dv2.spells.long_lasting.water.2.mana_recovery_array.3": "(持續30秒)",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.0": "消耗：",
   "dv2.spells.long_lasting.water.2.mana_recovery_array.4.1": "3000 Mana",
+
+  "dv2.spells.long_lasting.defense_shredding_array": "Defense Shredding Array",
+  "dv2.spells.long_lasting.defense_shredding_array.0": "<Long Lasting>",
+  "dv2.spells.long_lasting.defense_shredding_array.1.0": "Reduces the ",
+  "dv2.spells.long_lasting.defense_shredding_array.1.1": "DEF",
+  "dv2.spells.long_lasting.defense_shredding_array.1.2": " of your opponents within",
+  "dv2.spells.long_lasting.defense_shredding_array.2.0": "a ",
+  "dv2.spells.long_lasting.defense_shredding_array.2.1": "8 Block Radius",
+  "dv2.spells.long_lasting.defense_shredding_array.2.2": " by ",
+  "dv2.spells.long_lasting.defense_shredding_array.2.3": "30%",
+  "dv2.spells.long_lasting.defense_shredding_array.2.4": ".",
+  "dv2.spells.long_lasting.defense_shredding_array.3": "(Lasts for 20 seconds)",
+  "dv2.spells.long_lasting.defense_shredding_array.4.0": "Cost: ",
+  "dv2.spells.long_lasting.defense_shredding_array.4.1": "2500 Mana",
+
 
   "dv2.spells.burst.wind.2.leap": "飛躍 [⬈]",
   "dv2.spells.burst.wind.2.leap.0": "<爆發型>",
@@ -1295,7 +1336,7 @@
   "dv2.artifacts.tank.3.0":"使用時增加 20 DEF 和 20 HP",
 
   "dv2.artifacts.wanderer":"遊子",
-  "dv2.artifacts.wanderer.1.0":"每一位半徑7格範圍內的玩家，",
+  "dv2.artifacts.wanderer.1.0":"每一位半徑4格範圍內的玩家，",
   "dv2.artifacts.wanderer.2.0":"將會減少你 10 🏹 STR",
   "dv2.artifacts.wanderer.3.0":"使用時增加 30 🏹 STR",
   "dv2.artifacts.wanderer.4.0":"(上限：-10 🏹STR)",
@@ -1318,7 +1359,7 @@
   "dv2.artifacts.vampire.3.4.0":"回復等同於敵人最大 HP 的 25%",
 
   "dv2.artifacts.wave_sense.1":"感知 I",
-  "dv2.artifacts.wave_sense.1.1.1":"給予半徑5格範圍内的敵人",
+  "dv2.artifacts.wave_sense.1.1.1":"給予半徑7格範圍内的敵人",
   "dv2.artifacts.wave_sense.1.1.2":"效果",
   "dv2.artifacts.wave_sense.2":"感知 II",
   "dv2.artifacts.wave_sense.2.1.1":"給予半徑10格範圍内的敵人",
@@ -1331,30 +1372,30 @@
 
 
   "dv2.artifacts.fighter":"鬥士",
-  "dv2.artifacts.fighter.1.0":"當你的 DEF 低於 20 時，增加 30 🗡STR",
-  "dv2.artifacts.fighter.2.0":"持有此飾品時，你的 🗡STR 將不會超過 40",
+  "dv2.artifacts.fighter.1.0":"當你的 DEF 低於 20 時，增加 20 🗡STR",
+  "dv2.artifacts.fighter.2.0":"持有此飾品時，你的 🗡STR 將不會超過 50",
   "dv2.artifacts.soldier":"軍人",
-  "dv2.artifacts.soldier.1.0":"當你的最大 HP 低於 115 時，增加 30 🗡STR",
-  "dv2.artifacts.soldier.2.0":"持有此飾品時，你的 🗡STR 將不會超過 40",
+  "dv2.artifacts.soldier.1.0":"當你的最大 HP 低於 115 時，增加 20 🗡STR",
+  "dv2.artifacts.soldier.2.0":"持有此飾品時，你的 🗡STR 將不會超過 50",
 
 
   "dv2.artifacts.rose_of_void":"奈落之瑰",
-  "dv2.artifacts.rose_of_void.1.0":"將半徑 7 格範圍內敵人的 DEF 降至 50%",
+  "dv2.artifacts.rose_of_void.1.0":"將半徑 12 格範圍內敵人的 DEF 降至 50%",
 
   "dv2.artifacts.pearl_of_abyss":"虛淵珍珠",
-  "dv2.artifacts.pearl_of_abyss.1.0":"減少半徑 7 格範圍內的敵人 40 🗡🏹STR",
+  "dv2.artifacts.pearl_of_abyss.1.0":"減少半徑 12 格範圍內的敵人 40 🗡🏹STR",
 
   "dv2.artifacts.drip_of_acheron":"黃泉之淚",
-  "dv2.artifacts.drip_of_acheron.1.0":"將半徑 7 格範圍內敵人的治療幅度降至 50%",
+  "dv2.artifacts.drip_of_acheron.1.0":"將半徑 12 格範圍內敵人的治療幅度降至 50%",
 
 
 
   "dv2.artifacts.awakened":"覺者",
   "dv2.artifacts.awakened.1.0":"你將會獲得致盲效果，",
-  "dv2.artifacts.awakened.2.0":"並增加 33% 全屬性魔法 DMG 及 Base Mana",
+  "dv2.artifacts.awakened.2.0":"並增加 50% 全屬性魔法 DMG 及 Base Mana",
 
   "dv2.artifacts.cast_off":"蛻殻",
-  "dv2.artifacts.cast_off.1.0":"當 HP 低於 50% 時，減少 20 DEF，並且你的 DEF 將不會高於 0，",
+  "dv2.artifacts.cast_off.1.0":"當 HP 低於 50% 時，減少 50 DEF，並且你的 DEF 將不會高於 0，",
   "dv2.artifacts.cast_off.2.0":"同時增加 50 🗡STR 及 20% SPD",
 
   "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
@@ -1374,7 +1415,7 @@
 
   "dv2.artifacts.book_of_wisdom":"智慧之書",
   "dv2.artifacts.book_of_wisdom.1.0":"使用時減少 30% Stamina",
-  "dv2.artifacts.book_of_wisdom.2.0":"增加半徑7格範圍内隊友 75% 的 全屬性EM",
+  "dv2.artifacts.book_of_wisdom.2.0":"增加半徑12格範圍内隊友 75% 的 全屬性EM",
 
   "dv2.artifacts.aether_substance":"以太物質",
   "dv2.artifacts.aether_substance.1.0":"持有此製品時，你的 DEF 將不會高於 0",
@@ -1395,19 +1436,27 @@
   "dv2.artifacts.defender":"防守者",
   "dv2.artifacts.defender.1.0":"使用時減少 15% SPD 及 DMG，並獲得發光效果。",
   "dv2.artifacts.defender.2.0":"給予半徑15格範圍內的敵人黑暗效果。",
-  "dv2.artifacts.defender.3.0":"半徑5格範圍內的隊友將會免疫發光效果。",
+  "dv2.artifacts.defender.3.0":"半徑7格範圍內的隊友將會免疫發光效果。",
 
   "dv2.artifacts.shelter":"庇護所",
   "dv2.artifacts.shelter.1.0":"使用時增加 60 HP 及 1秒攻擊間隔。",
   "dv2.artifacts.shelter.2.0":"當你的 HP 高於 40% 時，",
-  "dv2.artifacts.shelter.3.0":"半徑5格範圍內的隊友將會獲得隱形效果。",
+  "dv2.artifacts.shelter.3.0":"半徑7格範圍內的隊友將會獲得隱形效果。",
 
   "dv2.artifacts.guardian":"守衛者",
   "dv2.artifacts.guardian.1.0":"使用時增加 30 HP",
   "dv2.artifacts.guardian.2.0":"當你的 HP 高於 30% 時，",
-  "dv2.artifacts.guardian.3.0":"增加半徑7格範圍內的隊友 30 DEF",
+  "dv2.artifacts.guardian.3.0":"增加半徑12格範圍內的隊友 30 DEF",
 
-
+  "dv2.artifacts.quick_aim.1":"Quick Aim I",
+  "dv2.artifacts.quick_aim.1.1":"When Your Bow's ⌚Load More than 0.4s,",
+  "dv2.artifacts.quick_aim.1.2":"Reduce 10% ⌚Load.",
+  "dv2.artifacts.quick_aim.2":"Quick Aim II",
+  "dv2.artifacts.quick_aim.2.1":"When Your Bow's ⌚Load More than 0.4s,",
+  "dv2.artifacts.quick_aim.2.2":"Reduce 20% ⌚Load.",
+  "dv2.artifacts.quick_aim.3":"Quick Aim III",
+  "dv2.artifacts.quick_aim.3.1":"When Your Bow's ⌚Load More than 0.4s,",
+  "dv2.artifacts.quick_aim.3.2":"Reduce 30% ⌚Load.",
 
 
 
@@ -1441,47 +1490,87 @@
   "dv2.gadget.ice_cage.2.0": "右鍵以在玩家周圍設置一個以其為中心，持續時間為7秒，7×7×5的冰籠。",
 
   "dv2.gadget.instant_barrier": "冰霜屏障",
-  "dv2.gadget.instant_barrier.1.0": "最大持有數：1 | 補充冷卻時間：90秒1個", 
+  "dv2.gadget.instant_barrier.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
   "dv2.gadget.instant_barrier.2.0": "右鍵以在玩家前方設置一個寬度為2格的冰牆。",
   "dv2.gadget.instant_barrier.3.0": "該冰牆將在30秒後，或者被近戰攻擊擊中40次後消失。",
 
   "dv2.gadget.large_hp_potion": "大瓶回復藥水",
-  "dv2.gadget.large_hp_potion.1.0": "最大持有數：1 | 補充冷卻時間：40秒1個", 
-  "dv2.gadget.large_hp_potion.2.0": "使用8秒後，將 HP 恢復至上限的100%",
+  "dv2.gadget.large_hp_potion.1.0": "最大持有數：1 | 補充冷卻時間：50秒1個", 
+  "dv2.gadget.large_hp_potion.2.0": "使用7秒後，將 HP 恢復至上限的100%",
 
   "dv2.gadget.small_hp_potion": "小瓶回復藥水",
-  "dv2.gadget.small_hp_potion.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
+  "dv2.gadget.small_hp_potion.1.0": "最大持有數：2 | 補充冷卻時間：30秒1個", 
   "dv2.gadget.small_hp_potion.2.0": "使用5秒後，將 HP 恢復至上限的33%",
 
   "dv2.gadget.large_mana_potion": "大瓶魔力藥水",
-  "dv2.gadget.large_mana_potion.1.0": "最大持有數：1 | 補充冷卻時間：30秒1個", 
-  "dv2.gadget.large_mana_potion.2.0": "使用8秒後，將Mana恢復至上限的100%",
+  "dv2.gadget.large_mana_potion.1.0": "最大持有數：1 | 補充冷卻時間：40秒1個", 
+  "dv2.gadget.large_mana_potion.2.0": "使用5秒後，將Mana恢復至上限的100%",
 
   "dv2.gadget.small_mana_potion": "小瓶魔力藥水",
-  "dv2.gadget.small_mana_potion.1.0": "最大持有數：3 | 補充冷卻時間：15秒1個", 
-  "dv2.gadget.small_mana_potion.2.0": "使用5秒後，將Mana恢復至上限的33%",
+  "dv2.gadget.small_mana_potion.1.0": "最大持有數：2 | 補充冷卻時間：20秒1個", 
+  "dv2.gadget.small_mana_potion.2.0": "使用3秒後，將Mana恢復至上限的33%",
+
+  "dv2.gadget.nature_potion": "自然藥水",
+  "dv2.gadget.nature_potion.1.0": "最大持有數：2 | 重生時補充", 
+  "dv2.gadget.nature_potion.2.0": "使用5秒後，消除所有正面及負面效果。",
 
   "dv2.gadget.crystal_potion": "結晶藥水",
-  "dv2.gadget.crystal_potion.1.0": "最大持有數：1 | 補充冷卻時間：90秒1個", 
+  "dv2.gadget.crystal_potion.1.0": "最大持有數：1 | 補充冷卻時間：60秒1個", 
   "dv2.gadget.crystal_potion.2.0": "使用2秒後，獲取2個大絕充能點",
 
   "dv2.gadget.battle_horn": "戰吼號角",
-  "dv2.gadget.battle_horn.1.0": "最大持有數：1 | 補充冷卻時間：100秒1個", 
-  "dv2.gadget.battle_horn.2.0": "右鍵以於15秒內增加所有在半徑25格內的隊友 10 🗡️🏹STR,",
+  "dv2.gadget.battle_horn.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
+  "dv2.gadget.battle_horn.2.0": "在15秒內為在半徑25格內的隊友及自身增加 10 🗡️🏹STR,",
   "dv2.gadget.battle_horn.3.0": "並減少其 30% Stamina 消耗。",
 
   "dv2.gadget.prelude_incantation": "序言唱詠",
-  "dv2.gadget.prelude_incantation.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
+  "dv2.gadget.prelude_incantation.1.0": "最大持有數：1 | 補充冷卻時間：60秒1個", 
   "dv2.gadget.prelude_incantation.2.0": "使用後10秒内提升 100% 全屬性魔法 EM",
 
   "dv2.gadget.reborn_heart": "重燃心火",
   "dv2.gadget.reborn_heart.1.0": "最大持有數：2 | 補充冷卻時間：60秒1個", 
-  "dv2.gadget.reborn_heart.2.0": "在20秒內獲得5點火屬性近戰 EM，並加速1秒攻擊速度。",
+  "dv2.gadget.reborn_heart.2.0": "在20秒內獲得5點火屬性近戰 EM，並加速25%攻擊速度。",
   "dv2.gadget.reborn_heart.3.0": "效果結束後，你的當前 HP 將被設置為最大 HP 的33%",
 
   "dv2.gadget.overload": "超負荷",
-  "dv2.gadget.overload.1.0": "最大持有數：1 | 補充冷卻時間：240秒1個", 
-  "dv2.gadget.overload.2.0": "消耗你75% Mana，並在10秒內減少100%的 Mana 消耗。",
+  "dv2.gadget.overload.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
+  "dv2.gadget.overload.2.0": "消耗自身60% Mana，並在10秒內減少100%的 Mana 消耗。",
+
+  "dv2.gadget.phantom_dive": "幽影潛行",
+  "dv2.gadget.phantom_dive.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
+  "dv2.gadget.phantom_dive.2.0": "傳送至半徑7格内距離最近的敵人身邊，並獲得3秒的隱身效果。",
+
+  "dv2.gadget.curse_horn": "阿瑟迪亞",
+  "dv2.gadget.curse_horn.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
+  "dv2.gadget.curse_horn.2.0": "在15秒內為半徑15格內的敵人延長1秒 ATK-SPD",
+  "dv2.gadget.curse_horn.3.0": "（如果敵人原本 ATK-SPD 小於1.5秒，ATK-SPD會被延長2秒。）",
+
+  "dv2.gadget.decomposing_sandstone": "虛無的凝視",
+  "dv2.gadget.decomposing_sandstone.1.0": "最大持有數：2 | 補充冷卻時間：40秒1個", 
+  "dv2.gadget.decomposing_sandston e.2.0": "在10秒內為半徑10格內的敵人減少 30% ALL EM",
+
+  "dv2.gadget.jump_pad": "彈跳墊",
+  "dv2.gadget.jump_pad.1.0": "最大持有數：1 | 補充冷卻時間：45秒1個",
+  "dv2.gadget.jump_pad.2.0": "設置一個可以彈射玩家，持續30秒的彈跳墊。",
+
+  "dv2.gadget.explosive_trap": "爆破陷阱",
+  "dv2.gadget.explosive_trap.1.0": "最大持有數：2 | 補充冷卻時間：60秒1個", 
+  "dv2.gadget.explosive_trap.2.0": "設置一個爆破陷阱。當敵人靠近其2格範圍時，",
+  "dv2.gadget.explosive_trap.3.0": "陷阱會爆炸，並對半徑5格範圍內的所有玩家（包括隊友）造成40%的 真實 DMG",
+  "dv2.gadget.explosive_trap.4.0": "當玩家放置第三個爆炸陷阱時，",
+  "dv2.gadget.explosive_trap.5.0": "最舊的將會被替換。每個陷阱會持續180秒。",
+  
+  "dv2.gadget.stun_trap": "暈眩陷阱",
+  "dv2.gadget.stun_trap.1.0": "最大持有數：2 | 補充冷卻時間：30秒1個", 
+  "dv2.gadget.stun_trap.2.0": "設置一個暈眩陷阱。當敵人靠近其2格範圍時，",
+  "dv2.gadget.stun_trap.3.0": "陷阱會使半徑5格範圍內的所有玩家（包括隊友）暈眩3秒。",
+  "dv2.gadget.stun_trap.4.0": "當玩家放置第三個爆炸陷阱時，",
+  "dv2.gadget.stun_trap.5.0": "最舊的將會被替換。每個陷阱會持續180秒。",   
+
+  "dv2.gadget.crystal_shield": "水晶護盾",
+  "dv2.gadget.crystal_shield.1.0": "最大持有數：2 | 重生時補充", 
+  "dv2.gadget.crystal_shield.2.0": "獲得1.5秒的無敵。",
+
 
 
   "dv2.point":"點數 (PT)",
