@@ -1447,13 +1447,13 @@
   "dv2.artifacts.guardian.3.0":"增加半徑12格範圍內的隊友 30 DEF",
 
   "dv2.artifacts.quick_aim.1":"快速瞄準 I",
-  "dv2.artifacts.quick_aim.1.1":"如果你的 ⌚ 拉弓時間超過 0.4 秒，",
+  "dv2.artifacts.quick_aim.1.1":"如果你的 ⌚ 拉弓時間超過 0.5 秒，",
   "dv2.artifacts.quick_aim.1.2":"減少 10% 拉弓時間。",
   "dv2.artifacts.quick_aim.2":"快速瞄準 II",
-  "dv2.artifacts.quick_aim.2.1":"如果你的 ⌚ 拉弓時間超過 0.4 秒，",
+  "dv2.artifacts.quick_aim.2.1":"如果你的 ⌚ 拉弓時間超過 0.5 秒，",
   "dv2.artifacts.quick_aim.2.2":"減少 20% 拉弓時間。",
   "dv2.artifacts.quick_aim.3":"快速瞄準 III",
-  "dv2.artifacts.quick_aim.3.1":"如果你的 ⌚ 拉弓時間超過 0.4 秒，",
+  "dv2.artifacts.quick_aim.3.1":"如果你的 ⌚ 拉弓時間超過 0.5 秒，",
   "dv2.artifacts.quick_aim.3.2":"減少 30% 拉弓時間。",
 
 
@@ -1569,7 +1569,17 @@
   "dv2.gadget.crystal_shield.1.0": "最大持有數：2 | 重生時補充", 
   "dv2.gadget.crystal_shield.2.0": "獲得1秒的無敵。",
 
+  "dv2.gadget.demon_dice": "Demon Dice",
+  "dv2.gadget.demon_dice.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 40s/1", 
+  "dv2.gadget.demon_dice.2.0": "Cost 1 Crystal Point to roll between 1-6. For result \"1-5\",",
+  "dv2.gadget.demon_dice.3.0": "gain 0/1/3/4/5 Crystal Point, lose ALL Crystal Point for result \"6\"",
+  "dv2.gadget.demon_dice_result": "[Demon Dice's Result] ",
 
+  "dv2.gadget.lucky_coin": "Lucky Coin",
+  "dv2.gadget.lucky_coin.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 20s/1", 
+  "dv2.gadget.lucky_coin.2.0": "Flip a fair coin while in combat. For result \"Head\",",
+  "dv2.gadget.lucky_coin.3.0": "increase 50% SPD for 20s, and stun yourself 5s for result \"Tail\".",
+  "dv2.gadget.lucky_coin_result": "[Lucky Coin's Result] ",
 
   "dv2.point":"點數 (PT)",
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
