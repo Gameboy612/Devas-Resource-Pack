@@ -1570,7 +1570,7 @@
   "dv2.gadget.crystal_shield.2.0": "獲得1秒的無敵。",
 
   "dv2.gadget.demon_dice": "惡魔的六面骰",
-  "dv2.gadget.demon_dice.1.0": "M最大持有數：1 | 補充冷卻時間：40秒1個", 
+  "dv2.gadget.demon_dice.1.0": "最大持有數：1 | 補充冷卻時間：40秒1個", 
   "dv2.gadget.demon_dice.2.0": "Cost 1 Crystal Point to roll between 1-6. For result \"1-5\",",
   "dv2.gadget.demon_dice.3.0": "gain 0/1/3/4/5 Crystal Point, lose ALL Crystal Point for result \"6\"",
   "dv2.gadget.demon_dice_result": "[惡魔的六面骰] 你剛剛擲出了 ",
