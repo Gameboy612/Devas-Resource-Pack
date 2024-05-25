@@ -1,0 +1,7 @@
+{
+	"parent": "rpg/gadget/demon_dice",
+	"textures": {
+		"0": "rpg/gadget/dice_test",
+		"particle": "rpg/gadget/dice_test"
+	}
+}

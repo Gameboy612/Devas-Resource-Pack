@@ -157,6 +157,8 @@
     {"predicate": {"custom_model_data":7100017}, "model": "rpg/gadget/nihilitys_gaze"},
     {"predicate": {"custom_model_data":7100018}, "model": "rpg/gadget/crystal_shield"},
     {"predicate": {"custom_model_data":7100019}, "model": "rpg/gadget/crystal_shield_barrier"},
-    {"predicate": {"custom_model_data":7100020}, "model": "rpg/gadget/demon_dice"}
+    {"predicate": {"custom_model_data":7100020}, "model": "rpg/gadget/demon_dice"},
+    {"predicate": {"custom_model_data":7100021}, "model": "rpg/gadget/demon_dice"},
+    {"predicate": {"custom_model_data":7100022}, "model": "rpg/gadget/dice_test"}
   ]
 }
