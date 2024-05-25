@@ -1577,7 +1577,7 @@
 
   "dv2.gadget.lucky_coin": "Lucky Coin",
   "dv2.gadget.lucky_coin.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 20s/1", 
-  "dv2.gadget.lucky_coin.2.0": "Flip a fair coin. For result \"Head\",",
+  "dv2.gadget.lucky_coin.2.0": "Flip a fair coin while in combat. For result \"Head\",",
   "dv2.gadget.lucky_coin.3.0": "increase 50% SPD for 20s, and stun yourself 5s for result \"Tail\".",
   "dv2.gadget.lucky_coin_result": "[Lucky Coin's Result] ",
 
