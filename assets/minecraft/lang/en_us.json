@@ -1127,14 +1127,19 @@
 
   
   "dv2.weapon.bow.destroyer": "Destroyer",
-  "dv2.weapon.bow.destroyer.description": "Pew Pew!",
-  "dv2.ability.destroyer.1.0.0": "Sniper",
-  "dv2.ability.destroyer.1.1.0": "Your arrows will have ",
-  "dv2.ability.destroyer.1.1.1": "+35 DMG",
-  "dv2.ability.destroyer.1.2.0": "when your HP is above ",
-  "dv2.ability.destroyer.1.2.1": "70%",
-  "dv2.ability.destroyer.1.2.2": ".",
-
+  "dv2.weapon.bow.destroyer.description": "The Bow of Obliteration, made from demonic remains,",
+  "dv2.weapon.bow.destroyer.description.2": "sealed for its overwhelming power.",
+  "dv2.ability.destroyer.1.0.0": "Sealed Mythic Bow",
+  "dv2.ability.destroyer.1.1.0": "Destroyer ",
+  "dv2.ability.destroyer.1.1.1": "has always fixed ",
+  "dv2.ability.destroyer.1.1.2": "60 POW, 2.5s LT, 0 🏹STR ",
+  "dv2.ability.destroyer.1.2.0": "and travel in ",
+  "dv2.ability.destroyer.1.2.1": "10 ms⁻¹ ",
+  "dv2.ability.destroyer.1.2.2": "fixed speed.",
+  "dv2.ability.destroyer.1.3.0": "ONLY when",
+  "dv2.ability.destroyer.1.3.1": " Destroyer ",
+  "dv2.ability.destroyer.1.3.2": "is fully charged,",  
+  "dv2.ability.destroyer.1.4.0": "its able to DEAL DAMAGE.",
   
   "dv2.weapon.bow.bladed_bow": "Hurricane Bow",
   "dv2.weapon.bow.bladed_bow.description": "Tempest in the hands, whirlwind of devastation.",

@@ -862,13 +862,19 @@
 
   
   "dv2.weapon.bow.destroyer": "破壞者",
-  "dv2.weapon.bow.destroyer.description": "「砰砰」！",
-  "dv2.ability.destroyer.1.0.0": "狙擊手",
-  "dv2.ability.destroyer.1.1.0": "你的箭會獲得 ",
-  "dv2.ability.destroyer.1.1.1": "+35 DMG",
-  "dv2.ability.destroyer.1.2.0": "在你的 HP 高於 ",
-  "dv2.ability.destroyer.1.2.1": "70%",
-  "dv2.ability.destroyer.1.2.2": " 的時候",
+  "dv2.weapon.bow.destroyer.description": "The Bow of Obliteration, made from demonic remains,",
+  "dv2.weapon.bow.destroyer.description.2": "sealed for its overwhelming power.",
+  "dv2.ability.destroyer.1.0.0": "Sealed Mythic Bow",
+  "dv2.ability.destroyer.1.1.0": "Destroyer ",
+  "dv2.ability.destroyer.1.1.1": "has always fixed ",
+  "dv2.ability.destroyer.1.1.2": "60 POW, 2.5s LT, 0 🏹STR ",
+  "dv2.ability.destroyer.1.2.0": "and travel in ",
+  "dv2.ability.destroyer.1.2.1": "10 ms⁻¹ ",
+  "dv2.ability.destroyer.1.2.2": "fixed speed.",
+  "dv2.ability.destroyer.1.3.0": "ONLY when",
+  "dv2.ability.destroyer.1.3.1": " Destroyer ",
+  "dv2.ability.destroyer.1.3.2": "is fully charged,",  
+  "dv2.ability.destroyer.1.4.0": "its able to DEAL DAMAGE.",
 
   
   "dv2.weapon.bow.bladed_bow": "颶風弓",
