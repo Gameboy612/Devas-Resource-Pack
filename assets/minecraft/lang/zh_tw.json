@@ -456,6 +456,8 @@
   "dv2.ultimate.glory_heart": "榮耀之心",
   "dv2.ultimate.great_grenade": "自爆兵",
   "dv2.ultimate.instant_protect": "瞬移堡壘",
+  "dv2.ultimate.inspire": "靈光乍現",
+  "dv2.ultimate.all_seeing_eye": "全視之眼",
 
 
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
@@ -864,8 +866,8 @@
   "dv2.weapon.bow.destroyer": "破壞者",
   "dv2.weapon.bow.destroyer.description": "The Bow of Obliteration, made from demonic remains,",
   "dv2.weapon.bow.destroyer.description.2": "sealed for its overwhelming power.",
-  "dv2.ability.destroyer.1.0.0": "Sealed Mythic Bow",
-  "dv2.ability.destroyer.1.1.0": "Destroyer ",
+  "dv2.ability.destroyer.1.0.0": "被封印的神話",
+  "dv2.ability.destroyer.1.1.0": "破壞者",
   "dv2.ability.destroyer.1.1.1": "has always fixed ",
   "dv2.ability.destroyer.1.1.2": "60 POW, 2.5s LT, 0 🏹STR ",
   "dv2.ability.destroyer.1.2.0": "and travel in ",
