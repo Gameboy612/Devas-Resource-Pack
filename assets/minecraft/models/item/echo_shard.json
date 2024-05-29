@@ -26,6 +26,18 @@
         {"predicate": {"custom_model_data":100019}, "model": "particles/effects/sweep/2"},
         {"predicate": {"custom_model_data":100020}, "model": "particles/effects/sweep/3"},
         {"predicate": {"custom_model_data":100021}, "model": "particles/effects/sweep/4"},
-        {"predicate": {"custom_model_data":100022}, "model": "particles/effects/sweep/5"}
+        {"predicate": {"custom_model_data":100022}, "model": "particles/effects/sweep/5"},
+
+        {"predicate": {"custom_model_data":200001}, "model": "rpg/gui/slot/slot_1"},
+        {"predicate": {"custom_model_data":200002}, "model": "rpg/gui/slot/slot_2"},
+        {"predicate": {"custom_model_data":200003}, "model": "rpg/gui/slot/slot_3"},
+        {"predicate": {"custom_model_data":200004}, "model": "rpg/gui/slot/slot_4"},
+        {"predicate": {"custom_model_data":200005}, "model": "rpg/gui/slot/slot_5"},
+        {"predicate": {"custom_model_data":200006}, "model": "rpg/gui/slot/slot_6"},
+        {"predicate": {"custom_model_data":200007}, "model": "rpg/gui/slot/slot_7"},
+        {"predicate": {"custom_model_data":200008}, "model": "rpg/gui/slot/slot_8"},
+        {"predicate": {"custom_model_data":200009}, "model": "rpg/gui/slot/slot_9"},
+        {"predicate": {"custom_model_data":200010}, "model": "rpg/gui/slot/slot_offhand"},
+        {"predicate": {"custom_model_data":200011}, "model": "rpg/gui/slot/slot_default"}
     ]
 }
