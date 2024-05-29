@@ -228,6 +228,11 @@
   "dv2.display.allocate_point.failed": "你沒有足夠的分配點！",
   "dv2.display.allocate_point.reset": "  [重設]",
 
+  "dv2.gui.not_enough_cost": "點數不足！",
+  "dv2.gui.out_of_stock": "缺貨！",
+  "dv2.gui.loadout.shift_click_to_change_slots": "[Shift 並 點擊] 以變更儲存欄",
+  "dv2.gui.loadout.click_to_refund_item": "[點擊] 以退款",
+
   "dv2.display.weapon.bow": "弓",
   "dv2.display.weapon.melee": "近戰武器",
   "dv2.display.weapon.shield": "盾牌",
@@ -253,8 +258,8 @@
 
   "dv2.display.loadout.no_group": "尚無分組",
   "dv2.display.loadout.no_loadout": "尚無配置",
-  "dv2.display.loadout.click_to_edit": "[點擊 以修改]",
-  "dv2.display.loadout.save_kit": "[點擊 以儲存當前配置]",
+  "dv2.display.loadout.click_to_edit": "[點擊] 以修改",
+  "dv2.display.loadout.save_kit": "[點擊] 以儲存當前配置",
   "dv2.display.loadout.io": "匯入/匯出",
   "dv2.display.loadout.io.lore.group.0": "於此處放置 隨身碟 以匯入分組",
   "dv2.display.loadout.io.lore.group.1": "[雙擊] 以匯出此分組為 隨身碟",
@@ -446,6 +451,19 @@
   "dv2.gui.category.element.dark.spell": "法術",
   "dv2.gui.category.element.dark.ability_item": "技能物品",
   "dv2.gui.category.element.dark.ultimate": "終極技能",
+
+
+  "dv2.gui.slot_1": "放置於快捷欄 1",
+  "dv2.gui.slot_2": "放置於快捷欄 2",
+  "dv2.gui.slot_3": "放置於快捷欄 3",
+  "dv2.gui.slot_4": "放置於快捷欄 4",
+  "dv2.gui.slot_5": "放置於快捷欄 5",
+  "dv2.gui.slot_6": "放置於快捷欄 6",
+  "dv2.gui.slot_7": "放置於快捷欄 7",
+  "dv2.gui.slot_8": "放置於快捷欄 8",
+  "dv2.gui.slot_9": "放置於快捷欄 9",
+  "dv2.gui.slot_offhand": "放置於非慣用手欄",
+  "dv2.gui.slot_default": "放置於預設位置",
 
 
   "dv2.ultimate.rampage": "狂暴",

@@ -484,6 +484,12 @@
   
   "dv2.display.allocate_point.failed": "You do not have enough points!",
   "dv2.display.allocate_point.reset": "  [RESET]",
+
+  "dv2.gui.not_enough_cost": "Not Enough Cost!",
+  "dv2.gui.out_of_stock": "Out of Stock!",
+  "dv2.gui.loadout.shift_click_to_change_slots": "[Shift-Click] to Change Slots",
+  "dv2.gui.loadout.click_to_refund_item": "[Click] to Refund Item",
+
   
 
   "dv2.display.weapon.bow": "Bow",
@@ -704,6 +710,19 @@
   "dv2.gui.category.element.dark.spell": "Spell",
   "dv2.gui.category.element.dark.ability_item": "Ability Item",
   "dv2.gui.category.element.dark.ultimate": "Ultimate",
+
+
+  "dv2.gui.slot_1": "Place Item on Slot 1",
+  "dv2.gui.slot_2": "Place Item on Slot 2",
+  "dv2.gui.slot_3": "Place Item on Slot 3",
+  "dv2.gui.slot_4": "Place Item on Slot 4",
+  "dv2.gui.slot_5": "Place Item on Slot 5",
+  "dv2.gui.slot_6": "Place Item on Slot 6",
+  "dv2.gui.slot_7": "Place Item on Slot 7",
+  "dv2.gui.slot_8": "Place Item on Slot 8",
+  "dv2.gui.slot_9": "Place Item on Slot 9",
+  "dv2.gui.slot_offhand": "Place Item on Offhand",
+  "dv2.gui.slot_default": "Place Item by Default",
 
 
   "dv2.ultimate.rampage": "Rampage",
