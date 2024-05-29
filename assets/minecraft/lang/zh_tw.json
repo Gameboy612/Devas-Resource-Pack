@@ -886,13 +886,13 @@
   "dv2.ability.destroyer.2.2.0": "毀滅者",
   "dv2.ability.destroyer.2.2.1": "的⌚拉弓時間",
   "dv2.ability.destroyer.2.2.2": "將被減少",
-  "dv2.ability.destroyer.2.2.3": "0.75秒",
+  "dv2.ability.destroyer.2.2.3": "1.0秒",
   "dv2.ability.destroyer.2.2.4": "，",
   "dv2.ability.destroyer.2.2.5": "POW ",
   "dv2.ability.destroyer.2.2.6": "將被減少",
   "dv2.ability.destroyer.2.2.7": " 80%",
   "dv2.ability.destroyer.2.3.0": "而箭矢飛行時間會被減少 ",
-  "dv2.ability.destroyer.2.3.1": "4 ms⁻¹",
+  "dv2.ability.destroyer.2.3.1": "3 ms⁻¹",
   "dv2.ability.destroyer.2.3.2": "",
   "dv2.ability.destroyer.2.4.0": "(ONLY REAL",
   "dv2.ability.destroyer.2.4.1": " Destroyer ",
@@ -1622,6 +1622,10 @@
   "dv2.gadget.escape_button.1.0": "最大持有數：1 | 補充冷卻時間：120秒1個", 
   "dv2.gadget.escape_button.2.0": "消耗 15% 當前生命值以重置戰鬥計時器。",
 
+
+  "dv2.gadget.escape_button": "Escape Button",
+  "dv2.gadget.escape_button.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1", 
+  "dv2.gadget.escape_button.2.0": "Cost 15% Current HP and reset combat timer.",
 
   "dv2.point":"點數 (PT)",
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
