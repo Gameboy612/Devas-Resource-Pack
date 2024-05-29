@@ -716,6 +716,7 @@
   "dv2.ultimate.instant_protect": "Instant Protect",
   "dv2.ultimate.inspire": "Inspiration",
   "dv2.ultimate.all_seeing_eye": "All-seeing Eye",
+  "dv2.ultimate.destroyer_befall": "Destroyer Befall",
 
   
   "dv2.ability.dagger.0.0": "Dagger (Right Click)",
@@ -1140,10 +1141,10 @@
   "dv2.ability.destroyer.1.2.2": "fixed speed.",
   "dv2.ability.destroyer.1.3.0": "ONLY when",
   "dv2.ability.destroyer.1.3.1": " Destroyer ",
-  "dv2.ability.destroyer.1.3.2": "is fully charged,",  
-  "dv2.ability.destroyer.1.4.0": "its able to DEAL DAMAGE.",
+  "dv2.ability.destroyer.1.3.2": "is fully charged, its able to DEAL DAMAGE.",  
+  "dv2.ability.destroyer.1.4.0": "",
   
-  "dv2.ability.destroyer.2.0.0": "Seal Weaken",
+  "dv2.ability.destroyer.2.0.0": "Seal Devour",
   "dv2.ability.destroyer.2.1.0": "When in combat,",
   "dv2.ability.destroyer.2.1.1": " \"Sealed Mythic Bow\" ",
   "dv2.ability.destroyer.2.1.2": "is no longer active.",
@@ -1162,7 +1163,7 @@
   "dv2.ability.destroyer.2.4.1": " Destroyer ",
   "dv2.ability.destroyer.2.4.2": "is able to active this ability)",  
 
-  "dv2.ability.destroyer.3.0.0": "Seal Transfer",
+  "dv2.ability.destroyer.3.0.0": "Seal Inheritance",
   "dv2.ability.destroyer.3.1.0": "Receive ",
   "dv2.ability.destroyer.3.1.1": "Seal ",
   "dv2.ability.destroyer.3.1.2": "effect when in combat.",
@@ -1847,13 +1848,13 @@
   "dv2.gadget.demon_dice.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 40s/1", 
   "dv2.gadget.demon_dice.2.0": "Cost 1 Crystal Point to roll between 1-6. For result \"1-5\",",
   "dv2.gadget.demon_dice.3.0": "gain 0/1/3/4/5 Crystal Point, and lose ALL Crystal Point for result \"6\".",
-  "dv2.gadget.demon_dice_result": "[Demon Dice's Result] You just rolled ",
+  "dv2.gadget.demon_dice_result": "[Demon Dice] You just rolled ",
 
   "dv2.gadget.lucky_coin": "Lucky Coin",
   "dv2.gadget.lucky_coin.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 20s/1", 
   "dv2.gadget.lucky_coin.2.0": "Flip a fair coin while in combat. For result \"Head\",",
   "dv2.gadget.lucky_coin.3.0": "increase 50% SPD for 20s, and stun yourself 5s for result \"Tail\".",
-  "dv2.gadget.lucky_coin_result": "[Lucky Coin's Result] ",
+  "dv2.gadget.lucky_coin_result": "[Lucky Coin] You just rolled ",
 
   "dv2.gadget.escape_button": "Escape Button",
   "dv2.gadget.escape_button.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1", 
