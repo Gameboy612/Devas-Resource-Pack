@@ -469,6 +469,9 @@
   "dv2.gui.save": "Save",
   "dv2.gui.remove": "Remove",
   "dv2.gui.loadout_settings": "Loadout Settings",
+  "dv2.gui.reset": "Reset",
+  "dv2.gui.confirm_reset": "Confirm Reset",
+  "dv2.gui.confirm_reset.lore": "Please note that this change is IRREVERTIBLE!",
 
   "dv2.display.arrow": "Arrow",
   "dv2.display.artifact": "Perk",
