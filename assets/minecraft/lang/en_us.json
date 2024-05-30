@@ -463,6 +463,11 @@
   "dv2.gui.cost.reset": "[DOUBLE CLICK to Reset]",
   "dv2.format.switch_page_lore": " - %s - ",
 
+  "dv2.gui.change_icons": "Change Icons",
+  "dv2.gui.export": "Export",
+  "dv2.gui.save": "Save",
+  "dv2.gui.remove": "Remove",
+
   "dv2.display.arrow": "Arrow",
   "dv2.display.artifact": "Perk",
   "dv2.display.bow": "Bow",
