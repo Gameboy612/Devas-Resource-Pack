@@ -464,9 +464,11 @@
   "dv2.format.switch_page_lore": " - %s - ",
 
   "dv2.gui.change_icons": "Change Icons",
+  "dv2.gui.import": "Import",
   "dv2.gui.export": "Export",
   "dv2.gui.save": "Save",
   "dv2.gui.remove": "Remove",
+  "dv2.gui.loadout_settings": "Loadout Settings",
 
   "dv2.display.arrow": "Arrow",
   "dv2.display.artifact": "Perk",

@@ -159,9 +159,11 @@
   "dv2.gui.cost.reset": "[以二設點雙擊]",
 
   "dv2.gui.change_icons": "Change Icons",
+  "dv2.gui.import": "Import",
   "dv2.gui.export": "Export",
   "dv2.gui.save": "Save",
   "dv2.gui.remove": "Remove",
+  "dv2.gui.loadout_settings": "Loadout Settings",
   
   "dv2.display.arrow": "矢",
   "dv2.display.artifact": "飾",
