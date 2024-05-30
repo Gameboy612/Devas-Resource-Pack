@@ -192,9 +192,9 @@
   "container.enderchest": "\uF82B\uF822-商店-",
   "container.enderchest_comment": "space.66",
   "dv2.gui.cost": "剩餘點數：",
-  "dv2.gui.info": "提示：",
+  "dv2.gui.info": "提示",
   "dv2.gui.loadouts": "配置：",
-  "dv2.gui.stats": "個體數值：",
+  "dv2.gui.stats": "✎ 個體數值：",
   "dv2.gui.return": "返回",
   "dv2.gui.last_page": "← 上一頁",
   "dv2.gui.next_page": "下一頁 →",
@@ -205,15 +205,15 @@
   "dv2.gui.cost.signature": "招牌",
   "dv2.gui.cost.reset": "[雙擊 以重設點數]",
 
-  "dv2.gui.change_icons": "Change Icons",
-  "dv2.gui.import": "Import",
-  "dv2.gui.export": "Export",
-  "dv2.gui.save": "Save",
-  "dv2.gui.remove": "Remove",
-  "dv2.gui.loadout_settings": "Loadout Settings",
-  "dv2.gui.reset": "Reset",
-  "dv2.gui.confirm_reset": "Confirm Reset",
-  "dv2.gui.confirm_reset.lore": "Please note that this change is IRREVERTIBLE!",
+  "dv2.gui.change_icons": "更改圖示",
+  "dv2.gui.import": "匯入",
+  "dv2.gui.export": "匯出",
+  "dv2.gui.save": "儲存",
+  "dv2.gui.remove": "移除",
+  "dv2.gui.loadout_settings": "配置設定",
+  "dv2.gui.reset": "重設",
+  "dv2.gui.confirm_reset": "確定重置",
+  "dv2.gui.confirm_reset.lore": "請注意，此更改不可撤銷！",
   
   "dv2.display.arrow": "箭矢",
   "dv2.display.artifact": "被動",
@@ -237,6 +237,11 @@
   
   "dv2.display.allocate_point.failed": "你沒有足夠的分配點！",
   "dv2.display.allocate_point.reset": "  [重設]",
+
+  "dv2.gui.not_enough_cost": "點數不足！",
+  "dv2.gui.out_of_stock": "缺貨！",
+  "dv2.gui.loadout.shift_click_to_change_slots": "[Shift 並 點擊] 以變更儲存欄",
+  "dv2.gui.loadout.click_to_refund_item": "[點擊] 以退款",
 
   "dv2.display.weapon.bow": "弓",
   "dv2.display.weapon.melee": "近戰武器",
@@ -263,8 +268,8 @@
 
   "dv2.display.loadout.no_group": "尚無分組",
   "dv2.display.loadout.no_loadout": "尚無配置",
-  "dv2.display.loadout.click_to_edit": "[點擊 以修改]",
-  "dv2.display.loadout.save_kit": "[點擊 以儲存當前配置]",
+  "dv2.display.loadout.click_to_edit": "[點擊] 以修改",
+  "dv2.display.loadout.save_kit": "[點擊] 以儲存當前配置",
   "dv2.display.loadout.io": "匯入/匯出",
   "dv2.display.loadout.io.lore.group.0": "於此處放置 隨身碟 以匯入分組",
   "dv2.display.loadout.io.lore.group.1": "[雙擊] 以匯出此分組為 隨身碟",
@@ -458,6 +463,19 @@
   "dv2.gui.category.element.dark.ultimate": "終極技能",
 
 
+  "dv2.gui.slot_1": "放置於快捷欄 1",
+  "dv2.gui.slot_2": "放置於快捷欄 2",
+  "dv2.gui.slot_3": "放置於快捷欄 3",
+  "dv2.gui.slot_4": "放置於快捷欄 4",
+  "dv2.gui.slot_5": "放置於快捷欄 5",
+  "dv2.gui.slot_6": "放置於快捷欄 6",
+  "dv2.gui.slot_7": "放置於快捷欄 7",
+  "dv2.gui.slot_8": "放置於快捷欄 8",
+  "dv2.gui.slot_9": "放置於快捷欄 9",
+  "dv2.gui.slot_offhand": "放置於非慣用手欄",
+  "dv2.gui.slot_default": "放置於預設位置",
+
+
   "dv2.ultimate.rampage": "狂暴",
   "dv2.ultimate.purify": "淨化",
   "dv2.ultimate.death_chain": "死亡連鎖",
@@ -466,6 +484,9 @@
   "dv2.ultimate.glory_heart": "榮耀之心",
   "dv2.ultimate.great_grenade": "自爆兵",
   "dv2.ultimate.instant_protect": "瞬移堡壘",
+  "dv2.ultimate.inspire": "靈光乍現",
+  "dv2.ultimate.all_seeing_eye": "全視之眼",
+  "dv2.ultimate.destroyer_befall": "「毀滅者」再臨",
 
 
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
@@ -555,7 +576,7 @@
   "dv2.weapon.melee.giant_sword.description": "由暮光之神所鍛造的劍。",
 
   "dv2.ability.giant_sword.1.0.0": "防禦是最好的攻擊",
-  "dv2.ability.giant_sword.1.1.0": "每 20 DEF 將增加",
+  "dv2.ability.giant_sword.1.1.0": "每 40 DEF 將增加",
   "dv2.ability.giant_sword.1.1.1": " 1 ",
   "dv2.ability.giant_sword.1.1.2": "DMG",
 
@@ -871,14 +892,48 @@
   "dv2.ability.nightmare.2.2.2": "",
 
   
-  "dv2.weapon.bow.destroyer": "破壞者",
-  "dv2.weapon.bow.destroyer.description": "「砰砰」！",
-  "dv2.ability.destroyer.1.0.0": "狙擊手",
-  "dv2.ability.destroyer.1.1.0": "你的箭會獲得 ",
-  "dv2.ability.destroyer.1.1.1": "+35 DMG",
-  "dv2.ability.destroyer.1.2.0": "在你的 HP 高於 ",
-  "dv2.ability.destroyer.1.2.1": "70%",
-  "dv2.ability.destroyer.1.2.2": " 的時候",
+  "dv2.weapon.bow.destroyer": "毀滅者",
+  "dv2.weapon.bow.destroyer.description": "自魔物殘骸所鑄造的毀滅之弓，",
+  "dv2.weapon.bow.destroyer.description.2": "因其威能而被施加禁錮。",
+  "dv2.ability.destroyer.1.0.0": "被封印的神話",
+  "dv2.ability.destroyer.1.1.0": "毀滅者",
+  "dv2.ability.destroyer.1.1.1": "將會固定擁有",
+  "dv2.ability.destroyer.1.1.2": "60 POW, 2.5秒拉弓時間，0 🏹STR ",
+  "dv2.ability.destroyer.1.2.0": "，並且你的箭矢會以",
+  "dv2.ability.destroyer.1.2.1": "10 ms⁻¹ ",
+  "dv2.ability.destroyer.1.2.2": "的固定速度行進。",
+  "dv2.ability.destroyer.1.3.0": "只有拉滿",
+  "dv2.ability.destroyer.1.3.1": "毀滅者",
+  "dv2.ability.destroyer.1.3.2": "時，玩家才可造成傷害。",  
+  "dv2.ability.destroyer.1.4.0": "",
+
+  "dv2.ability.destroyer.2.0.0": "咒縛蝕啃",
+  "dv2.ability.destroyer.2.1.0": "在戰鬥狀態時，",
+  "dv2.ability.destroyer.2.1.1": "「被封印的神話」",
+  "dv2.ability.destroyer.2.1.2": "將不再生效。",
+  "dv2.ability.destroyer.2.2.0": "毀滅者",
+  "dv2.ability.destroyer.2.2.1": "的⌚拉弓時間",
+  "dv2.ability.destroyer.2.2.2": "將被減少",
+  "dv2.ability.destroyer.2.2.3": "1.0秒",
+  "dv2.ability.destroyer.2.2.4": "，",
+  "dv2.ability.destroyer.2.2.5": "POW ",
+  "dv2.ability.destroyer.2.2.6": "將被減少",
+  "dv2.ability.destroyer.2.2.7": " 80%",
+  "dv2.ability.destroyer.2.3.0": "而箭矢飛行時間會被減少 ",
+  "dv2.ability.destroyer.2.3.1": "3 ms⁻¹",
+  "dv2.ability.destroyer.2.3.2": "",
+  "dv2.ability.destroyer.2.4.0": "(ONLY REAL",
+  "dv2.ability.destroyer.2.4.1": " Destroyer ",
+  "dv2.ability.destroyer.2.4.2": "is able to active this ability)",  
+  
+  "dv2.ability.destroyer.3.0.0": "咒縛移轉",
+  "dv2.ability.destroyer.3.1.0": "在戰鬥狀態時，你會被附加",
+  "dv2.ability.destroyer.3.1.1": "封印",
+  "dv2.ability.destroyer.3.1.2": "效果。",
+  "dv2.ability.destroyer.3.2.0": "(ONLY REAL",
+  "dv2.ability.destroyer.3.2.1": " Destroyer ",
+  "dv2.ability.destroyer.3.2.2": "is able to active this ability)",  
+
 
   
   "dv2.weapon.bow.bladed_bow": "颶風弓",
@@ -1148,7 +1203,7 @@
   "dv2.spells.long_lasting.earth.2.defensive_array.1.2": " to all nearby allies.",
   "dv2.spells.long_lasting.earth.2.defensive_array.2": "(持續30秒)",
   "dv2.spells.long_lasting.earth.2.defensive_array.3.0": "消耗：",
-  "dv2.spells.long_lasting.earth.2.defensive_array.3.1": "3000 Mana",
+  "dv2.spells.long_lasting.earth.2.defensive_array.3.1": "1000 Mana",
 
 
 
@@ -1157,8 +1212,6 @@
   "dv2.spells.long_lasting.earth.1.meat_shield.0": "<等級一 - 持久型 - 土屬性>",
   "dv2.spells.long_lasting.earth.1.meat_shield.1.0": "Gives ",
   "dv2.spells.long_lasting.earth.1.meat_shield.1.1": "70 DEF",
-  "dv2.spells.long_lasting.earth.1.meat_shield.1.2": " and ",
-  "dv2.spells.long_lasting.earth.1.meat_shield.1.3": "10 Elemental DEF (All)",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.0": "to all allies within a ",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.1": "5 Block Radius",
   "dv2.spells.long_lasting.earth.1.meat_shield.2.2": ".",
@@ -1458,15 +1511,15 @@
   "dv2.artifacts.guardian.2.0":"當你的 HP 高於 30% 時，",
   "dv2.artifacts.guardian.3.0":"增加半徑12格範圍內的隊友 30 DEF",
 
-  "dv2.artifacts.quick_aim.1":"Quick Aim I",
-  "dv2.artifacts.quick_aim.1.1":"When Your Bow's ⌚Load More than 0.4s,",
-  "dv2.artifacts.quick_aim.1.2":"Reduce 10% ⌚Load.",
-  "dv2.artifacts.quick_aim.2":"Quick Aim II",
-  "dv2.artifacts.quick_aim.2.1":"When Your Bow's ⌚Load More than 0.4s,",
-  "dv2.artifacts.quick_aim.2.2":"Reduce 20% ⌚Load.",
-  "dv2.artifacts.quick_aim.3":"Quick Aim III",
-  "dv2.artifacts.quick_aim.3.1":"When Your Bow's ⌚Load More than 0.4s,",
-  "dv2.artifacts.quick_aim.3.2":"Reduce 30% ⌚Load.",
+  "dv2.artifacts.quick_aim.1":"快速瞄準 I",
+  "dv2.artifacts.quick_aim.1.1":"如果你的 ⌚ 拉弓時間超過 0.5 秒，",
+  "dv2.artifacts.quick_aim.1.2":"減少 10% 拉弓時間。",
+  "dv2.artifacts.quick_aim.2":"快速瞄準 II",
+  "dv2.artifacts.quick_aim.2.1":"如果你的 ⌚ 拉弓時間超過 0.5 秒，",
+  "dv2.artifacts.quick_aim.2.2":"減少 20% 拉弓時間。",
+  "dv2.artifacts.quick_aim.3":"快速瞄準 III",
+  "dv2.artifacts.quick_aim.3.1":"如果你的 ⌚ 拉弓時間超過 0.5 秒，",
+  "dv2.artifacts.quick_aim.3.2":"減少 30% 拉弓時間。",
 
 
 
@@ -1557,31 +1610,50 @@
 
   "dv2.gadget.decomposing_sandstone": "虛無的凝視",
   "dv2.gadget.decomposing_sandstone.1.0": "最大持有數：2 | 補充冷卻時間：40秒1個", 
-  "dv2.gadget.decomposing_sandston e.2.0": "在10秒內為半徑10格內的敵人減少 30% ALL EM",
+  "dv2.gadget.decomposing_sandstone.2.0": "在10秒內為半徑10格內的敵人減少 30% ALL EM",
 
   "dv2.gadget.jump_pad": "彈跳墊",
   "dv2.gadget.jump_pad.1.0": "最大持有數：1 | 補充冷卻時間：45秒1個",
   "dv2.gadget.jump_pad.2.0": "設置一個可以彈射玩家，持續30秒的彈跳墊。",
 
   "dv2.gadget.explosive_trap": "爆破陷阱",
-  "dv2.gadget.explosive_trap.1.0": "最大持有數：2 | 補充冷卻時間：60秒1個", 
+  "dv2.gadget.explosive_trap.1.0": "最大持有數：2 | 補充冷卻時間：40秒1個", 
   "dv2.gadget.explosive_trap.2.0": "設置一個爆破陷阱。當敵人靠近其2格範圍時，",
   "dv2.gadget.explosive_trap.3.0": "陷阱會爆炸，並對半徑5格範圍內的所有玩家（包括隊友）造成40%的 真實 DMG",
-  "dv2.gadget.explosive_trap.4.0": "當玩家放置第三個爆炸陷阱時，",
-  "dv2.gadget.explosive_trap.5.0": "最舊的將會被替換。每個陷阱會持續180秒。",
+  "dv2.gadget.explosive_trap.4.0": "",
+  "dv2.gadget.explosive_trap.5.0": "每個陷阱會持續200秒。",
   
   "dv2.gadget.stun_trap": "暈眩陷阱",
-  "dv2.gadget.stun_trap.1.0": "最大持有數：2 | 補充冷卻時間：30秒1個", 
+  "dv2.gadget.stun_trap.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
   "dv2.gadget.stun_trap.2.0": "設置一個暈眩陷阱。當敵人靠近其2格範圍時，",
-  "dv2.gadget.stun_trap.3.0": "陷阱會使半徑5格範圍內的所有玩家（包括隊友）暈眩3秒。",
-  "dv2.gadget.stun_trap.4.0": "當玩家放置第三個爆炸陷阱時，",
-  "dv2.gadget.stun_trap.5.0": "最舊的將會被替換。每個陷阱會持續180秒。",   
+  "dv2.gadget.stun_trap.3.0": "陷阱會使半徑5格範圍內的所有玩家（包括隊友）暈眩5秒。",
+  "dv2.gadget.stun_trap.4.0": "",
+  "dv2.gadget.stun_trap.5.0": "每個陷阱會持續200秒。",   
 
   "dv2.gadget.crystal_shield": "水晶護盾",
   "dv2.gadget.crystal_shield.1.0": "最大持有數：2 | 重生時補充", 
-  "dv2.gadget.crystal_shield.2.0": "獲得1.5秒的無敵。",
+  "dv2.gadget.crystal_shield.2.0": "獲得1秒的無敵。",
+
+  "dv2.gadget.demon_dice": "惡魔的六面骰",
+  "dv2.gadget.demon_dice.1.0": "最大持有數：1 | 補充冷卻時間：40秒1個", 
+  "dv2.gadget.demon_dice.2.0": "花費 1 個大絕充能點，骰子將在 1-6 之間擲出一個數字。",
+  "dv2.gadget.demon_dice.3.0": "擲出 1-5 時，玩家可獲得 0/1/3/4/5 大絕充能點；擲出 6 時，玩家將失去所有大絕充能點。",
+  "dv2.gadget.demon_dice_result": "[惡魔的六面骰] 你剛剛擲出了 ",
+
+  "dv2.gadget.lucky_coin": "幸運幣",
+  "dv2.gadget.lucky_coin.1.0": "最大持有數：1 | 補充冷卻時間：20秒1個", 
+  "dv2.gadget.lucky_coin.2.0": "在戰鬥狀態時可以拋出一枚幸運幣，",
+  "dv2.gadget.lucky_coin.3.0": "擲出「頭」時，在20秒内增加 50% SPD；擲出「尾」時，自身將眩暈 5 秒。",
+  "dv2.gadget.lucky_coin_result": "[幸運幣] 你剛剛擲出了 ",
+
+  "dv2.gadget.escape_button": "逃脫按鈕",
+  "dv2.gadget.escape_button.1.0": "最大持有數：1 | 補充冷卻時間：120秒1個", 
+  "dv2.gadget.escape_button.2.0": "消耗 15% 當前生命值以重置戰鬥計時器。",
 
 
+  "dv2.gadget.escape_button": "Escape Button",
+  "dv2.gadget.escape_button.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1", 
+  "dv2.gadget.escape_button.2.0": "Cost 15% Current HP and reset combat timer.",
 
   "dv2.point":"點數 (PT)",
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
