@@ -158,6 +158,8 @@
   "dv2.gui.cost.signature": "招牌",
   "dv2.gui.cost.reset": "[以二設點雙擊]",
 
+  "dv2.ultimate.failed.have_teammate": "%s is already using this Ultimate! Please use another one.",
+
   "dv2.gui.change_icons": "Change Icons",
   "dv2.gui.import": "Import",
   "dv2.gui.export": "Export",

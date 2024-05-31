@@ -494,6 +494,8 @@
   
   "dv2.display.allocate_point.failed": "You do not have enough points!",
   "dv2.display.allocate_point.reset": "  [RESET]",
+  
+  "dv2.ultimate.failed.have_teammate": "%s is already using this Ultimate! Please use another one.",
 
   "dv2.gui.not_enough_cost": "Not Enough Cost!",
   "dv2.gui.out_of_stock": "Out of Stock!",

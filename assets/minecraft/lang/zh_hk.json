@@ -238,6 +238,8 @@
   "dv2.display.allocate_point.failed": "你沒有足夠的分配點！",
   "dv2.display.allocate_point.reset": "  [重設]",
 
+  "dv2.ultimate.failed.have_teammate": "%s is already using this Ultimate! Please use another one.",
+
   "dv2.gui.not_enough_cost": "點數不足！",
   "dv2.gui.out_of_stock": "缺貨！",
   "dv2.gui.loadout.shift_click_to_change_slots": "[Shift 並 點擊] 以變更儲存欄",
