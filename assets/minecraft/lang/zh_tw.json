@@ -1521,7 +1521,12 @@
   "dv2.artifacts.quick_aim.3.1":"如果你的 ⌚ 拉弓時間超過 0.5 秒，",
   "dv2.artifacts.quick_aim.3.2":"減少 30% 拉弓時間。",
 
-
+  "dv2.artifacts.ranger.1":"Ranger I",
+  "dv2.artifacts.ranger.1.1.0":"Increase 1 Extra Range.",
+  "dv2.artifacts.ranger.2":"Ranger II",
+  "dv2.artifacts.ranger.2.1.0":"Increase 2 Extra Range.",
+  "dv2.artifacts.ranger.3":"Ranger II",
+  "dv2.artifacts.ranger.3.1.0":"Increase 3 Extra Range.",
 
 
 
@@ -1601,7 +1606,7 @@
 
   "dv2.gadget.phantom_dive": "幽影潛行",
   "dv2.gadget.phantom_dive.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
-  "dv2.gadget.phantom_dive.2.0": "傳送至半徑7格内距離最近的敵人身邊，並獲得3秒的隱身效果。",
+  "dv2.gadget.phantom_dive.2.0": "傳送至半徑15格内距離最近的敵人身邊，並獲得3秒的隱身效果。",
 
   "dv2.gadget.curse_horn": "阿瑟迪亞",
   "dv2.gadget.curse_horn.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
