@@ -1521,7 +1521,12 @@
   "dv2.artifacts.quick_aim.3.1":"如果你的 ⌚ 拉弓時間超過 0.5 秒，",
   "dv2.artifacts.quick_aim.3.2":"減少 30% 拉弓時間。",
 
-
+  "dv2.artifacts.ranger.1":"Ranger I",
+  "dv2.artifacts.ranger.1.1.0":"Increase 1 Extra Range.",
+  "dv2.artifacts.ranger.2":"Ranger II",
+  "dv2.artifacts.ranger.2.1.0":"Increase 2 Extra Range.",
+  "dv2.artifacts.ranger.3":"Ranger II",
+  "dv2.artifacts.ranger.3.1.0":"Increase 3 Extra Range.",
 
 
 
