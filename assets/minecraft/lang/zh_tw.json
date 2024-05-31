@@ -1606,7 +1606,7 @@
 
   "dv2.gadget.phantom_dive": "幽影潛行",
   "dv2.gadget.phantom_dive.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
-  "dv2.gadget.phantom_dive.2.0": "傳送至半徑7格内距離最近的敵人身邊，並獲得3秒的隱身效果。",
+  "dv2.gadget.phantom_dive.2.0": "傳送至半徑15格内距離最近的敵人身邊，並獲得3秒的隱身效果。",
 
   "dv2.gadget.curse_horn": "阿瑟迪亞",
   "dv2.gadget.curse_horn.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
