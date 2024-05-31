@@ -1846,7 +1846,7 @@
 
   "dv2.gadget.phantom_dive": "Phantom Dive",
   "dv2.gadget.phantom_dive.1.0": "Maximum Carrying Amount: 3 | Regenerate CD: 20s/1", 
-  "dv2.gadget.phantom_dive.2.0": "Teleport to nearest enemy within 7 blocks and gain invisibility for 3s. ",
+  "dv2.gadget.phantom_dive.2.0": "Teleport to nearest enemy within 15 blocks and gain invisibility for 3s. ",
 
   "dv2.gadget.curse_horn": "Acedia",
   "dv2.gadget.curse_horn.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 80s/1", 
