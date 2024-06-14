@@ -1150,7 +1150,7 @@
   "dv2.ability.nightmare.1.2.2": " and additional ",
   "dv2.ability.nightmare.1.3.0": "+3 POW",
   "dv2.ability.nightmare.1.3.1": " and travel in ",
-  "dv2.ability.nightmare.1.3.2": "6 ms⁻¹",
+  "dv2.ability.nightmare.1.3.2": "7 ms⁻¹",
   "dv2.ability.nightmare.1.3.3": ".",
 
   "dv2.ability.nightmare.2.0.0": "Full Charge",
@@ -1623,13 +1623,13 @@
 
   "dv2.artifacts.magic_string.1":"Magic String I",
   "dv2.artifacts.magic_string.1.1.0":"Increase 1500 Base Mana when not holding shield,",
-  "dv2.artifacts.magic_string.1.2.0":"Increase 500 Stamina when holding a shield.",
+  "dv2.artifacts.magic_string.1.2.0":"Increase 500 Stamina.",
   "dv2.artifacts.magic_string.2":"Magic String II",
   "dv2.artifacts.magic_string.2.1.0":"Increase 2500 Base Mana when not holding shield,",
-  "dv2.artifacts.magic_string.2.2.0":"Increase 1500 Stamina when holding a shield.",
+  "dv2.artifacts.magic_string.2.2.0":"Increase 1500 Stamina.",
   "dv2.artifacts.magic_string.3":"Magic String III",
   "dv2.artifacts.magic_string.3.1.0":"Increase 3500 Base Mana when not holding shield,",
-  "dv2.artifacts.magic_string.3.2.0":"Increase 2500 Stamina when holding a shield.",
+  "dv2.artifacts.magic_string.3.2.0":"Increase 2500 Stamina.",
 
 
   "dv2.artifacts.resistor":"Resistor",
@@ -1893,7 +1893,7 @@
   "dv2.gadget.lucky_coin_result": "[Lucky Coin] You just rolled ",
 
   "dv2.gadget.escape_button": "Escape Button",
-  "dv2.gadget.escape_button.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1", 
+  "dv2.gadget.escape_button.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1", 3
   "dv2.gadget.escape_button.2.0": "Cost 15% Current HP and reset combat timer.",
 
   "dv2.point": "Point (PT)",
