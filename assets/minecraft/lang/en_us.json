@@ -1893,7 +1893,7 @@
   "dv2.gadget.lucky_coin_result": "[Lucky Coin] You just rolled ",
 
   "dv2.gadget.escape_button": "Escape Button",
-  "dv2.gadget.escape_button.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1", 3
+  "dv2.gadget.escape_button.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1",
   "dv2.gadget.escape_button.2.0": "Cost 15% Current HP and reset combat timer.",
 
   "dv2.point": "Point (PT)",
