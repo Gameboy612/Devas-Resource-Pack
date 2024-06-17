@@ -1155,7 +1155,7 @@
   "dv2.ability.nightmare.1.2.2": " and additional ",
   "dv2.ability.nightmare.1.3.0": "+3 POW",
   "dv2.ability.nightmare.1.3.1": " and travel in ",
-  "dv2.ability.nightmare.1.3.2": "6 ms⁻¹",
+  "dv2.ability.nightmare.1.3.2": "7 ms⁻¹",
   "dv2.ability.nightmare.1.3.3": ".",
 
   "dv2.ability.nightmare.2.0.0": "Full Charge",
@@ -1628,13 +1628,13 @@
 
   "dv2.artifacts.magic_string.1":"Magic String I",
   "dv2.artifacts.magic_string.1.1.0":"Increase 1500 Base Mana when not holding shield,",
-  "dv2.artifacts.magic_string.1.2.0":"Increase 500 Stamina when holding a shield.",
+  "dv2.artifacts.magic_string.1.2.0":"Increase 500 Stamina.",
   "dv2.artifacts.magic_string.2":"Magic String II",
   "dv2.artifacts.magic_string.2.1.0":"Increase 2500 Base Mana when not holding shield,",
-  "dv2.artifacts.magic_string.2.2.0":"Increase 1500 Stamina when holding a shield.",
+  "dv2.artifacts.magic_string.2.2.0":"Increase 1500 Stamina.",
   "dv2.artifacts.magic_string.3":"Magic String III",
   "dv2.artifacts.magic_string.3.1.0":"Increase 3500 Base Mana when not holding shield,",
-  "dv2.artifacts.magic_string.3.2.0":"Increase 2500 Stamina when holding a shield.",
+  "dv2.artifacts.magic_string.3.2.0":"Increase 2500 Stamina.",
 
 
   "dv2.artifacts.resistor":"Resistor",
@@ -1875,7 +1875,7 @@
   "dv2.gadget.explosive_trap.5.0": "Each trap lasts for 200 seconds.",    
 
   "dv2.gadget.stun_trap": "Stun Trap",
-  "dv2.gadget.stun_trap.1.0": "Maximum Carrying Amount: 3 | Regenerate CD: 20s/1", 
+  "dv2.gadget.stun_trap.1.0": "Maximum Carrying Amount: 3 | Regenerate CD: 25s/1", 
   "dv2.gadget.stun_trap.2.0": "Set a Stun Trap. When an enemy approaches within 2 blocks,",
   "dv2.gadget.stun_trap.3.0": "it will stun all players (including teammates) within a 5-block radius for 5 seconds.",
   "dv2.gadget.stun_trap.4.0": "",
@@ -1898,8 +1898,14 @@
   "dv2.gadget.lucky_coin_result": "[Lucky Coin] You just rolled ",
 
   "dv2.gadget.escape_button": "Escape Button",
-  "dv2.gadget.escape_button.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1", 
+  "dv2.gadget.escape_button.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1",
   "dv2.gadget.escape_button.2.0": "Cost 15% Current HP and reset combat timer.",
+
+  "dv2.gadget.grenade": "Grenade",
+  "dv2.gadget.grenade.1.0": "Maximum Carrying Amount: 2 | Limited Per Life",
+  "dv2.gadget.grenade.2.0": "Throw out and explode when hitting ground or wall. Once on touch, ",
+  "dv2.gadget.grenade.3.0":"deal 20 true DMG to all players in 5-blocks radius and destroy nearby breakable object.",
+
 
   "dv2.point": "Point (PT)",
   "dv2.point.1.0":"You can use PT to buy weapon, artifacts, item and array.",
