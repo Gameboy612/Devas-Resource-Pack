@@ -472,6 +472,9 @@
   "dv2.gui.reset": "Reset",
   "dv2.gui.confirm_reset": "Confirm Reset",
   "dv2.gui.confirm_reset.lore": "Please note that this change is IRREVERTIBLE!",
+  "dv2.gui.rename": "Rename",
+  "dv2.gui.confirm_rename": "Confirm Rename",
+  "dv2.gui.confirm_rename.lore": "Hold the written book on your hand to rename.",
 
   "dv2.display.arrow": "Arrow",
   "dv2.display.artifact": "Perk",
@@ -541,6 +544,8 @@
   "dv2.display.loadout.view_loadout": "View Loadout",
   "dv2.display.loadout.set_loadout": "Set Loadout",
   "dv2.display.loadout.set_loadout.lore": "[DOUBLE CLICK] to remove this kit",
+
+  "dv2.display.loadout.rename.message": "Hold the written book and press again!",
 
   "dv2.ability.generic.no_nearby_enemies": "No nearby enemies",
   "dv2.ability.generic.ready": "Ability is now ready!",

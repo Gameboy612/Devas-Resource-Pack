@@ -214,6 +214,9 @@
   "dv2.gui.reset": "重設",
   "dv2.gui.confirm_reset": "確定重置",
   "dv2.gui.confirm_reset.lore": "請注意，此更改不可撤銷！",
+  "dv2.gui.rename": "Rename",
+  "dv2.gui.confirm_rename": "Confirm Rename",
+  "dv2.gui.confirm_rename.lore": "Hold the written book on your hand to rename.",
   
   "dv2.display.arrow": "箭矢",
   "dv2.display.artifact": "被動",
@@ -282,6 +285,8 @@
   "dv2.display.loadout.view_loadout": "檢視配置",
   "dv2.display.loadout.set_loadout": "設定配置",
   "dv2.display.loadout.set_loadout.lore": "[雙擊] 以移除此配置",
+
+  "dv2.display.loadout.rename.message": "Hold the written book and press again!",
 
   "dv2.ability.generic.no_nearby_enemies": "附近沒有敵人",
   "dv2.ability.generic.ready": "技能現已準備就緒！",

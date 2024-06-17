@@ -169,6 +169,9 @@
   "dv2.gui.reset": "Reset",
   "dv2.gui.confirm_reset": "Confirm Reset",
   "dv2.gui.confirm_reset.lore": "Please note that this change is IRREVERTIBLE!",
+  "dv2.gui.rename": "Rename",
+  "dv2.gui.confirm_rename": "Confirm Rename",
+  "dv2.gui.confirm_rename.lore": "Hold the written book on your hand to rename.",
   
   "dv2.display.arrow": "矢",
   "dv2.display.artifact": "飾",
