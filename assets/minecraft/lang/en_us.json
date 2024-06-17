@@ -1904,7 +1904,7 @@
   "dv2.gadget.grenade": "Grenade",
   "dv2.gadget.grenade.1.0": "Maximum Carrying Amount: 2 | Limited Per Life",
   "dv2.gadget.grenade.2.0": "Throw out and explode when hitting ground or wall. Once on touch, ",
-  "dv2.gadget.grenade.3.0":"deal 20 true DMG to all players in 5-blocks radius and destroy nearby breakable object.",
+  "dv2.gadget.grenade.3.0":"deal 15 true DMG to all players in 5-blocks radius and destroy nearby breakable object.",
 
 
   "dv2.point": "Point (PT)",

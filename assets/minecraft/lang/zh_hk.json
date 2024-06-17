@@ -241,7 +241,7 @@
   "dv2.display.allocate_point.failed": "你沒有足夠的分配點！",
   "dv2.display.allocate_point.reset": "  [重設]",
 
-  "dv2.ultimate.failed.have_teammate": "%s is already using this Ultimate! Please use another one.",
+  "dv2.ultimate.failed.have_teammate": "%s 已經在使用這個大絕了！請選擇其他的大絕！",
 
   "dv2.gui.not_enough_cost": "點數不足！",
   "dv2.gui.out_of_stock": "缺貨！",
@@ -889,7 +889,7 @@
   "dv2.ability.nightmare.1.2.2": "1.5秒，箭矢會獲得",
   "dv2.ability.nightmare.1.3.0": "3 DMG",
   "dv2.ability.nightmare.1.3.1": "，並且你的箭矢會以",
-  "dv2.ability.nightmare.1.3.2": "6 ms⁻¹",
+  "dv2.ability.nightmare.1.3.2": "7 ms⁻¹",
   "dv2.ability.nightmare.1.3.3": "的速度行進",
 
   "dv2.ability.nightmare.2.0.0": "完全蓄力",
@@ -1388,13 +1388,13 @@
 
   "dv2.artifacts.magic_string.1":"魔弦 I",
   "dv2.artifacts.magic_string.1.1.0":"不持盾時增加 1500 Base Mana",
-  "dv2.artifacts.magic_string.1.2.0":"持盾時增加 500 Stamina",
+  "dv2.artifacts.magic_string.1.2.0":"增加 500 Stamina",
   "dv2.artifacts.magic_string.2":"魔弦 II",
-  "dv2.artifacts.magic_string.2.1.0":"不持盾時增加 2500 Base Mana",
+  "dv2.artifacts.magic_string.2.1.0":"增加 2500 Base Mana",
   "dv2.artifacts.magic_string.2.2.0":"持盾時增加 1500 Stamina",
   "dv2.artifacts.magic_string.3":"魔弦 III",
   "dv2.artifacts.magic_string.3.1.0":"不持盾時增加 3500 Base Mana",
-  "dv2.artifacts.magic_string.3.2.0":"持盾時增加 2500 Stamina",
+  "dv2.artifacts.magic_string.3.2.0":"增加 2500 Stamina",
 
 
   "dv2.artifacts.resistor":"電阻器",
@@ -1528,7 +1528,12 @@
   "dv2.artifacts.quick_aim.3.1":"如果你的 ⌚ 拉弓時間超過 0.5 秒，",
   "dv2.artifacts.quick_aim.3.2":"減少 30% 拉弓時間。",
 
-
+  "dv2.artifacts.ranger.1":"遊俠 I",
+  "dv2.artifacts.ranger.1.1.0":"增加1格額外範圍。",
+  "dv2.artifacts.ranger.2":"遊俠 II",
+  "dv2.artifacts.ranger.2.1.0":"增加2格額外範圍。",
+  "dv2.artifacts.ranger.3":"遊俠 II",
+  "dv2.artifacts.ranger.3.1.0":"增加3格額外範圍。",
 
 
 
@@ -1608,7 +1613,7 @@
 
   "dv2.gadget.phantom_dive": "幽影潛行",
   "dv2.gadget.phantom_dive.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
-  "dv2.gadget.phantom_dive.2.0": "傳送至半徑7格内距離最近的敵人身邊，並獲得3秒的隱身效果。",
+  "dv2.gadget.phantom_dive.2.0": "傳送至半徑15格内距離最近的敵人身邊，並獲得3秒的隱身效果。",
 
   "dv2.gadget.curse_horn": "阿瑟迪亞",
   "dv2.gadget.curse_horn.1.0": "最大持有數：1 | 補充冷卻時間：80秒1個", 
@@ -1631,7 +1636,7 @@
   "dv2.gadget.explosive_trap.5.0": "每個陷阱會持續200秒。",
   
   "dv2.gadget.stun_trap": "暈眩陷阱",
-  "dv2.gadget.stun_trap.1.0": "最大持有數：3 | 補充冷卻時間：20秒1個", 
+  "dv2.gadget.stun_trap.1.0": "最大持有數：3 | 補充冷卻時間：25秒1個", 
   "dv2.gadget.stun_trap.2.0": "設置一個暈眩陷阱。當敵人靠近其2格範圍時，",
   "dv2.gadget.stun_trap.3.0": "陷阱會使半徑5格範圍內的所有玩家（包括隊友）暈眩5秒。",
   "dv2.gadget.stun_trap.4.0": "",
@@ -1658,9 +1663,10 @@
   "dv2.gadget.escape_button.2.0": "消耗 15% 當前生命值以重置戰鬥計時器。",
 
 
-  "dv2.gadget.escape_button": "Escape Button",
-  "dv2.gadget.escape_button.1.0": "Maximum Carrying Amount: 1 | Regenerate CD: 90s/1", 
-  "dv2.gadget.escape_button.2.0": "Cost 15% Current HP and reset combat timer.",
+  "dv2.gadget.grenade": "Grenade",
+  "dv2.gadget.grenade.1.0": "Maximum Carrying Amount: 2 | Limited Per Life",
+  "dv2.gadget.grenade.2.0": "Throw out and explode when hitting ground or wall. Once on touch, ",
+  "dv2.gadget.grenade.3.0":"deal 15 true DMG to all players in 5-blocks radius and destroy nearby breakable object.",
 
   "dv2.point":"點數 (PT)",
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
