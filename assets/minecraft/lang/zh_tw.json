@@ -1417,13 +1417,13 @@
   "dv2.artifacts.vikings.3.0":"使用時增加 5 🗡STR",
   
   "dv2.artifacts.vampire.1":"吸血鬼 I",
-  "dv2.artifacts.vampire.1.1.0":"🗡🏹STR 減少 10",
+  "dv2.artifacts.vampire.1.1.0":"🗡🏹STR 減少 20%",
   "dv2.artifacts.vampire.1.2.0":"吸收 5% 的傷害作為治療",
   "dv2.artifacts.vampire.2":"吸血鬼 II",
-  "dv2.artifacts.vampire.2.1.0":"🗡🏹STR 減少 10",
+  "dv2.artifacts.vampire.2.1.0":"🗡🏹STR 減少 20%",
   "dv2.artifacts.vampire.2.2.0":"吸收 10% 的傷害作為治療",
   "dv2.artifacts.vampire.3":"吸血鬼 III",
-  "dv2.artifacts.vampire.3.1.0":"🗡🏹STR 減少 10",
+  "dv2.artifacts.vampire.3.1.0":"🗡🏹STR 減少 20%",
   "dv2.artifacts.vampire.3.2.0":"吸收 15% 的傷害作為治療",
   "dv2.artifacts.vampire.3.3.0":"擊殺敵人後，",
   "dv2.artifacts.vampire.3.4.0":"回復等同於敵人最大 HP 的 25%",
@@ -1631,7 +1631,7 @@
   "dv2.gadget.explosive_trap": "爆破陷阱",
   "dv2.gadget.explosive_trap.1.0": "最大持有數：2 | 補充冷卻時間：40秒1個", 
   "dv2.gadget.explosive_trap.2.0": "設置一個爆破陷阱。當敵人靠近其2格範圍時，",
-  "dv2.gadget.explosive_trap.3.0": "陷阱會爆炸，並對半徑5格範圍內的所有玩家（包括隊友）造成40%的 真實 DMG",
+  "dv2.gadget.explosive_trap.3.0": "陷阱會爆炸，並對半徑5格範圍內的所有玩家（包括隊友）造成33%的 真實 DMG",
   "dv2.gadget.explosive_trap.4.0": "",
   "dv2.gadget.explosive_trap.5.0": "每個陷阱會持續200秒。",
   
@@ -1664,9 +1664,9 @@
 
 
   "dv2.gadget.grenade": "Grenade",
-  "dv2.gadget.grenade.1.0": "Maximum Carrying Amount: 2 | Limited Per Life",
+  "dv2.gadget.grenade.1.0": "Maximum Carrying Amount: 3 | Limited Per Life",
   "dv2.gadget.grenade.2.0": "Throw out and explode when hitting ground or wall. Once on touch, ",
-  "dv2.gadget.grenade.3.0":"deal 15 true DMG to all players in 5-blocks radius and destroy nearby breakable object.",
+  "dv2.gadget.grenade.3.0":"deal 10 true DMG to all players in 5-blocks radius and destroy nearby breakable object.",
 
   "dv2.point":"點數 (PT)",
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
