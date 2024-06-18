@@ -1150,7 +1150,7 @@
   "dv2.item.melee.description.1.0": "您的近戰武器會獲得 ",
   "dv2.item.melee.description.1.2": "",
 
-  "dv2.item.whetstone.description.2.0":"When ATK-SPD less than 0.6s, ONLY gain 2 DMG.",
+  "dv2.item.whetstone.description.2.0":"當 ATK-SPD 低於0.6秒時，您的近戰武器僅會獲得 2 DMG",
 
 
   "dv2.item.gem.description.0": "當此寶石被選取，",

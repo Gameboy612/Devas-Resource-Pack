@@ -1409,7 +1409,7 @@
   "dv2.arrow.power.description.1.2": ".",
 
   
-  "dv2.item.whetstone.description.2.0":"When ATK-SPD less than 0.6s, ONLY gain 2 DMG.",
+  "dv2.item.whetstone.description.2.0":"When your ATK-SPD is less than 0.6s, you will ONLY gain 2 DMG.",
 
 
   "dv2.arrow.power.description_array.0": "When this arrow is selected, your arrows",
