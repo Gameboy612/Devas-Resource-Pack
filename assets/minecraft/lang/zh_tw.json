@@ -1150,6 +1150,9 @@
   "dv2.item.melee.description.1.0": "您的近戰武器會獲得 ",
   "dv2.item.melee.description.1.2": "",
 
+  "dv2.item.whetstone.description.2.0":"When ATK-SPD less than 0.6s, ONLY gain 2 DMG.",
+
+
   "dv2.item.gem.description.0": "當此寶石被選取，",
   "dv2.item.gem.description.1.0": "您會獲得 ",
   "dv2.item.gem.description.1.2": "",
@@ -1474,10 +1477,10 @@
   "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑15格範圍內的隊友，將會減少你 40 🗡STR",
   "dv2.artifacts.battle_flag_attack.4.0":"(上限：1位玩家)",
   "dv2.artifacts.battle_flag_defend":"戰旗 <防禦模式>",
-  "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% SPD, 25% DMG，並獲得發光效果。",
+  "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% SPD, 10% DMG，並獲得發光效果。",
   "dv2.artifacts.battle_flag_defend.2.0":"增加 50% DEF",
   "dv2.artifacts.battle_flag_support":"戰旗 <輔助模式>",
-  "dv2.artifacts.battle_flag_support.1.0":"使用時減少 15% DEF, DMG，並獲得發光效果。",
+  "dv2.artifacts.battle_flag_support.1.0":"使用時減少 15% DEF，並獲得發光效果。",
   "dv2.artifacts.battle_flag_support.2.0":"增加 10% SPD,",
   "dv2.artifacts.battle_flag_support.3.0":"每5秒為半徑7格範圍內的隊友回復 5 HP，同時增加其 Base Mana",
 
