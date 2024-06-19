@@ -1515,11 +1515,16 @@
 
 
   "dv2.spells.burst.wind.2.leap": "Leap [⬈]",
-  "dv2.spells.burst.wind.2.leap.0": "<Burst>",
+  "dv2.spells.burst.wind.2.leap.0": "Maximum Charge: 3 | Regenerate CD: 10s/1",
   "dv2.spells.burst.wind.2.leap.1": "Leap forward instantly.",
   "dv2.spells.burst.wind.2.leap.2": "",
   "dv2.spells.burst.wind.2.leap.3.0": "Cost: ",
-  "dv2.spells.burst.wind.2.leap.3.1": "2000 Stamina",
+  "dv2.spells.burst.wind.2.leap.3.1": "1500 Stamina",
+
+
+
+
+
 
   "dv2.spells.burst.fire.2.blast_jump": "Blast Jump [↑]",
   "dv2.spells.burst.fire.2.blast_jump.0": "<Burst>",
