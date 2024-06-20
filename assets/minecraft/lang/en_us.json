@@ -476,6 +476,29 @@
   "dv2.gui.confirm_rename": "Confirm Rename",
   "dv2.gui.confirm_rename.lore": "Hold the written book on your hand to rename.",
 
+
+
+  "dv2.gui.health":"Health",
+  "dv2.gui.health.1":" HP",
+
+  "dv2.gui.defense":"Defense",
+  "dv2.gui.defense.1":" DEF",
+
+  "dv2.gui.strength":"Strength",
+  "dv2.gui.strength.1":" 🗡🏹✎STR",
+
+  "dv2.gui.mana":"Mana",
+  "dv2.gui.mana.1":" Mana",
+  "dv2.gui.mana.2":" Base Mana",
+
+
+  "dv2.gui.stamina":"Stamina",
+  "dv2.gui.stamina.1":" Stamina",
+
+  "dv2.gui.speed":"Speed",
+  "dv2.gui.speed.1":" SPD",
+
+
   "dv2.display.arrow": "Arrow",
   "dv2.display.artifact": "Perk",
   "dv2.display.bow": "Bow",
@@ -1552,7 +1575,7 @@
   "dv2.spells.inferno.2.2": ".",
   "dv2.spells.inferno.3": "(Lasts for 30 seconds)",
   "dv2.spells.inferno.4.0": "Cost: ",
-  "dv2.spells.inferno.4.1": "3000 Mana",
+  "dv2.spells.inferno.4.1": "2500 Mana",
 
   "dv2.spells.aqua_ring": "Aqua Ring",
   "dv2.spells.aqua_ring.0": "<Long Lasting>",
@@ -1566,7 +1589,7 @@
   "dv2.spells.aqua_ring.2.2": ".",
   "dv2.spells.aqua_ring.3": "(Lasts for 30 seconds)",
   "dv2.spells.aqua_ring.4.0": "Cost: ",
-  "dv2.spells.aqua_ring.4.1": "3000 Mana",
+  "dv2.spells.aqua_ring.4.1": "2500 Mana",
 
   "dv2.spells.tornado": "Tornado",
   "dv2.spells.tornado.0": "<Long Lasting>",
@@ -1580,7 +1603,7 @@
   "dv2.spells.tornado.2.2": ".",
   "dv2.spells.tornado.3": "(Lasts for 30 seconds)",
   "dv2.spells.tornado.4.0": "Cost: ",
-  "dv2.spells.tornado.4.1": "3000 Mana",
+  "dv2.spells.tornado.4.1": "2500 Mana",
 
   "dv2.spells.floral_aroma": "Floral Aroma",
   "dv2.spells.floral_aroma.0": "<Long Lasting>",
@@ -1594,7 +1617,7 @@
   "dv2.spells.floral_aroma.2.2": ".",
   "dv2.spells.floral_aroma.3": "(Lasts for 30 seconds)",
   "dv2.spells.floral_aroma.4.0": "Cost: ",
-  "dv2.spells.floral_aroma.4.1": "3000 Mana",
+  "dv2.spells.floral_aroma.4.1": "2500 Mana",
 
 
   "dv2.artifacts.berserker":"Berserker",
@@ -1625,6 +1648,13 @@
   "dv2.artifacts.shooter.1.1.0":"Increase 5 🏹STR when not holding shield.",
   "dv2.artifacts.shooter.2":"Shooter II",
   "dv2.artifacts.shooter.2.1.0":"Increase 15 🏹STR when not holding shield.",
+
+  "dv2.artifacts.mage.1":"Mage I",
+  "dv2.artifacts.mage.1.1.0":"Increase 5 ✎STR when not holding shield.",
+  "dv2.artifacts.mage.2":"Mage II",
+  "dv2.artifacts.mage.2.1.0":"Increase 15 ✎STR when not holding shield.",
+
+
 
   "dv2.artifacts.totem_of_hope.1":"Totem of Hope I",
   "dv2.artifacts.totem_of_hope.1.1.0":"Increase your array's life time by 5s.",
@@ -1849,7 +1879,7 @@
 
   "dv2.gadget.reborn_heart": "Reborn Heart",
   "dv2.gadget.reborn_heart.1.0": "Maximum Carrying Amount: 2 | Regenerate CD: 60s/1", 
-  "dv2.gadget.reborn_heart.2.0": "Cost 33% of Current HP and gain 5 Fire Melee EM and a haste 25% ATK-SPD for 20 seconds.",
+  "dv2.gadget.reborn_heart.2.0": "Cost 33% of Current HP and gain 5 Fire 🗡EM and a haste 25% ATK-SPD for 20 seconds.",
   "dv2.gadget.reborn_heart.3.0": "Your current HP will be set to 33% of your maximum HP after the effect ends.",
 
   "dv2.gadget.overload": "Overload",
