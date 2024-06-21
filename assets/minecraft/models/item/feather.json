@@ -14,6 +14,7 @@
         {"predicate": {"custom_model_data":200001}, "model": "devas_2/gui_items/jos_1_2"},
 
         {"predicate": {"custom_model_data":300000}, "model": "devas_2/icon/crossbow"},
-        {"predicate": {"custom_model_data":300001}, "model": "devas_2/icon/iron_axe"}
+        {"predicate": {"custom_model_data":300001}, "model": "devas_2/icon/iron_axe"},
+        {"predicate": {"custom_model_data":300002}, "model": "devas_2/icon/diamond_shovel"}
     ]
 }
