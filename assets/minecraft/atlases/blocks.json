@@ -19,6 +19,11 @@
             "type": "directory",
             "source": "devas_2",
             "prefix": "devas_2/"
+        },
+        {
+            "type": "directory",
+            "source": "font",
+            "prefix": "font/"
         }
     ]
 }
