@@ -14,6 +14,13 @@
         {"predicate": {"custom_model_data":200001}, "model": "devas_2/gui_items/jos_1_2"},
 
         {"predicate": {"custom_model_data":300000}, "model": "devas_2/icon/crossbow"},
-        {"predicate": {"custom_model_data":300001}, "model": "devas_2/icon/iron_axe"}
+        {"predicate": {"custom_model_data":300001}, "model": "devas_2/icon/iron_axe"},
+        {"predicate": {"custom_model_data":300002}, "model": "devas_2/icon/diamond_shovel"},
+        {"predicate": {"custom_model_data":300003}, "model": "devas_2/icon/wooden_sword"},
+        {"predicate": {"custom_model_data":300004}, "model": "devas_2/icon/chainmail_helmet"},
+        {"predicate": {"custom_model_data":300005}, "model": "devas_2/icon/chainmail_chestplate"},
+        {"predicate": {"custom_model_data":300006}, "model": "devas_2/icon/diamond_chestplate"},
+        {"predicate": {"custom_model_data":300007}, "model": "devas_2/icon/stone_sword"}
+
     ]
 }

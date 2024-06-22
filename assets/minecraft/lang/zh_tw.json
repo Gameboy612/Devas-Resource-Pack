@@ -482,24 +482,24 @@
   "dv2.gui.slot_offhand": "放置於非慣用手欄",
   "dv2.gui.slot_default": "放置於預設位置",
 
-  "dv2.gui.health":"Health",
+  "dv2.gui.health":"生命值",
   "dv2.gui.health.1":" HP",
 
-  "dv2.gui.defense":"Defense",
+  "dv2.gui.defense":"防禦值",
   "dv2.gui.defense.1":" DEF",
 
-  "dv2.gui.strength":"Strength",
+  "dv2.gui.strength":"力量值",
   "dv2.gui.strength.1":" 🗡🏹✎STR",
 
-  "dv2.gui.mana":"Mana",
+  "dv2.gui.mana":"魔力值",
   "dv2.gui.mana.1":" Mana",
   "dv2.gui.mana.2":" Base Mana",
 
 
-  "dv2.gui.stamina":"Stamina",
+  "dv2.gui.stamina":"耐力值",
   "dv2.gui.stamina.1":" Stamina",
 
-  "dv2.gui.speed":"Speed",
+  "dv2.gui.speed":"速度",
   "dv2.gui.speed.1":" SPD",
 
 
@@ -1298,22 +1298,22 @@
 
 
   "dv2.spells.burst.wind.2.leap": "飛躍 [⬈]",
-  "dv2.spells.burst.wind.2.leap.0": "Maximum Charge: 3 | Regenerate CD: 10s/1",
-  "dv2.spells.burst.wind.2.leap.1": "Leap forward instantly.",
+  "dv2.spells.burst.wind.2.leap.0": "最大持有數：3 | 補充冷卻時間：10秒1個",
+  "dv2.spells.burst.wind.2.leap.1": "瞬間向前方飛躍。",
   "dv2.spells.burst.wind.2.leap.2": "",
-  "dv2.spells.burst.wind.2.leap.3.0": "Cost: ",
+  "dv2.spells.burst.wind.2.leap.3.0": "消耗：",
   "dv2.spells.burst.wind.2.leap.3.1": "1500 Stamina",
 
   "dv2.spells.burst.fire.2.blast_jump": "爆能躍升 [↑]",
   "dv2.spells.burst.fire.2.blast_jump.0": "<爆發型>",
-  "dv2.spells.burst.fire.2.blast_jump.1": "",
+  "dv2.spells.burst.fire.2.blast_jump.1": "瞬間向上方躍升。",
   "dv2.spells.burst.fire.2.blast_jump.2": "",
   "dv2.spells.burst.fire.2.blast_jump.3.0": "",
   "dv2.spells.burst.fire.2.blast_jump.3.1": "",
 
   "dv2.spells.burst.earth.2.accelerock": "衝岩 [→]",
   "dv2.spells.burst.earth.2.accelerock.0": "<爆發型>",
-  "dv2.spells.burst.earth.2.accelerock.1": "",
+  "dv2.spells.burst.earth.2.accelerock.1": "瞬間向前方衝刺。",
   "dv2.spells.burst.earth.2.accelerock.2": "",
   "dv2.spells.burst.earth.2.accelerock.3.0": "",
   "dv2.spells.burst.earth.2.accelerock.3.1": "",
@@ -1693,10 +1693,10 @@
   "dv2.gadget.escape_button.2.0": "消耗 15% 當前生命值以重置戰鬥計時器。",
 
 
-  "dv2.gadget.grenade": "Grenade",
-  "dv2.gadget.grenade.1.0": "Maximum Carrying Amount: 3 | Limited Per Life",
-  "dv2.gadget.grenade.2.0": "Throw out and explode when hitting ground or wall. Once on touch, ",
-  "dv2.gadget.grenade.3.0":"deal 10 true DMG to all players in 5-blocks radius and destroy nearby breakable object.",
+  "dv2.gadget.grenade": "手榴彈",
+  "dv2.gadget.grenade.1.0": "最大持有數：3 | 重生時補充",
+  "dv2.gadget.grenade.2.0": "扔出後撞到地面或牆壁時會爆炸。一旦觸碰，",
+  "dv2.gadget.grenade.3.0":"對半徑5格範圍內的所有玩家造成 10 點真實DMG，並摧毀附近的可破壞物體。",
 
   "dv2.point":"點數 (PT)",
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",
