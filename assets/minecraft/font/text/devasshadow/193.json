@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "text/devasshadow.ttf",
+            "shift": [0.0, 19.3],
+            "size": 9,
+            "oversample": 32.0
+        }
+    ]
+}

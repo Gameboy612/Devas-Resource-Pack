@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "text/devas.ttf",
+            "shift": [0.0, 13.3],
+            "size": 9,
+            "oversample": 32.0
+        }
+    ]
+}

@@ -42,92 +42,92 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/0.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/0.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["0"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/1.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/1.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["1"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/2.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/2.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["2"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/3.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/3.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["3"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/4.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/4.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["4"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/5.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/5.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["5"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/6.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/6.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["6"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/7.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/7.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["7"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/8.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/8.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["8"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/9.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/9.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["9"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/left_bracket.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/left_bracket.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["("]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/right_bracket.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/right_bracket.png",
+            "ascent": 3,
             "height": 40,
             "chars": [")"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/default_aligned/slash.png",
-            "ascent": 0,
+            "file": "minecraft:font/shifted_default_outlined/slash.png",
+            "ascent": 3,
             "height": 40,
             "chars": ["/"]
         }

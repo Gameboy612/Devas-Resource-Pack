@@ -12,11 +12,11 @@ def generateFiles(path, save_path, height, num_range = (0, 10)):
         
         extended_image.save(save_path.replace("$", str(i)))
 
-for name in os.listdir("assets/minecraft/textures/font/default"):
+for name in os.listdir("assets/minecraft/textures/font/default_outlined"):
     if not name.endswith(".png"):
         continue
     generateFiles(
-        path=f"assets/minecraft/textures/font/default/{name}",
-        save_path=f"assets/minecraft/textures/font/default_aligned/{name}",
+        path=f"assets/minecraft/textures/font/default_outlined/{name}",
+        save_path=f"assets/minecraft/textures/font/shifted_default_outlined/{name}",
         height=40
     )
