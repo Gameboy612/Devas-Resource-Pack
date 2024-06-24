@@ -436,6 +436,9 @@
   "dv2.game.stage.process.lifesteal.feedback.7": "EVERYONE LOSES 1 LIVE",
 
   "dv2.game.stage.process.capture.feedback.1": "Capture",
+  "dv2.game.stage.capture": "Team %s reached %s%%",
+  "dv2.game.timer": "%s:%s%s",
+  "dv2.game.topkill": "Top Killer",
 
   "dv2.kits.berserker.1": "Berserker 1",
   "dv2.kits.berserker.2": "Berserker 2",

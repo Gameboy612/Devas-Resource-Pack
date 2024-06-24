@@ -258,6 +258,8 @@
   "dv2.game.stage.process.lifesteal.feedback.4": "汝已見汰。",
   "dv2.game.stage.process.lifesteal.feedback.5": " 已見汰！",
 
+  "dv2.game.stage.process.capture.feedback.1": "Capture",
+  "dv2.game.stage.capture": "Team %s reached %s%",
 
   "dv2.ability.dagger.0.0": "匕首 (右鍵作)",
   "dv2.ability.dagger.1.0": "右鍵，匕首也故傷之",
