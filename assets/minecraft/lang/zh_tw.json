@@ -219,7 +219,7 @@
   "dv2.gui.confirm_rename": "確認重命名",
   "dv2.gui.confirm_rename.lore": "將完成的書放在主用手上以重命名。",
   
-  "dv2.gui.loadout_add": "Create New Loadout",
+  "dv2.gui.loadout_add": "創建新配置",
   
   "dv2.display.arrow": "箭矢",
   "dv2.display.artifact": "被動",
@@ -485,24 +485,24 @@
   "dv2.gui.slot_offhand": "放置於非慣用手欄",
   "dv2.gui.slot_default": "放置於預設位置",
 
-  "dv2.gui.health":"生命值",
+  "dv2.gui.health":"❤ 生命值",
   "dv2.gui.health.1":" HP",
 
-  "dv2.gui.defense":"防禦值",
+  "dv2.gui.defense":"⛨ 防禦值",
   "dv2.gui.defense.1":" DEF",
 
-  "dv2.gui.strength":"力量值",
+  "dv2.gui.strength":"🗡 力量值",
   "dv2.gui.strength.1":" 🗡🏹✎STR",
 
-  "dv2.gui.mana":"魔力值",
+  "dv2.gui.mana":"🧪 魔力值",
   "dv2.gui.mana.1":" Mana",
   "dv2.gui.mana.2":" Base Mana",
 
 
-  "dv2.gui.stamina":"耐力值",
+  "dv2.gui.stamina":"🍖 耐力值",
   "dv2.gui.stamina.1":" Stamina",
 
-  "dv2.gui.speed":"速度",
+  "dv2.gui.speed":"⚡ 速度",
   "dv2.gui.speed.1":" SPD",
 
 
