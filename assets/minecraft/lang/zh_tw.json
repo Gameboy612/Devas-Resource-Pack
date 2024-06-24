@@ -218,6 +218,8 @@
   "dv2.gui.confirm_rename": "確認重命名",
   "dv2.gui.confirm_rename.lore": "將完成的書放在主用手上以重命名。",
   
+  "dv2.gui.loadout_add": "Create New Loadout",
+  
   "dv2.display.arrow": "箭矢",
   "dv2.display.artifact": "被動",
   "dv2.display.bow": "弓",

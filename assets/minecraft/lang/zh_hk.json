@@ -218,6 +218,8 @@
   "dv2.gui.confirm_rename": "Confirm Rename",
   "dv2.gui.confirm_rename.lore": "Hold the written book on your hand to rename.",
   
+  "dv2.gui.loadout_add": "Create New Loadout",
+  
   "dv2.display.arrow": "箭矢",
   "dv2.display.artifact": "被動",
   "dv2.display.bow": "弓",

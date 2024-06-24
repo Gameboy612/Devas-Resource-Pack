@@ -476,6 +476,7 @@
   "dv2.gui.confirm_rename": "Confirm Rename",
   "dv2.gui.confirm_rename.lore": "Hold the written book on your hand to rename.",
 
+  "dv2.gui.loadout_add": "Create New Loadout",
 
 
   "dv2.gui.health":"Health",
@@ -804,7 +805,6 @@
   "dv2.ability.odachi.2.0": "dealing ",
   "dv2.ability.odachi.2.1": "x2 DMG",
   "dv2.ability.odachi.2.2": " to entities you pass through.",
-
 
 
 
