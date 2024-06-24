@@ -211,12 +211,12 @@
   "dv2.gui.save": "儲存",
   "dv2.gui.remove": "移除",
   "dv2.gui.loadout_settings": "配置設定",
-  "dv2.gui.reset": "重設",
-  "dv2.gui.confirm_reset": "確定重置",
+  "dv2.gui.reset": "重置",
+  "dv2.gui.confirm_reset": "確認重置",
   "dv2.gui.confirm_reset.lore": "請注意，此更改不可撤銷！",
-  "dv2.gui.rename": "Rename",
-  "dv2.gui.confirm_rename": "Confirm Rename",
-  "dv2.gui.confirm_rename.lore": "Hold the written book on your hand to rename.",
+  "dv2.gui.rename": "重命名",
+  "dv2.gui.confirm_rename": "確認重命名",
+  "dv2.gui.confirm_rename.lore": "將完成的書放在主用手上以重命名。",
   
   "dv2.gui.loadout_add": "Create New Loadout",
   
@@ -288,7 +288,7 @@
   "dv2.display.loadout.set_loadout": "設定配置",
   "dv2.display.loadout.set_loadout.lore": "[雙擊] 以移除此配置",
 
-  "dv2.display.loadout.rename.message": "Hold the written book and press again!",
+  "dv2.display.loadout.rename.message": "拿著完成的書再按一次！",
 
   "dv2.ability.generic.no_nearby_enemies": "附近沒有敵人",
   "dv2.ability.generic.ready": "技能現已準備就緒！",
@@ -483,6 +483,27 @@
   "dv2.gui.slot_9": "放置於快捷欄 9",
   "dv2.gui.slot_offhand": "放置於非慣用手欄",
   "dv2.gui.slot_default": "放置於預設位置",
+
+  "dv2.gui.health":"❤ 生命值",
+  "dv2.gui.health.1":" HP",
+
+  "dv2.gui.defense":"⛨ 防禦值",
+  "dv2.gui.defense.1":" DEF",
+
+  "dv2.gui.strength":"🗡 力量值",
+  "dv2.gui.strength.1":" 🗡🏹✎STR",
+
+  "dv2.gui.mana":"🧪 魔力值",
+  "dv2.gui.mana.1":" Mana",
+  "dv2.gui.mana.2":" Base Mana",
+
+
+  "dv2.gui.stamina":"🍖 耐力值",
+  "dv2.gui.stamina.1":" Stamina",
+
+  "dv2.gui.speed":"⚡ 速度",
+  "dv2.gui.speed.1":" SPD",
+
 
 
   "dv2.ultimate.rampage": "狂暴",
@@ -1152,6 +1173,9 @@
   "dv2.item.melee.description.1.0": "您的近戰武器會獲得 ",
   "dv2.item.melee.description.1.2": "",
 
+  "dv2.item.whetstone.description.2.0":"當 ATK-SPD 低於0.6秒時，您的近戰武器僅會獲得 2 DMG",
+
+
   "dv2.item.gem.description.0": "當此寶石被選取，",
   "dv2.item.gem.description.1.0": "您會獲得 ",
   "dv2.item.gem.description.1.2": "",
@@ -1276,22 +1300,22 @@
 
 
   "dv2.spells.burst.wind.2.leap": "飛躍 [⬈]",
-  "dv2.spells.burst.wind.2.leap.0": "<爆發型>",
-  "dv2.spells.burst.wind.2.leap.1": "",
+  "dv2.spells.burst.wind.2.leap.0": "最大持有數：3 | 補充冷卻時間：10秒1個",
+  "dv2.spells.burst.wind.2.leap.1": "瞬間向前方飛躍。",
   "dv2.spells.burst.wind.2.leap.2": "",
-  "dv2.spells.burst.wind.2.leap.3.0": "",
-  "dv2.spells.burst.wind.2.leap.3.1": "",
+  "dv2.spells.burst.wind.2.leap.3.0": "消耗：",
+  "dv2.spells.burst.wind.2.leap.3.1": "1500 Stamina",
 
   "dv2.spells.burst.fire.2.blast_jump": "爆能躍升 [↑]",
   "dv2.spells.burst.fire.2.blast_jump.0": "<爆發型>",
-  "dv2.spells.burst.fire.2.blast_jump.1": "",
+  "dv2.spells.burst.fire.2.blast_jump.1": "瞬間向上方躍升。",
   "dv2.spells.burst.fire.2.blast_jump.2": "",
   "dv2.spells.burst.fire.2.blast_jump.3.0": "",
   "dv2.spells.burst.fire.2.blast_jump.3.1": "",
 
   "dv2.spells.burst.earth.2.accelerock": "衝岩 [→]",
   "dv2.spells.burst.earth.2.accelerock.0": "<爆發型>",
-  "dv2.spells.burst.earth.2.accelerock.1": "",
+  "dv2.spells.burst.earth.2.accelerock.1": "瞬間向前方衝刺。",
   "dv2.spells.burst.earth.2.accelerock.2": "",
   "dv2.spells.burst.earth.2.accelerock.3.0": "",
   "dv2.spells.burst.earth.2.accelerock.3.1": "",
@@ -1322,7 +1346,7 @@
   "dv2.spells.aqua_ring.2.2": "。",
   "dv2.spells.aqua_ring.3": "(持續30秒)",
   "dv2.spells.aqua_ring.4.0": "消耗：",
-  "dv2.spells.aqua_ring.4.1": "5000 Mana",
+  "dv2.spells.aqua_ring.4.1": "2500 Mana",
 
   "dv2.spells.tornado": "風颶亂舞",
   "dv2.spells.tornado.0": "<持久型>",
@@ -1336,7 +1360,7 @@
   "dv2.spells.tornado.2.2": ".",
   "dv2.spells.tornado.3": "(持續30秒)",
   "dv2.spells.tornado.4.0": "消耗：",
-  "dv2.spells.tornado.4.1": "5000 Mana",
+  "dv2.spells.tornado.4.1": "2500 Mana",
 
   "dv2.spells.floral_aroma": "芬馨花海",
   "dv2.spells.floral_aroma.0": "<持久型>",
@@ -1350,7 +1374,7 @@
   "dv2.spells.floral_aroma.2.2": "",
   "dv2.spells.floral_aroma.3": "(持續30秒)",
   "dv2.spells.floral_aroma.4.0": "消耗：",
-  "dv2.spells.floral_aroma.4.1": "5000 Mana",
+  "dv2.spells.floral_aroma.4.1": "2500 Mana",
 
   "dv2.artifacts.berserker":"狂戰士",
   "dv2.artifacts.berserker.1.0":"在 HP 低於 50% 時增加 15 🗡STR",
@@ -1380,6 +1404,12 @@
   "dv2.artifacts.shooter.1.1.0":"不持盾時增加 5 🏹STR",
   "dv2.artifacts.shooter.2":"射手 II",
   "dv2.artifacts.shooter.2.1.0":"不持盾時增加 15 🏹STR",
+
+  "dv2.artifacts.mage.1":"Mage I",
+  "dv2.artifacts.mage.1.1.0":"Increase 5 ✎STR when not holding shield.",
+  "dv2.artifacts.mage.2":"Mage II",
+  "dv2.artifacts.mage.2.1.0":"Increase 15 ✎STR when not holding shield.",
+
 
   "dv2.artifacts.totem_of_hope.1":"希望圖騰 I",
   "dv2.artifacts.totem_of_hope.1.1.0":"將法陣的使用壽命延長 5 秒",
@@ -1419,13 +1449,13 @@
   "dv2.artifacts.vikings.3.0":"使用時增加 5 🗡STR",
   
   "dv2.artifacts.vampire.1":"吸血鬼 I",
-  "dv2.artifacts.vampire.1.1.0":"🗡🏹STR 減少 10",
+  "dv2.artifacts.vampire.1.1.0":"🗡🏹STR 減少 20%",
   "dv2.artifacts.vampire.1.2.0":"吸收 5% 的傷害作為治療",
   "dv2.artifacts.vampire.2":"吸血鬼 II",
-  "dv2.artifacts.vampire.2.1.0":"🗡🏹STR 減少 10",
+  "dv2.artifacts.vampire.2.1.0":"🗡🏹STR 減少 20%",
   "dv2.artifacts.vampire.2.2.0":"吸收 10% 的傷害作為治療",
   "dv2.artifacts.vampire.3":"吸血鬼 III",
-  "dv2.artifacts.vampire.3.1.0":"🗡🏹STR 減少 10",
+  "dv2.artifacts.vampire.3.1.0":"🗡🏹STR 減少 20%",
   "dv2.artifacts.vampire.3.2.0":"吸收 15% 的傷害作為治療",
   "dv2.artifacts.vampire.3.3.0":"擊殺敵人後，",
   "dv2.artifacts.vampire.3.4.0":"回復等同於敵人最大 HP 的 25%",
@@ -1476,10 +1506,10 @@
   "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑15格範圍內的隊友，將會減少你 40 🗡STR",
   "dv2.artifacts.battle_flag_attack.4.0":"(上限：1位玩家)",
   "dv2.artifacts.battle_flag_defend":"戰旗 <防禦模式>",
-  "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% SPD, 25% DMG，並獲得發光效果。",
+  "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% SPD, 10% DMG，並獲得發光效果。",
   "dv2.artifacts.battle_flag_defend.2.0":"增加 50% DEF",
   "dv2.artifacts.battle_flag_support":"戰旗 <輔助模式>",
-  "dv2.artifacts.battle_flag_support.1.0":"使用時減少 15% DEF, DMG，並獲得發光效果。",
+  "dv2.artifacts.battle_flag_support.1.0":"使用時減少 15% DEF，並獲得發光效果。",
   "dv2.artifacts.battle_flag_support.2.0":"增加 10% SPD,",
   "dv2.artifacts.battle_flag_support.3.0":"每5秒為半徑7格範圍內的隊友回復 5 HP，同時增加其 Base Mana",
 
@@ -1633,7 +1663,7 @@
   "dv2.gadget.explosive_trap": "爆破陷阱",
   "dv2.gadget.explosive_trap.1.0": "最大持有數：2 | 補充冷卻時間：40秒1個", 
   "dv2.gadget.explosive_trap.2.0": "設置一個爆破陷阱。當敵人靠近其2格範圍時，",
-  "dv2.gadget.explosive_trap.3.0": "陷阱會爆炸，並對半徑5格範圍內的所有玩家（包括隊友）造成40%的 真實 DMG",
+  "dv2.gadget.explosive_trap.3.0": "陷阱會爆炸，並對半徑5格範圍內的所有玩家（包括隊友）造成33%的 真實 DMG",
   "dv2.gadget.explosive_trap.4.0": "",
   "dv2.gadget.explosive_trap.5.0": "每個陷阱會持續200秒。",
   
@@ -1665,10 +1695,10 @@
   "dv2.gadget.escape_button.2.0": "消耗 15% 當前生命值以重置戰鬥計時器。",
 
 
-  "dv2.gadget.grenade": "Grenade",
-  "dv2.gadget.grenade.1.0": "Maximum Carrying Amount: 2 | Limited Per Life",
-  "dv2.gadget.grenade.2.0": "Throw out and explode when hitting ground or wall. Once on touch, ",
-  "dv2.gadget.grenade.3.0":"deal 15 true DMG to all players in 5-blocks radius and destroy nearby breakable object.",
+  "dv2.gadget.grenade": "手榴彈",
+  "dv2.gadget.grenade.1.0": "最大持有數：3 | 重生時補充",
+  "dv2.gadget.grenade.2.0": "扔出後撞到地面或牆壁時會爆炸。一旦觸碰，",
+  "dv2.gadget.grenade.3.0":"對半徑5格範圍內的所有玩家造成 10 點真實DMG，並摧毀附近的可破壞物體。",
 
   "dv2.point":"點數 (PT)",
   "dv2.point.1.0":"你可以使用PT來購買武器、首飾、物品和法陣",

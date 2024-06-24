@@ -479,24 +479,24 @@
   "dv2.gui.loadout_add": "Create New Loadout",
 
 
-  "dv2.gui.health":"Health",
+  "dv2.gui.health":"❤ Health",
   "dv2.gui.health.1":" HP",
 
-  "dv2.gui.defense":"Defense",
+  "dv2.gui.defense":"⛨ Defense",
   "dv2.gui.defense.1":" DEF",
 
-  "dv2.gui.strength":"Strength",
+  "dv2.gui.strength":"🗡 Strength",
   "dv2.gui.strength.1":" 🗡🏹✎STR",
 
-  "dv2.gui.mana":"Mana",
+  "dv2.gui.mana":"🧪 Mana",
   "dv2.gui.mana.1":" Mana",
   "dv2.gui.mana.2":" Base Mana",
 
 
-  "dv2.gui.stamina":"Stamina",
+  "dv2.gui.stamina":"🍖 Stamina",
   "dv2.gui.stamina.1":" Stamina",
 
-  "dv2.gui.speed":"Speed",
+  "dv2.gui.speed":"⚡ Speed",
   "dv2.gui.speed.1":" SPD",
 
 
