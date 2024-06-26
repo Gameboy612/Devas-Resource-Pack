@@ -20,7 +20,8 @@
         {"predicate": {"custom_model_data":300004}, "model": "devas_2/icon/chainmail_helmet"},
         {"predicate": {"custom_model_data":300005}, "model": "devas_2/icon/chainmail_chestplate"},
         {"predicate": {"custom_model_data":300006}, "model": "devas_2/icon/diamond_chestplate"},
-        {"predicate": {"custom_model_data":300007}, "model": "devas_2/icon/stone_sword"}
+        {"predicate": {"custom_model_data":300007}, "model": "devas_2/icon/stone_sword"},
+        {"predicate": {"custom_model_data":300008}, "model": "devas_2/icon/leather_boots"}
 
     ]
 }

@@ -178,7 +178,9 @@
   "dv2.game.stage.process.lifesteal.feedback.7": "所有人減少一條命",
 
   "dv2.game.stage.process.capture.feedback.1": "佔點",
-  "dv2.game.stage.capture": "Team %s reached %s%",
+  "dv2.game.stage.capture": "%s 隊已到達 %s%",
+  "dv2.game.timer": "%s:%s%s",
+  "dv2.game.topkill": "頂尖殺手",
 
   "dv2.kits.berserker.1": "狂戰士 1",
   "dv2.kits.berserker.2": "狂戰士 2",
