@@ -1553,18 +1553,18 @@
 
 
   "dv2.spells.burst.fire.2.blast_jump": "Blast Jump [↑]",
-  "dv2.spells.burst.fire.2.blast_jump.0": "<Burst>",
+  "dv2.spells.burst.fire.2.blast_jump.0": "Maximum Charge: 3 | Regenerate CD: 10s/1",
   "dv2.spells.burst.fire.2.blast_jump.1": "Jump upward instantly.",
   "dv2.spells.burst.fire.2.blast_jump.2": "",
   "dv2.spells.burst.fire.2.blast_jump.3.0": "Cost: ",
-  "dv2.spells.burst.fire.2.blast_jump.3.1": "3000 Stamina",
+  "dv2.spells.burst.fire.2.blast_jump.3.1": "2000 Stamina",
 
   "dv2.spells.burst.earth.2.accelerock": "Accelerock [→]",
-  "dv2.spells.burst.earth.2.accelerock.0": "<Burst>",
+  "dv2.spells.burst.earth.2.accelerock.0": "Maximum Charge: 3 | Regenerate CD: 10s/1",
   "dv2.spells.burst.earth.2.accelerock.1": "Dash forward instantly.",
   "dv2.spells.burst.earth.2.accelerock.2": "",
   "dv2.spells.burst.earth.2.accelerock.3.0": "Cost: ",
-  "dv2.spells.burst.earth.2.accelerock.3.1": "3000 Stamina",
+  "dv2.spells.burst.earth.2.accelerock.3.1": "2000 Stamina",
 
   "dv2.spells.inferno": "Inferno",
   "dv2.spells.inferno.0": "<Long Lasting>",
