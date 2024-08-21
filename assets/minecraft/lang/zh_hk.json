@@ -144,6 +144,7 @@
   "rpg.equipment.leggings": "護腿",
   "rpg.equipment.boots": "靴子",
   "rpg.equipment.gadget": "道具",
+  "rpg.equipment.spell": "法術",
 
 
   "dv2.dummy.feedback": "造成傷害：",
@@ -508,11 +509,16 @@
   "dv2.gui.speed":"⚡ 速度",
   "dv2.gui.speed.1":" SPD",
   
-  "dv2.lore.gadget.mca": "最大持有數：",
+  "dv2.lore.gadget.max_charge": "最大充能數：",
   "dv2.lore.gadget.cd": "補充冷卻時間：",
   "dv2.lore.gadget.cd.prefix": "秒",
   "dv2.lore.gadget.cd.suffix": "個",
   "dv2.lore.gadget.cd.lpl": "重生時補充",
+
+  "dv2.lore.spell.max_charge": "最大充能數：",
+  "dv2.lore.spell.cd": "補充冷卻時間：",
+  "dv2.lore.spell.cd.prefix": "秒",
+  "dv2.lore.spell.cd.suffix": "個",
 
 
 
@@ -1310,9 +1316,10 @@
 
 
   "dv2.spells.burst.wind.2.leap": "飛躍 [⬈]",
-  "dv2.spells.burst.wind.2.leap.0": "最大持有數：3 | 補充冷卻時間：10秒1個",
-  "dv2.spells.burst.wind.2.leap.1": "瞬間向前方飛躍。",
-  "dv2.spells.burst.wind.2.leap.2": "",
+  "dv2.spells.burst.wind.2.leap.max_charge": "3",
+  "dv2.spells.burst.wind.2.leap.cd": "10",
+  "dv2.spells.burst.wind.2.leap.1.0": "瞬間向前方飛躍。",
+  "dv2.spells.burst.wind.2.leap.2.0": "",
   "dv2.spells.burst.wind.2.leap.3.0": "消耗：",
   "dv2.spells.burst.wind.2.leap.3.1": "1500 Stamina",
 
@@ -1603,129 +1610,129 @@
 
 
   "dv2.gadget.ice_cage": "冰霜囚籠",
-  "dv2.gadget.ice_cage.mca": "1",
+  "dv2.gadget.ice_cage.max_charge": "1",
   "dv2.gadget.ice_cage.cd": "60",
   "dv2.gadget.ice_cage.1.0": "右鍵以在玩家周圍設置一個以其為中心，持續時間為7秒，7×7×5的冰籠。",
 
   "dv2.gadget.instant_barrier": "冰霜屏障",
-  "dv2.gadget.instant_barrier.mca": "1",
+  "dv2.gadget.instant_barrier.max_charge": "1",
   "dv2.gadget.instant_barrier.cd": "60",
   "dv2.gadget.instant_barrier.1.0": "右鍵以在玩家前方設置一個寬度為2格的冰牆。",
   "dv2.gadget.instant_barrier.2.0": "該冰牆將在30秒後，或者被近戰攻擊擊中40次後消失。",
 
   "dv2.gadget.large_hp_potion": "大瓶回復藥水",
-  "dv2.gadget.large_hp_potion.mca": "1",
+  "dv2.gadget.large_hp_potion.max_charge": "1",
   "dv2.gadget.large_hp_potion.cd": "50",
   "dv2.gadget.large_hp_potion.1.0": "使用7秒後，將 HP 恢復至上限的100%",
 
   "dv2.gadget.small_hp_potion": "小瓶回復藥水",
-  "dv2.gadget.small_hp_potion.mca": "2",
+  "dv2.gadget.small_hp_potion.max_charge": "2",
   "dv2.gadget.small_hp_potion.cd": "30",
   "dv2.gadget.small_hp_potion.1.0": "使用5秒後，將 HP 恢復至上限的33%",
 
   "dv2.gadget.large_mana_potion": "大瓶魔力藥水",
-  "dv2.gadget.large_mana_potion.mca": "1",
+  "dv2.gadget.large_mana_potion.max_charge": "1",
   "dv2.gadget.large_mana_potion.cd": "40",
   "dv2.gadget.large_mana_potion.1.0": "使用5秒後，將Mana恢復至上限的100%",
 
   "dv2.gadget.small_mana_potion": "小瓶魔力藥水",
-  "dv2.gadget.small_mana_potion.mca": "2",
+  "dv2.gadget.small_mana_potion.max_charge": "2",
   "dv2.gadget.small_mana_potion.cd": "20",
   "dv2.gadget.small_mana_potion.1.0": "使用3秒後，將Mana恢復至上限的33%",
 
   "dv2.gadget.nature_potion": "自然藥水",
-  "dv2.gadget.nature_potion.mca": "2",
+  "dv2.gadget.nature_potion.max_charge": "2",
   "dv2.gadget.nature_potion.cd": "重生時補充",
   "dv2.gadget.nature_potion.1.0": "使用5秒後，消除所有正面及負面效果。",
 
   "dv2.gadget.crystal_potion": "結晶藥水",
-  "dv2.gadget.crystal_potion.mca": "1",
+  "dv2.gadget.crystal_potion.max_charge": "1",
   "dv2.gadget.crystal_potion.cd": "60",
   "dv2.gadget.crystal_potion.1.0": "使用2秒後，獲取2個大絕充能點。",
 
   "dv2.gadget.battle_horn": "戰吼號角",
-  "dv2.gadget.battle_horn.mca": "1",
+  "dv2.gadget.battle_horn.max_charge": "1",
   "dv2.gadget.battle_horn.cd": "80",
   "dv2.gadget.battle_horn.1.0": "在15秒內為在半徑25格內的隊友及自身增加 10 🗡️🏹STR,",
   "dv2.gadget.battle_horn.2.0": "並減少其 30% Stamina 消耗。",
 
   "dv2.gadget.prelude_incantation": "序言唱詠",
-  "dv2.gadget.prelude_incantation.mca": "1",
+  "dv2.gadget.prelude_incantation.max_charge": "1",
   "dv2.gadget.prelude_incantation.cd": "60",
   "dv2.gadget.prelude_incantation.1.0": "使用後10秒内提升 100% 全屬性魔法 EM",
 
   "dv2.gadget.reborn_heart": "重燃心火",
-  "dv2.gadget.reborn_heart.mca": "2",
+  "dv2.gadget.reborn_heart.max_charge": "2",
   "dv2.gadget.reborn_heart.cd": "60",
   "dv2.gadget.reborn_heart.1.0": "在20秒內獲得5點火屬性近戰 EM，並加速25%攻擊速度。",
   "dv2.gadget.reborn_heart.2.0": "效果結束後，你的當前 HP 將被設置為最大 HP 的33%",
 
   "dv2.gadget.overload": "超負荷",
-  "dv2.gadget.overload.mca": "1",
+  "dv2.gadget.overload.max_charge": "1",
   "dv2.gadget.overload.cd": "80",
   "dv2.gadget.overload.1.0": "消耗自身60% Mana，並在10秒內減少100%的 Mana 消耗。",
 
   "dv2.gadget.phantom_dive": "幽影潛行",
-  "dv2.gadget.phantom_dive.mca": "3",
+  "dv2.gadget.phantom_dive.max_charge": "3",
   "dv2.gadget.phantom_dive.cd": "20",
   "dv2.gadget.phantom_dive.1.0": "傳送至半徑15格内距離最近的敵人身邊，並獲得3秒的隱身效果。",
 
   "dv2.gadget.curse_horn": "阿瑟迪亞",
-  "dv2.gadget.curse_horn.mca": "1",
+  "dv2.gadget.curse_horn.max_charge": "1",
   "dv2.gadget.curse_horn.cd": "80",
   "dv2.gadget.curse_horn.1.0": "在15秒內為半徑15格內的敵人延長1秒 ATK-SPD",
   "dv2.gadget.curse_horn.2.0": "（如果敵人原本 ATK-SPD 小於1.5秒，ATK-SPD會被延長2秒。）",
 
   "dv2.gadget.decomposing_sandstone": "虛無的凝視",
-  "dv2.gadget.decomposing_sandstone.mca": "2",
+  "dv2.gadget.decomposing_sandstone.max_charge": "2",
   "dv2.gadget.decomposing_sandstone.cd": "40",
   "dv2.gadget.decomposing_sandstone.1.0": "在10秒內為半徑10格內的敵人減少 30% ALL EM",
 
   "dv2.gadget.jump_pad": "彈跳墊",
-  "dv2.gadget.jump_pad.mca": "1",
+  "dv2.gadget.jump_pad.max_charge": "1",
   "dv2.gadget.jump_pad.cd": "45",
   "dv2.gadget.jump_pad.1.0": "設置一個可以彈射玩家，持續30秒的彈跳墊。",
 
   "dv2.gadget.explosive_trap": "爆破陷阱",
-  "dv2.gadget.explosive_trap.mca": "2",
+  "dv2.gadget.explosive_trap.max_charge": "2",
   "dv2.gadget.explosive_trap.cd": "40",
   "dv2.gadget.explosive_trap.1.0": "設置一個爆破陷阱。當敵人靠近其2格範圍時，",
   "dv2.gadget.explosive_trap.2.0": "陷阱會爆炸，並對半徑5格範圍內的所有玩家（包括隊友）造成33%的 真實 DMG",
   "dv2.gadget.explosive_trap.3.0": "每個陷阱會持續200秒。",
   
   "dv2.gadget.stun_trap": "暈眩陷阱",
-  "dv2.gadget.stun_trap.mca": "3",
+  "dv2.gadget.stun_trap.max_charge": "3",
   "dv2.gadget.stun_trap.cd": "25",
   "dv2.gadget.stun_trap.1.0": "設置一個暈眩陷阱。當敵人靠近其2格範圍時，",
   "dv2.gadget.stun_trap.2.0": "陷阱會使半徑5格範圍內的所有玩家（包括隊友）暈眩5秒。",
   "dv2.gadget.stun_trap.3.0": "每個陷阱會持續200秒。",
 
   "dv2.gadget.crystal_shield": "水晶護盾",
-  "dv2.gadget.crystal_shield.mca": "2",
+  "dv2.gadget.crystal_shield.max_charge": "2",
   "dv2.gadget.crystal_shield.cd": "",
   "dv2.gadget.crystal_shield.1.0": "獲得1秒的無敵。",
 
   "dv2.gadget.demon_dice": "惡魔的六面骰",
-  "dv2.gadget.demon_dice.mca": "1",
+  "dv2.gadget.demon_dice.max_charge": "1",
   "dv2.gadget.demon_dice.cd": "40",
   "dv2.gadget.demon_dice.1.0": "花費 1 個大絕充能點，骰子將在 1-6 之間擲出一個數字。",
   "dv2.gadget.demon_dice.2.0": "擲出 1-5 時，玩家可獲得 0/1/3/4/5 大絕充能點；擲出 6 時，玩家將失去所有大絕充能點。",
   "dv2.gadget.demon_dice_result": "[惡魔的六面骰] 你剛剛擲出了",
 
   "dv2.gadget.lucky_coin": "幸運幣",
-  "dv2.gadget.lucky_coin.mca": "1",
+  "dv2.gadget.lucky_coin.max_charge": "1",
   "dv2.gadget.lucky_coin.cd": "20",
   "dv2.gadget.lucky_coin.1.0": "在戰鬥狀態時可以拋出一枚幸運幣。",
   "dv2.gadget.lucky_coin.2.0": "擲出「頭」時，在20秒内增加 50% SPD；擲出「尾」時，自身將眩暈 5 秒。",
   "dv2.gadget.lucky_coin_result": "[幸運幣] 你剛剛擲出了",
 
   "dv2.gadget.escape_button": "逃脫按鈕",
-  "dv2.gadget.escape_button.mca": "1",
+  "dv2.gadget.escape_button.max_charge": "1",
   "dv2.gadget.escape_button.cd": "120",
   "dv2.gadget.escape_button.1.0": "消耗 15% 當前生命值以重置戰鬥計時器。",
 
   "dv2.gadget.grenade": "手榴彈",
-  "dv2.gadget.grenade.mca": "3",
+  "dv2.gadget.grenade.max_charge": "3",
   "dv2.gadget.grenade.cd": "",
   "dv2.gadget.grenade.1.0": "扔出後撞到地面或牆壁時會爆炸。一旦觸碰，",
   "dv2.gadget.grenade.2.0": "對半徑5格範圍內的所有玩家造成 10 點真實DMG,",
