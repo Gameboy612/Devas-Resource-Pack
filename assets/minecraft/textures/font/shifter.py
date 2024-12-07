@@ -9,7 +9,7 @@ def generateFiles(path, save_path, height, num_range = (0, 10)):
         extended_image = Image.new("RGBA", (image.size[0], height))
 
         extended_image.paste(image, (0, height - image.size[1]))
-        
+        extended_image.putpixel((0, 0), (0, 0, 0, 1))
         extended_image.save(save_path.replace("$", str(i)))
 
 for name in os.listdir("assets/minecraft/textures/font/default_outlined"):
