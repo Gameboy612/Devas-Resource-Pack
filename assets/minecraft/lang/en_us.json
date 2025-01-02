@@ -456,10 +456,27 @@
   "dv2.gui.cost": "Remaining Cost:",
   "dv2.gui.info": "Tips",
   "dv2.gui.loadouts": "Loadout: ",
+  "dv2.gui.shop": "Shop",
+  "dv2.gui.settings": "Settings",
+  "dv2.gui.edit_setup": "Edit Layout",
   "dv2.gui.stats": "✎\uF822 Stats:",
   "dv2.gui.return": "Go back",
   "dv2.gui.last_page": "← Previous Page",
   "dv2.gui.next_page": "Next Page →",
+
+  "dv2.gui.settings.display_settings": "Display Settings",
+  "dv2.gui.settings.api_settings": "API Settings",
+  "dv2.gui.settings.display.show_health": "Show Health:",
+  "dv2.gui.settings.display.show_stamina": "Show Stamina:",
+  "dv2.gui.settings.display.show_mana": "Show Mana:",
+  "dv2.gui.settings.display.particle_level": "Particle Level:",
+  "dv2.gui.settings.api.public_inventory": "Inventory Visibility:",
+  "dv2.gui.settings.api.public_stats": "Stats Visibility:",
+  "dv2.gui.settings.api.save_to_game": "Share Loadout when Game Ends:",
+
+
+  "dv2.gui.player_stats.kd": " - K/D: %s.%s%s",
+  "dv2.gui.player_stats.ultimate": "Ultimate: %s (%s)",
 
   "dv2.gui.cost.format": " -  %s: %s/%s",
   "dv2.gui.cost.item": "Item",
@@ -575,6 +592,7 @@
   "dv2.display.gadget.effect": "Effect (WIP)",
   "dv2.display.gadget.potion": "Potion",
 
+  "dv2.display.loadout.inventory": "Inventory:",
   "dv2.display.loadout.no_group": "No Group",
   "dv2.display.loadout.no_loadout": "No Loadout",
   "dv2.display.loadout.click_to_edit": "[Click to Edit]",
@@ -1092,6 +1110,7 @@
   "dv2.ability.jurisdiction_of_selene.4.3.0":"(Requires Mana)",
 
 
+  "dv2.weapon.melee.kazeyaiba":"Kazeyaiba",
 
 
 

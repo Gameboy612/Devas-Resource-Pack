@@ -199,10 +199,27 @@
   "dv2.gui.cost": "剩餘點數：",
   "dv2.gui.info": "提示",
   "dv2.gui.loadouts": "配置：",
+  "dv2.gui.shop": "商店",
+  "dv2.gui.settings": "設定",
+  "dv2.gui.edit_setup": "更改配置",
   "dv2.gui.stats": "✎ 個體數值：",
   "dv2.gui.return": "返回",
   "dv2.gui.last_page": "← 上一頁",
   "dv2.gui.next_page": "下一頁 →",
+
+  "dv2.gui.settings.display_settings": "Display Settings",
+  "dv2.gui.settings.api_settings": "API Settings",
+  "dv2.gui.settings.display.show_health": "Show Health:",
+  "dv2.gui.settings.display.show_stamina": "Show Stamina:",
+  "dv2.gui.settings.display.show_mana": "Show Mana:",
+  "dv2.gui.settings.display.particle_level": "Particle Level:",
+  "dv2.gui.settings.api.public_inventory": "Inventory Visibility:",
+  "dv2.gui.settings.api.public_stats": "Stats Visibility:",
+  "dv2.gui.settings.api.save_to_game": "Share Loadout when Game Ends:",
+
+
+  "dv2.gui.player_stats.kd": " - K/D: %s.%s%s",
+  "dv2.gui.player_stats.ultimate": "Ultimate: %s (%s)",
 
   "dv2.gui.cost.format": " -  %s：%s/%s",
   "dv2.gui.cost.item": "裝備",
@@ -278,6 +295,7 @@
   "dv2.display.gadget.effect": "效果 (WIP)",
   "dv2.display.gadget.potion": "藥水",
 
+  "dv2.display.loadout.inventory": "Inventory:",
   "dv2.display.loadout.no_group": "尚無分組",
   "dv2.display.loadout.no_loadout": "尚無配置",
   "dv2.display.loadout.click_to_edit": "[點擊] 以修改",
@@ -827,6 +845,7 @@
   "dv2.ability.jurisdiction_of_selene.4.2.0":"推動直徑3格範圍内的敵人後退",
   "dv2.ability.jurisdiction_of_selene.4.3.0":"(消耗 Mana)",
 
+  "dv2.weapon.melee.kazeyaiba":"Kazeyaiba",
 
 
   "dv2.weapon.shield.wooden_shield": "木盾",
