@@ -207,19 +207,19 @@
   "dv2.gui.last_page": "← 上一頁",
   "dv2.gui.next_page": "下一頁 →",
 
-  "dv2.gui.settings.display_settings": "Display Settings",
-  "dv2.gui.settings.api_settings": "API Settings",
-  "dv2.gui.settings.display.show_health": "Show Health:",
-  "dv2.gui.settings.display.show_stamina": "Show Stamina:",
-  "dv2.gui.settings.display.show_mana": "Show Mana:",
-  "dv2.gui.settings.display.particle_level": "Particle Level:",
-  "dv2.gui.settings.api.public_inventory": "Inventory Visibility:",
-  "dv2.gui.settings.api.public_stats": "Stats Visibility:",
-  "dv2.gui.settings.api.save_to_game": "Share Loadout when Game Ends:",
+  "dv2.gui.settings.display_settings": "顯示設定",
+  "dv2.gui.settings.api_settings": "API 設定",
+  "dv2.gui.settings.display.show_health": "顯示 HP：",
+  "dv2.gui.settings.display.show_stamina": "顯示 Stamina：",
+  "dv2.gui.settings.display.show_mana": "顯示 Mana：",
+  "dv2.gui.settings.display.particle_level": "特效等級：",
+  "dv2.gui.settings.api.public_inventory": "物品欄可見性",
+  "dv2.gui.settings.api.public_stats": "數值可見性：",
+  "dv2.gui.settings.api.save_to_game": "遊戲結束時分享配置：",
 
 
   "dv2.gui.player_stats.kd": " - K/D: %s.%s%s",
-  "dv2.gui.player_stats.ultimate": "Ultimate: %s (%s)",
+  "dv2.gui.player_stats.ultimate": "大絕：%s (%s)",
 
   "dv2.gui.cost.format": " -  %s：%s/%s",
   "dv2.gui.cost.item": "裝備",
@@ -295,7 +295,7 @@
   "dv2.display.gadget.effect": "效果 (WIP)",
   "dv2.display.gadget.potion": "藥水",
 
-  "dv2.display.loadout.inventory": "Inventory:",
+  "dv2.display.loadout.inventory": "物品欄：",
   "dv2.display.loadout.no_group": "尚無分組",
   "dv2.display.loadout.no_loadout": "尚無配置",
   "dv2.display.loadout.click_to_edit": "[點擊] 以修改",
@@ -537,6 +537,9 @@
   "dv2.lore.spell.cd": "補充冷卻時間：",
   "dv2.lore.spell.cd.prefix": "秒",
   "dv2.lore.spell.cd.suffix": "個",
+
+  "dv2.lore.spell.cost": "消耗：",
+
 
 
 
@@ -1337,6 +1340,7 @@
   "dv2.spells.burst.wind.2.leap": "飛躍 [⬈]",
   "dv2.spells.burst.wind.2.leap.max_charge": "3",
   "dv2.spells.burst.wind.2.leap.cd": "10",
+  "dv2.spells.burst.wind.2.leap.duration": "瞬間",
   "dv2.spells.burst.wind.2.leap.1.0": "瞬間向前方飛躍。",
   "dv2.spells.burst.wind.2.leap.2.0": "",
   "dv2.spells.burst.wind.2.leap.3.0": "消耗：",
@@ -1748,7 +1752,7 @@
   "dv2.gadget.escape_button": "逃脫按鈕",
   "dv2.gadget.escape_button.max_charge": "1",
   "dv2.gadget.escape_button.cd": "120",
-  "dv2.gadget.escape_button.1.0": "消耗 15% 當前生命值以重置戰鬥計時器。",
+  "dv2.gadget.escape_button.1.0": "消耗 15% 當前生命值以重置戰鬥狀態。",
 
   "dv2.gadget.grenade": "手榴彈",
   "dv2.gadget.grenade.max_charge": "3",
@@ -1776,7 +1780,7 @@
 
   "dv2.tips.2":"如果沒有充分拉弓，弓箭的傷害會有所減弱。",
   
-  "dv2.tips.3.1":"物品欄上方的四條數值是：",
+  "dv2.tips.3.1":"快捷欄上方的四條數值是：",
   "dv2.tips.3.2":"生命值(HP)，",
   "dv2.tips.3.3":"魔力值(Mana)",
   "dv2.tips.3.4":"耐力值(Stamina)",
@@ -1880,19 +1884,6 @@
   "dv2.tips.16": "記得在準備階段選擇你的點數。記住，孩子們。",
 
 
-  "dv2.food.canned_food": "罐裝食品",
-
-  "[Fortune Ball (Weather)]": "【玻璃占卜球（天氣）】",
-  "Fortune Ball (Weather)": "玻璃占卜球（天氣）",
-  "Prismarine Helmet": "海鱗片頭盔",
-  "Grants Night Vision and Water Breathing when wearing.": "穿著以獲得夜視和水中呼吸。",
-
-  "Lava Spring Boots": "岩漿彈跳鞋",
-  "Bounces you up when on top of lava.": "碰到岩漿彈起。",
-  "Uses up durability each bounce.": "每次彈起會使用耐久度。",
-
-
-  "Book of Crystalized Knowledge": "水晶化知識的書",
-  "Mystical Touch": "魔幻之觸"
+  "dv2.food.canned_food": "罐裝食品"
 }
 
