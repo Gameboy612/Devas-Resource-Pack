@@ -453,7 +453,7 @@
 
   "container.enderchest": "\uF82A\uF829\uF828\uF826-Shop-",
   "container.enderchest_comment": "space.62",
-  "dv2.gui.cost": "Remaining Cost:",
+  "dv2.gui.cost": "Remaining Points:",
   "dv2.gui.info": "Tips",
   "dv2.gui.loadouts": "Loadout: ",
   "dv2.gui.shop": "Shop",
@@ -1435,6 +1435,7 @@
   "dv2.arrow.power.iron_arrow": "Iron Arrow",
   "dv2.arrow.power.steel_arrow": "Steel Arrow",
   "dv2.arrow.power.gold_tipped_arrow": "Gold Tipped Arrow",
+  "dv2.arrow.power.diamond_tipped_arrow":"Diamond Tipped Arrow",
   "dv2.arrow.power.lightweight_arrow": "Lightweight Arrow",
   "dv2.arrow.power.heavy_arrow": "Heavy Arrow",
 
@@ -1466,6 +1467,10 @@
   "dv2.item.gem.sapphire":"Sapphire",
   "dv2.item.gem.topaz":"Topaz",
   "dv2.item.gem.aquamarine":"Aquamarine",
+  "dv2.item.others.mintalite_feather":"Mintalite Feather",
+  "dv2.item.others.ferrosylph_amulet":"Ferrosylph Amulet",
+  "dv2.item.others.elemental_prism":"Elemental Prism",
+  "dv2.item.others.elemental_prism.description.0":"You gain the EM that you lost from your affinity.",
   
   "dv2.arrow.power.description.0": "When this arrow is selected, your arrows",
   "dv2.arrow.power.description.1.0": "will have ",
@@ -1487,6 +1492,10 @@
   "dv2.item.gem.description.0": "When this gemstone is selected, you",
   "dv2.item.gem.description.1.0": "will have ",
   "dv2.item.gem.description.1.2": ".",
+
+  "dv2.item.others.description.0": "When this item is selected, you",
+  "dv2.item.others.description.1.0": "will have ",
+  "dv2.item.others.description.1.2": ".",
 
 
   "dv2.spells.enchantments": " - Enchantments",
