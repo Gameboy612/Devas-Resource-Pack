@@ -1470,7 +1470,7 @@
   "dv2.item.others.mintalite_feather":"Mintalite Feather",
   "dv2.item.others.ferrosylph_amulet":"Ferrosylph Amulet",
   "dv2.item.others.elemental_prism":"Elemental Prism",
-  "dv2.item.others.elemental_prism.description.0":"You gain the EM that you lost from your affinity.",
+  "dv2.item.others.elemental_prism.description.0":"When selected, you gain your affinity lost as EM.",
   
   "dv2.arrow.power.description.0": "When this arrow is selected, your arrows",
   "dv2.arrow.power.description.1.0": "will have ",
