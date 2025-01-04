@@ -881,6 +881,9 @@
   "dv2.weapon.melee.diamond_sword": "Diamond Sword",
   "dv2.weapon.melee.diamond_sword.description": "Classic.",
 
+  "dv2.weapon.melee.mace": "Mace",
+  "dv2.weapon.melee.mace.description": "Higher the fall, higher the damage.",
+
   "dv2.weapon.melee.excalibur": "Excalibur",
   "dv2.weapon.melee.excalibur.description": "Power takes a price.",
 

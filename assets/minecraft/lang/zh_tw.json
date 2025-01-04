@@ -1166,7 +1166,7 @@
   "dv2.arrow.power.iron_arrow": "鐵箭",
   "dv2.arrow.power.steel_arrow": "鋼箭",
   "dv2.arrow.power.gold_tipped_arrow": "鍍金箭",
-  "dv2.arrow.power.diamond_tipped_arrow":"Diamond Tipped Arrow",
+  "dv2.arrow.power.diamond_tipped_arrow":"鑽石箭",
   "dv2.arrow.power.lightweight_arrow": "輕型箭",
   "dv2.arrow.power.heavy_arrow": "重型箭",
 
@@ -1198,14 +1198,7 @@
   "dv2.item.gem.sapphire":"藍寶石",
   "dv2.item.gem.topaz":"托帕石",
   "dv2.item.gem.aquamarine":"海藍寶石",
-  "dv2.item.others.mintalite_feather":"Mintalite Feather",
-  "dv2.item.others.ferrosylph_amulet":"Ferrosylph Amulet",
-  "dv2.item.others.elemental_prism":"Elemental Prism",
-  "dv2.item.others.elemental_prism.description.0":"When selected, you gain your affinity lost as EM. (max 5 EM per element)",
-  "dv2.item.others.simple_elemental_prism":"Simple Elemental Prism",
-  "dv2.item.others.simple_elemental_prism.description.0":"When selected, gain 5 EM for last element(s)",
-  "dv2.item.others.simple_elemental_prism.description.1":"you were attacked by. Resets outside combat.",
-  
+
 
   "dv2.arrow.power.description.0": "當此箭被選取，",
   "dv2.arrow.power.description.1.0": "你的箭會獲得 ",
@@ -1213,7 +1206,7 @@
 
   
   "dv2.arrow.power.description_array.0": "當此箭被選取，",
-  "dv2.arrow.power.description_array.1": "你的箭會獲得:",
+  "dv2.arrow.power.description_array.1": "你的箭會獲得：",
 
   "dv2.item.melee.description.0": "當此物品被選取，",
   "dv2.item.melee.description.1.0": "您的近戰武器會獲得 ",
@@ -1225,6 +1218,11 @@
   "dv2.item.gem.description.0": "當此寶石被選取，",
   "dv2.item.gem.description.1.0": "您會獲得 ",
   "dv2.item.gem.description.1.2": "",
+
+  "dv2.item.others.description.0": "當此物品被選取，",
+  "dv2.item.others.description.1.0": "你會獲得 ",
+  "dv2.item.others.description.1.2": ".",
+
 
 
   "dv2.spells.enchantments": " - 法陣效果",
