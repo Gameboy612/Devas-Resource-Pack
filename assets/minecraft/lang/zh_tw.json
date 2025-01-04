@@ -1198,7 +1198,13 @@
   "dv2.item.gem.sapphire":"藍寶石",
   "dv2.item.gem.topaz":"托帕石",
   "dv2.item.gem.aquamarine":"海藍寶石",
-
+  "dv2.item.others.mintalite_feather": "薄鋁羽毛",
+  "dv2.item.others.ferrosylph_amulet": "霞鐵護符",
+  "dv2.item.others.elemental_prism": "元素棱鏡",
+  "dv2.item.others.elemental_prism.description.0": "當被選取，將獲得與 AFF 損失等值的 EM。（上限 5 EM)",
+  "dv2.item.others.simple_elemental_prism":"簡易元素棱鏡",
+  "dv2.item.others.simple_elemental_prism.description.0":"當被選取，將獲得上次被擊打消耗的AFF之屬性的 5 EM。",
+  "dv2.item.others.simple_elemental_prism.description.1":"效果只限戰鬥狀態内。可多於一屬性。",
 
   "dv2.arrow.power.description.0": "當此箭被選取，",
   "dv2.arrow.power.description.1.0": "你的箭會獲得 ",
