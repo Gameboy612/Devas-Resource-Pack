@@ -1470,7 +1470,10 @@
   "dv2.item.others.mintalite_feather":"Mintalite Feather",
   "dv2.item.others.ferrosylph_amulet":"Ferrosylph Amulet",
   "dv2.item.others.elemental_prism":"Elemental Prism",
-  "dv2.item.others.elemental_prism.description.0":"When selected, you gain your affinity lost as EM.",
+  "dv2.item.others.elemental_prism.description.0":"When selected, you gain your affinity lost as EM. (max 5 EM per element)",
+  "dv2.item.others.simple_elemental_prism":"Simple Elemental Prism",
+  "dv2.item.others.simple_elemental_prism.description.0":"When selected, gain 5 EM for last element(s)",
+  "dv2.item.others.simple_elemental_prism.description.1":"you were attacked by. Resets outside combat.",
   
   "dv2.arrow.power.description.0": "When this arrow is selected, your arrows",
   "dv2.arrow.power.description.1.0": "will have ",
