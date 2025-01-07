@@ -1929,14 +1929,14 @@
   "dv2.gadget.small_hp_potion.1.0": "After 5 seconds of using, regenerate 33% of max HP.",
 
   "dv2.gadget.large_mana_potion": "Large Mana Potion",
-  "dv2.gadget.large_mana_potion.max_charge": "1",
+  "dv2.gadget.large_mana_potion.max_charge": "2",
   "dv2.gadget.large_mana_potion.cd": "40",
-  "dv2.gadget.large_mana_potion.1.0": "After 5 seconds of using, regenerate 100% of max Mana.",
+  "dv2.gadget.large_mana_potion.1.0": "After 2.5 seconds of using, regenerate 100% of max Mana.",
 
-  "dv2.gadget.small_mana_potion": "Small Mana Potion",
-  "dv2.gadget.small_mana_potion.max_charge": "2",
-  "dv2.gadget.small_mana_potion.cd": "20",
-  "dv2.gadget.small_mana_potion.1.0": "After 3 seconds of using, regenerate 33% of max Mana.",
+  "dv2.gadget.small_mana_potion": "Mana Regenerate Potion",
+  "dv2.gadget.small_mana_potion.max_charge": "1",
+  "dv2.gadget.small_mana_potion.cd": "45",
+  "dv2.gadget.small_mana_potion.1.0": "After 1.5 seconds of using, increase 100% Mana Regenerate for 10 seconds.",
 
   "dv2.gadget.crystal_potion": "Crystal Potion",
   "dv2.gadget.crystal_potion.max_charge": "1",

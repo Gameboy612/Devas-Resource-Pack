@@ -1686,14 +1686,14 @@
   "dv2.gadget.small_hp_potion.1.0": "使用5秒後，將 HP 恢復至上限的33%",
 
   "dv2.gadget.large_mana_potion": "大瓶魔力藥水",
-  "dv2.gadget.large_mana_potion.max_charge": "1",
+  "dv2.gadget.large_mana_potion.max_charge": "2",
   "dv2.gadget.large_mana_potion.cd": "40",
-  "dv2.gadget.large_mana_potion.1.0": "使用5秒後，將Mana恢復至上限的100%",
+  "dv2.gadget.large_mana_potion.1.0": "使用2.5秒後，將Mana恢復至上限的100%",
 
-  "dv2.gadget.small_mana_potion": "小瓶魔力藥水",
+  "dv2.gadget.small_mana_potion": "魔力回復藥水",
   "dv2.gadget.small_mana_potion.max_charge": "2",
   "dv2.gadget.small_mana_potion.cd": "20",
-  "dv2.gadget.small_mana_potion.1.0": "使用3秒後，將Mana恢復至上限的33%",
+  "dv2.gadget.small_mana_potion.1.0": "使用1.5秒後，10秒内提升 100% Mana回復 ",
 
   "dv2.gadget.nature_potion": "自然藥水",
   "dv2.gadget.nature_potion.max_charge": "2",
