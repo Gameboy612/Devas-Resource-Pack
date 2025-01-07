@@ -779,12 +779,15 @@
   "dv2.ability.jormungandrs_scale.1.1.0":"不持盾時增加",
   "dv2.ability.jormungandrs_scale.1.1.1":" 10 ",
   "dv2.ability.jormungandrs_scale.1.1.2":"DEF,",
-  "dv2.ability.jormungandrs_scale.1.2.0":"HP ",
-  "dv2.ability.jormungandrs_scale.1.2.1":"及",
-  "dv2.ability.jormungandrs_scale.1.2.2":" 3000 ",
-  "dv2.ability.jormungandrs_scale.1.2.3":"Base Mana",
-  "dv2.ability.jormungandrs_scale.1.2.4":"",
-
+  "dv2.ability.jormungandrs_scale.1.1.3":",",  
+  "dv2.ability.jormungandrs_scale.1.1.4":"HP ",
+  "dv2.ability.jormungandrs_scale.1.1.5":",",  
+  "dv2.ability.jormungandrs_scale.1.2.0":" 3000 ",
+  "dv2.ability.jormungandrs_scale.1.2.1":"Base Mana ",
+  "dv2.ability.jormungandrs_scale.1.2.2":"及",
+  "dv2.ability.jormungandrs_scale.1.2.3":"2000 ",
+  "dv2.ability.jormungandrs_scale.1.2.4":"Stamina",
+  "dv2.ability.jormungandrs_scale.1.2.5":"",
 
 
 
