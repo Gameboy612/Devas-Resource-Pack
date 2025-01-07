@@ -1018,6 +1018,21 @@
   "dv2.ability.jormungandrs_tooth.2.2.0":" effect.",
   "dv2.ability.jormungandrs_tooth.2.3.0":"(Requires fixed 5000 Mana)",
 
+  "dv2.weapon.melee.cursed_dagger":"Revenge",
+  "dv2.weapon.melee.cursed_dagger.description":"Hell's vengeance boils in my heart.",
+  "dv2.ability.cursed_dagger.1.0.0":"Hellfire Kick",
+  "dv2.ability.cursed_dagger.1.1.0":"When sneak, deals ",
+  "dv2.ability.cursed_dagger.1.1.1":"20",
+  "dv2.ability.cursed_dagger.1.1.2":" True DMG",  
+  "dv2.ability.cursed_dagger.1.1.3":" to self,",  
+  "dv2.ability.cursed_dagger.1.2.0":"and launches forward to deal ", 
+  "dv2.ability.cursed_dagger.1.2.1":"20",
+  "dv2.ability.cursed_dagger.1.2.2":" DMG ",
+  "dv2.ability.cursed_dagger.1.2.3":"and ",
+  "dv2.ability.cursed_dagger.1.2.4":"10",
+  "dv2.ability.cursed_dagger.1.2.5":" Fire EM", 
+  "dv2.ability.cursed_dagger.1.3.0":"to all players and mobs within 4 block radius.",   
+
 
 
   "dv2.weapon.melee.jormungandrs_scale":"Jörmungandr's Scale",
