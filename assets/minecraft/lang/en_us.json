@@ -806,16 +806,36 @@
 
 
   "dv2.ultimate.rampage": "Rampage",
+  "dv2.ultimate.rampage.1.0": "Increase 15% SPD, 30 STR and gain Jump Boost V for 15 seconds.",
+
   "dv2.ultimate.purify": "Purify",
+  "dv2.ultimate.purify.1.0": "Remove all Elemental Effect and Negative Effect of teammates",
+  "dv2.ultimate.purify.2.0": "and gain 100 all Element Absorb for 30 seconds.",
+
   "dv2.ultimate.death_chain": "Death Chain",
+  "dv2.ultimate.death_chain.1.0": "Teleport to nearest enemy. If the enemy got killed within 7 seconds after teleporting,",
+  "dv2.ultimate.death_chain.2.0": "teleport to another nearest enemy and reset the timer.",
+
   "dv2.ultimate.starfall": "Starfall",
   "dv2.ultimate.death_mark": "Death Mark",
+  "dv2.ultimate.death_mark.1.0": "After 5 seconds prepare, all player in 20-block radius",
+  "dv2.ultimate.death_mark.2.0": "will receive a Death Mark effect for 40 seconds(include yourself),",
+  "dv2.ultimate.death_mark.3.0": "player with the effect dies after the effect end. Death Mark count as Negative Effect.",
+  "dv2.ultimate.death_mark.4.0": "Ultimate Point can't be earned if the enemy is killed by Death Mark.",    
+
   "dv2.ultimate.glory_heart": "Glory Heart",
+  "dv2.ultimate.glory_heart.1.0": "Gain 75 Absorption.",
+
   "dv2.ultimate.great_grenade": "Great Grenade",
   "dv2.ultimate.instant_protect": "Instant Protect",
-  "dv2.ultimate.inspire": "Inspiration",
-  "dv2.ultimate.all_seeing_eye": "All-seeing Eye",
+  "dv2.ultimate.instant_protect.1.0": "Teleport to nearest in combat teammate and gain 40 DEF for 20 seconds.",
+  "dv2.ultimate.inspire": "Inspire",
+  "dv2.ultimate.inspire.1.0": "All Teamate gain 3 crystal point.",
+  "dv2.ultimate.all_seeing_eye": "All Seeing Eye",
+  "dv2.ultimate.all_seeing_eye.1.0": "All enemy receive Seal Effect fo 15 seconds.",
+
   "dv2.ultimate.destroyer_befall": "Destroyer Befall",
+  "dv2.ultimate.destroyer_befall.1.0": "Destroyer Befall to your Bow for 15 seconds:",  
 
   
   "dv2.ability.dagger.0.0": "Dagger (Right Click)",
@@ -1961,13 +1981,13 @@
 
   "dv2.gadget.battle_horn": "Battle Horn",
   "dv2.gadget.battle_horn.max_charge": "1",
-  "dv2.gadget.battle_horn.cd": "80",
-  "dv2.gadget.battle_horn.1.0": "Increase 10 🗡🏹 STR for all teammates, include oneself within a 25-block radius,",
+  "dv2.gadget.battle_horn.cd": "40",
+  "dv2.gadget.battle_horn.1.0": "Increase 15 🗡🏹 STR for all teammates, include oneself within a 25-block radius,",
   "dv2.gadget.battle_horn.2.0": "and reduce their stamina costs by 30% for 15 seconds.",
 
   "dv2.gadget.prelude_incantation": "Prelude Incantation",
   "dv2.gadget.prelude_incantation.max_charge": "1",
-  "dv2.gadget.prelude_incantation.cd": "60",
+  "dv2.gadget.prelude_incantation.cd": "40",
   "dv2.gadget.prelude_incantation.1.0": "Increase 100% ALL magic EM for 10 seconds after use.",
 
   "dv2.gadget.reborn_heart": "Reborn Heart",
@@ -1978,17 +1998,17 @@
 
   "dv2.gadget.overload": "Overload",
   "dv2.gadget.overload.max_charge": "1",
-  "dv2.gadget.overload.cd": "80",
+  "dv2.gadget.overload.cd": "60",
   "dv2.gadget.overload.1.0": "Consume 60% of your mana and reduce 100% mana cost for 10 seconds.",
 
   "dv2.gadget.phantom_dive": "Phantom Dive",
-  "dv2.gadget.phantom_dive.max_charge": "3",
+  "dv2.gadget.phantom_dive.max_charge": "2",
   "dv2.gadget.phantom_dive.cd": "20",
   "dv2.gadget.phantom_dive.1.0": "Teleport to nearest enemy within 15 blocks and gain invisibility for 3s.",
 
   "dv2.gadget.curse_horn": "Acedia",
   "dv2.gadget.curse_horn.max_charge": "1",
-  "dv2.gadget.curse_horn.cd": "80",
+  "dv2.gadget.curse_horn.cd": "60",
   "dv2.gadget.curse_horn.1.0": "Delay ATK-SPD by 1s (or 2s if the original ATK-SPD is less than 1.5s)",
   "dv2.gadget.curse_horn.2.0": "For all enemies within a 15-block radius for 15s.",
 
@@ -2036,8 +2056,8 @@
   "dv2.gadget.lucky_coin_result": "[Lucky Coin] You just rolled ",
 
   "dv2.gadget.escape_button": "Escape Button",
-  "dv2.gadget.escape_button.max_charge": "1",
-  "dv2.gadget.escape_button.cd": "90",
+  "dv2.gadget.escape_button.max_charge": "2",
+  "dv2.gadget.escape_button.cd": "80",
   "dv2.gadget.escape_button.1.0": "Cost 15% Current HP and reset combat timer.",
 
   "dv2.gadget.grenade": "Grenade",
