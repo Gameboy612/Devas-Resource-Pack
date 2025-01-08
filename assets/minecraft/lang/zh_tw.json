@@ -1695,7 +1695,7 @@
   "dv2.gadget.small_hp_potion.cd": "30",
   "dv2.gadget.small_hp_potion.1.0": "使用5秒後，將 HP 恢復至上限的33%",
 
-  "dv2.gadget.large_mana_potion": "大瓶魔力藥水",
+  "dv2.gadget.large_mana_potion": "魔力藥水",
   "dv2.gadget.large_mana_potion.max_charge": "2",
   "dv2.gadget.large_mana_potion.cd": "40",
   "dv2.gadget.large_mana_potion.1.0": "使用2.5秒後，將Mana恢復至上限的100%",
