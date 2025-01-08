@@ -568,7 +568,12 @@
   "dv2.ultimate.all_seeing_eye": "全視之眼",
   "dv2.ultimate.all_seeing_eye.1.0": "All enemy receive Seal Effect fo 15 seconds.",
   "dv2.ultimate.destroyer_befall": "「毀滅者」再臨",
-  "dv2.ultimate.destroyer_befall.1.0": "Destroyer Befall to your Bow for 15 seconds:",  
+  "dv2.ultimate.destroyer_befall.1.0": "Destroyer Befall to your Bow for 15 seconds:", 
+  "dv2.ultimate.magic_arrow": "Magic Arrow",
+  "dv2.ultimate.magic_arrow.1.0": "Increase 10 Extra Range for 15 seconds.", 
+  "dv2.ultimate.crystal_heart": "Crystal Heart",
+  "dv2.ultimate.crystal_heart.1.0": "Increase 30 ✎STR and 50% Mana Regenerate for 15 seconds.",   
+
 
 
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",

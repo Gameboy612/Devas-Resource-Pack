@@ -837,6 +837,12 @@
   "dv2.ultimate.destroyer_befall": "Destroyer Befall",
   "dv2.ultimate.destroyer_befall.1.0": "Destroyer Befall to your Bow for 15 seconds:",  
 
+  "dv2.ultimate.magic_arrow": "Magic Arrow",
+  "dv2.ultimate.magic_arrow.1.0": "Increase 10 Extra Range for 15 seconds.", 
+
+  "dv2.ultimate.crystal_heart": "Crystal Heart",
+  "dv2.ultimate.crystal_heart.1.0": "Increase 30 ✎STR and 50% Mana Regenerate for 15 seconds.", 
+
   
   "dv2.ability.dagger.0.0": "Dagger (Right Click)",
   "dv2.ability.dagger.1.0": "Deal ",
