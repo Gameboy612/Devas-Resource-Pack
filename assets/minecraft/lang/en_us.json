@@ -819,7 +819,7 @@
   "dv2.ultimate.starfall": "Starfall",
   "dv2.ultimate.death_mark": "Death Mark",
   "dv2.ultimate.death_mark.1.0": "After 5 seconds prepare, all player in 20-block radius",
-  "dv2.ultimate.death_mark.2.0": "will receive a Death Mark effect for 40 seconds(include yourself),",
+  "dv2.ultimate.death_mark.2.0": "will receive a Death Mark effect for 20 seconds(include yourself),",
   "dv2.ultimate.death_mark.3.0": "player with the effect dies after the effect end. Death Mark count as Negative Effect.",
   "dv2.ultimate.death_mark.4.0": "Ultimate Point can't be earned if the enemy is killed by Death Mark.",    
 
@@ -842,6 +842,10 @@
 
   "dv2.ultimate.crystal_heart": "Crystal Heart",
   "dv2.ultimate.crystal_heart.1.0": "Increase 30 ✎STR and 50% Mana Regenerate for 15 seconds.", 
+
+  "dv2.ultimate.emotion_impact": "Emotion Impact",
+  "dv2.ultimate.emotion_impact.1.0": "After 3 seconds prepare, all enemies in 15-block radius",
+  "dv2.ultimate.emotion_impact.2.0": "receive 5 seconds Stun and Paralysis Effect.",
 
   
   "dv2.ability.dagger.0.0": "Dagger (Right Click)",
