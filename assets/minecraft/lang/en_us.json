@@ -875,13 +875,11 @@
   "dv2.ability.odachi.2.1": "x2 DMG",
   "dv2.ability.odachi.2.2": " to entities you pass through.",
 
-
-
-
-
-
-
-
+  "dv2.ability.sweep.0.0": "Sweeping Edge (Left Click)",
+  "dv2.ability.sweep.1.0": "Deal ",
+  "dv2.ability.sweep.1.1": "x0.75",
+  "dv2.ability.sweep.1.2": " AOE Damage when Left Clicking.",
+  "dv2.ability.sweep.2.0": "(This attack Deal x1.0 DMG to main target)",
 
 
 
@@ -1003,6 +1001,22 @@
   "dv2.ability.soul_scythe.2.2.2": "and 1 DMG",
   "dv2.ability.soul_scythe.2.2.3": ".",
   "dv2.ability.soul_scythe.2.2.4": "",
+
+  "dv2.ability.kazeyaiba.1.0.0": "Rage of the wind",
+  "dv2.ability.kazeyaiba.1.1.0": "Sneak to build a tornado to trap players.",
+  "dv2.ability.kazeyaiba.1.2.0": "The user's attack speed is then quartered.",
+  "dv2.ability.kazeyaiba.1.3.0": "The user and his nearby team would then gain",
+
+  "dv2.ability.kazeyaiba.1.4.0": "4 Fire EM",
+  "dv2.ability.kazeyaiba.1.4.0.zh": "",
+  "dv2.ability.kazeyaiba.1.4.1": " and ",
+  "dv2.ability.kazeyaiba.1.4.2.zh": "",
+  "dv2.ability.kazeyaiba.1.4.2": "4 Wind EM",
+  "dv2.ability.kazeyaiba.1.4.3": ", and quartered damage,",
+  "dv2.ability.kazeyaiba.1.5.0": "attack range is increased by 1.",
+  "dv2.ability.kazeyaiba.1.6.0": "(Cooldown: 30s)",
+  "dv2.weapon.melee.kazeyaiba.description": "",
+
 
   "dv2.weapon.melee.vampire_tooth": "Vampire Tooth",
   "dv2.weapon.melee.vampire_tooth.description": "I took a tooth from the Vampire :D",
