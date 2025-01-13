@@ -1,0 +1,8 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "block/dark_oak_planks",
+		"particle": "block/dark_oak_planks"
+	},
+	"parent": "rpg/weapon/sword/dagger/parent"
+}

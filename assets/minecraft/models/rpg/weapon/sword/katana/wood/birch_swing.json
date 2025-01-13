@@ -1,0 +1,8 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "block/birch_planks",
+		"particle": "block/birch_planks"
+	},
+	"parent": "rpg/weapon/sword/katana/parent_swing"
+}

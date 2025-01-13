@@ -1,0 +1,8 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "block/cherry_planks",
+		"particle": "block/cherry_planks"
+	},
+	"parent": "rpg/weapon/sword/longsword/parent"
+}

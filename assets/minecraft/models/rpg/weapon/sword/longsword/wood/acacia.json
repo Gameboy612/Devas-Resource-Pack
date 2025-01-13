@@ -1,0 +1,8 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "block/acacia_planks",
+		"particle": "block/acacia_planks"
+	},
+	"parent": "rpg/weapon/sword/longsword/parent"
+}

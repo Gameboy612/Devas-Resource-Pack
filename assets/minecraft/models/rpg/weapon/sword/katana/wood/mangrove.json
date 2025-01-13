@@ -1,0 +1,8 @@
+{
+	"credit": "Made by lavafoxerex",
+	"textures": {
+		"0": "block/mangrove_planks",
+		"particle": "block/mangrove_planks"
+	},
+	"parent": "rpg/weapon/sword/katana/parent"
+}

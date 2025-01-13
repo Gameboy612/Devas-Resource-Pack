@@ -1,0 +1,7 @@
+{
+	"parent": "rpg/weapon/devas_2/baseball_bat",
+	"textures": {
+		"2": "minecraft:block/acacia_planks",
+		"particle": "minecraft:block/acacia_planks"
+	}
+}
