@@ -1378,6 +1378,15 @@
   "dv2.spells.long_lasting.defense_shredding_array.4.0": "Cost: ",
   "dv2.spells.long_lasting.defense_shredding_array.4.1": "2500 Mana",
 
+  "dv2.spells.long_lasting.gravity_increasing_array": "Gravity Increasing Array",
+  "dv2.spells.long_lasting.gravity_increasing_array.0": "<Long Lasting>",
+  "dv2.spells.long_lasting.gravity_increasing_array.1": "Reduces Jump Height and Speed of",
+  "dv2.spells.long_lasting.gravity_increasing_array.2.0": "your opponents within a ",
+  "dv2.spells.long_lasting.gravity_increasing_array.2.1": "%s-block radius",
+  "dv2.spells.long_lasting.gravity_increasing_array.2.2": " of the array.",
+  "dv2.spells.long_lasting.gravity_increasing_array.3.0": "Cost: ",
+  "dv2.spells.long_lasting.gravity_increasing_array.3.1": "%s Mana",
+
 
   "dv2.spells.burst.wind.2.leap": "飛躍 [⬈]",
   "dv2.spells.burst.wind.2.leap.max_charge": "3",
