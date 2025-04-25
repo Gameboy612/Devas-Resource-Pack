@@ -741,6 +741,8 @@
   "dv2.gui.category.ability_item.arrow.elemental": "Elemental",
   "dv2.gui.category.ability_item.melee.powder": "Powder",
   "dv2.gui.category.ability_item.melee.others": "Others",
+  "dv2.gui.category.ability_item.wand.jewellery": "Jewellery",
+  "dv2.gui.category.ability_item.wand.others": "Others",
   "dv2.gui.category.ability_item.gem.health": "Health",
   "dv2.gui.category.ability_item.gem.mana": "Mana",
   "dv2.gui.category.ability_item.gem.stamina": "Stamina",
