@@ -27,6 +27,9 @@
         {"predicate": {"custom_model_data":100020}, "model": "particles/effects/sweep/3"},
         {"predicate": {"custom_model_data":100021}, "model": "particles/effects/sweep/4"},
         {"predicate": {"custom_model_data":100022}, "model": "particles/effects/sweep/5"},
+        {"predicate": {"custom_model_data":100023}, "model": "particles/combat/atk_nerf"},
+        {"predicate": {"custom_model_data":100024}, "model": "particles/combat/arrow_nerf"},
+        {"predicate": {"custom_model_data":100025}, "model": "particles/combat/def_nerf"},
 
         {"predicate": {"custom_model_data":200001}, "model": "rpg/gui/slot/slot_1"},
         {"predicate": {"custom_model_data":200002}, "model": "rpg/gui/slot/slot_2"},
