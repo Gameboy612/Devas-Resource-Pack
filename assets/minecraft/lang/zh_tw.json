@@ -605,6 +605,12 @@
   "dv2.ability.odachi.2.1": "2倍的 DMG",
   "dv2.ability.odachi.2.2": "",
 
+  "dv2.ability.sweep.0.0": "橫掃之刃 (左鍵發動)",
+  "dv2.ability.sweep.1.0": "左鍵攻擊時造成 ",
+  "dv2.ability.sweep.1.1": "0.75",
+  "dv2.ability.sweep.1.2": " 倍的 範圍DMG",
+  "dv2.ability.sweep.2.0": "(此攻擊對主要目標造成 1.0 倍傷害)",
+
 
 
 
@@ -901,6 +907,20 @@
   "dv2.ability.jurisdiction_of_selene.4.3.0":"(消耗 Mana)",
 
   "dv2.weapon.melee.kazeyaiba":"Kazeyaiba",
+  "dv2.ability.kazeyaiba.1.0.0": "Rage of the wind",
+  "dv2.ability.kazeyaiba.1.1.0": "Sneak to build a tornado to trap players.",
+  "dv2.ability.kazeyaiba.1.2.0": "The user's attack speed is then quartered.",
+  "dv2.ability.kazeyaiba.1.3.0": "The user and his nearby team would then gain",
+
+  "dv2.ability.kazeyaiba.1.4.0": "4 Fire EM",
+  "dv2.ability.kazeyaiba.1.4.0.zh": "",
+  "dv2.ability.kazeyaiba.1.4.1": " and ",
+  "dv2.ability.kazeyaiba.1.4.2.zh": "",
+  "dv2.ability.kazeyaiba.1.4.2": "4 Wind EM",
+  "dv2.ability.kazeyaiba.1.4.3": ", and quartered damage,",
+  "dv2.ability.kazeyaiba.1.5.0": "attack range is increased by 1.",
+  "dv2.ability.kazeyaiba.1.6.0": "(Cooldown: 30s)",
+  "dv2.weapon.melee.kazeyaiba.description": "",
 
 
   "dv2.weapon.shield.wooden_shield": "木盾",
