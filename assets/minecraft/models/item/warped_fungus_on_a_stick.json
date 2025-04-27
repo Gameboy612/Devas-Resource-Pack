@@ -221,6 +221,8 @@
     {"predicate": {"custom_model_data":6901068}, "model": "rpg/misc/ball/nocturne_ball"}, 
     {"predicate": {"custom_model_data":6901070}, "model": "rpg/misc/ball/requiem_ball"}, 
     {"predicate": {"custom_model_data":6901072}, "model": "rpg/misc/ball/aria_ball"}, 
+    {"predicate": {"custom_model_data":6901074}, "model": "rpg/wand/staff_of_placeholder_water"}, 
+    {"predicate": {"custom_model_data":6901076}, "model": "rpg/wand/staff_of_placeholder_bee"}, 
 
     {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/devas_2/dagger/vampire_tooth"},
     {"predicate": {"custom_model_data":7000001}, "model": "rpg/weapon/devas_2/dagger/vampire_tooth"},

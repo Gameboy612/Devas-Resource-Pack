@@ -820,6 +820,7 @@
   "dv2.ultimate.death_chain.2.0": "teleport to another nearest enemy and reset the timer.",
 
   "dv2.ultimate.starfall": "Starfall",
+
   "dv2.ultimate.death_mark": "Death Mark",
   "dv2.ultimate.death_mark.1.0": "After 5 seconds prepare, all player in 20-block radius",
   "dv2.ultimate.death_mark.2.0": "will receive a Death Mark effect for 20 seconds(include yourself),",
@@ -830,23 +831,26 @@
   "dv2.ultimate.glory_heart.1.0": "Gain 75 Absorption.",
 
   "dv2.ultimate.great_grenade": "Great Grenade",
+
   "dv2.ultimate.instant_protect": "Instant Protect",
   "dv2.ultimate.instant_protect.1.0": "Teleport to nearest in combat teammate and gain 40 DEF for 20 seconds.",
-  "dv2.ultimate.inspire": "Inspire",
-  "dv2.ultimate.inspire.1.0": "All Teamate gain 3 crystal point.",
+
+  "dv2.ultimate.inspire": "Inspiration",
+  "dv2.ultimate.inspire.1.0": "All Teamate gain 3 Ultimate Point.",
+
   "dv2.ultimate.all_seeing_eye": "All Seeing Eye",
   "dv2.ultimate.all_seeing_eye.1.0": "All enemy receive Seal Effect fo 15 seconds.",
 
   "dv2.ultimate.destroyer_befall": "Destroyer Befall",
   "dv2.ultimate.destroyer_befall.1.0": "Destroyer Befall to your Bow for 15 seconds:",  
 
-  "dv2.ultimate.magic_arrow": "Magic Arrow",
-  "dv2.ultimate.magic_arrow.1.0": "Increase 10 Extra Range for 15 seconds.", 
+  "dv2.ultimate.magic_arrow": "Skybreaker",
+  "dv2.ultimate.magic_arrow.1.0": "Increase 10 🏹Range for 15 seconds.", 
 
-  "dv2.ultimate.crystal_heart": "Crystal Heart",
+  "dv2.ultimate.crystal_heart": "Ethereal Ignition",
   "dv2.ultimate.crystal_heart.1.0": "Increase 30 ✎STR and 50% Mana Regenerate for 15 seconds.", 
 
-  "dv2.ultimate.emotion_impact": "Emotion Impact",
+  "dv2.ultimate.emotion_impact": "Chronostasis",
   "dv2.ultimate.emotion_impact.1.0": "After 3 seconds prepare, all enemies in 15-block radius",
   "dv2.ultimate.emotion_impact.2.0": "receive 5 seconds Stun and Paralysis Effect.",
 
