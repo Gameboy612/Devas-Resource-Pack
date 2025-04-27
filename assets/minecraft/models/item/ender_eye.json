@@ -45,8 +45,13 @@
 
       {"predicate": {"custom_model_data":7100000}, "model": "rpg/weapon/devas_2/lance/pegasus/pegasus"},
       {"predicate": {"custom_model_data":7100001}, "model": "rpg/weapon/devas_2/lance/pegasus/pegasus"},
-      {"predicate": {"custom_model_data":7100002}, "model": "rpg/weapon/devas_2/kazeyaiba"},
-      {"predicate": {"custom_model_data":7100003}, "model": "rpg/weapon/devas_2/kazeyaiba_pulling"}
+      {"predicate": {"custom_model_data":7100002}, "model": "rpg/weapon/devas_2/lance/pegasus/pegasus"},
+      {"predicate": {"custom_model_data":7100003}, "model": "rpg/weapon/devas_2/lance/pegasus/pegasus"},
+    
+      {"predicate": {"custom_model_data":7100010}, "model": "rpg/weapon/devas_2/kazeyaiba"},
+      {"predicate": {"custom_model_data":7100011}, "model": "rpg/weapon/devas_2/kazeyaiba"},
+      {"predicate": {"custom_model_data":7100012}, "model": "rpg/weapon/devas_2/kazeyaiba_pulling"},
+      {"predicate": {"custom_model_data":7100013}, "model": "rpg/weapon/devas_2/kazeyaiba_pulling"}
 
   ]
 }
