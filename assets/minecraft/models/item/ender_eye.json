@@ -43,7 +43,10 @@
       {"predicate": {"custom_model_data":7000000}, "model": "rpg/weapon/gun/r6/416c_carbine/idle"},
       {"predicate": {"custom_model_data":7000001}, "model": "rpg/weapon/gun/r6/416c_carbine/aim"},
 
-      {"predicate": {"custom_model_data":7100000}, "model": "rpg/weapon/devas_2/lance/pegasus/pegasus"}
+      {"predicate": {"custom_model_data":7100000}, "model": "rpg/weapon/devas_2/lance/pegasus/pegasus"},
+      {"predicate": {"custom_model_data":7100001}, "model": "rpg/weapon/devas_2/lance/pegasus/pegasus"},
+      {"predicate": {"custom_model_data":7100002}, "model": "rpg/weapon/devas_2/kazeyaiba"},
+      {"predicate": {"custom_model_data":7100003}, "model": "rpg/weapon/devas_2/kazeyaiba_pulling"}
 
   ]
 }

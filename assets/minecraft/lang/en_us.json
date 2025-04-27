@@ -1170,20 +1170,17 @@
 
 
   "dv2.weapon.melee.kazeyaiba":"Kazeyaiba",
-  "dv2.ability.kazeyaiba.1.0.0": "Rage of the wind",
+  "dv2.ability.kazeyaiba.1.0.0": "Scorching Gales",
   "dv2.ability.kazeyaiba.1.1.0": "Sneak to build a tornado to trap players.",
   "dv2.ability.kazeyaiba.1.2.0": "The user's attack speed is then quartered.",
   "dv2.ability.kazeyaiba.1.3.0": "The user and his nearby team would then gain",
-
   "dv2.ability.kazeyaiba.1.4.0": "4 Fire EM",
-  "dv2.ability.kazeyaiba.1.4.0.zh": "",
   "dv2.ability.kazeyaiba.1.4.1": " and ",
-  "dv2.ability.kazeyaiba.1.4.2.zh": "",
   "dv2.ability.kazeyaiba.1.4.2": "4 Wind EM",
   "dv2.ability.kazeyaiba.1.4.3": ", and quartered damage,",
   "dv2.ability.kazeyaiba.1.5.0": "attack range is increased by 1.",
   "dv2.ability.kazeyaiba.1.6.0": "(Cooldown: 30s)",
-  "dv2.weapon.melee.kazeyaiba.description": "",
+  "dv2.weapon.melee.kazeyaiba.description": "Twin blazing fangs that rend the sky.",
 
 
 
