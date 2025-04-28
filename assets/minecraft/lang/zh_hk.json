@@ -1445,11 +1445,9 @@
 
 
   "dv2.spells.burst.wind.2.leap": "飛躍 [⬈]",
-  "dv2.spells.burst.wind.2.leap.max_charge": "3",
-  "dv2.spells.burst.wind.2.leap.cd": "10",
-  "dv2.spells.burst.wind.2.leap.duration": "瞬間",
-  "dv2.spells.burst.wind.2.leap.1.0": "瞬間向前方飛躍。",
-  "dv2.spells.burst.wind.2.leap.2.0": "",
+  "dv2.spells.burst.wind.2.leap.0": "Maximum Charge: 3 | Regenerate CD: 10s/1",
+  "dv2.spells.burst.wind.2.leap.1": "瞬間向前方飛躍。",
+  "dv2.spells.burst.wind.2.leap.2": "",
   "dv2.spells.burst.wind.2.leap.3.0": "消耗：",
   "dv2.spells.burst.wind.2.leap.3.1": "1500 Stamina",
 
