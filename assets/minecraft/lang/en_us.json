@@ -810,50 +810,73 @@
 
 
   "dv2.ultimate.rampage": "Rampage",
+  "dv2.ultimate.rampage.select": "Ultimate Selected - Rampage",
   "dv2.ultimate.rampage.1.0": "Increase 15% SPD, 30 🗡🏹STR and gain Jump Boost V for 15 seconds.",
 
   "dv2.ultimate.purify": "Purify",
+  "dv2.ultimate.purify.select": "Ultimate Selected - Purify",
   "dv2.ultimate.purify.1.0": "Remove all Elemental Effect and Negative Effect of teammates",
   "dv2.ultimate.purify.2.0": "and gain 100 all Element Absorb for 30 seconds.",
 
   "dv2.ultimate.death_chain": "Death Chain",
+  "dv2.ultimate.death_chain.select": "Ultimate Selected - Death Chain",
   "dv2.ultimate.death_chain.1.0": "Teleport to nearest enemy. If the enemy got killed within 7 seconds after teleporting,",
   "dv2.ultimate.death_chain.2.0": "teleport to another nearest enemy and reset the timer.",
 
   "dv2.ultimate.starfall": "Starfall",
+  "dv2.ultimate.starfall.select": "Ultimate Selected - Starfall",
+  "dv2.ultimate.starfall.1.0": "Instant revival in Spawn when you die in 15s.",
 
   "dv2.ultimate.death_mark": "Death Mark",
+  "dv2.ultimate.death_mark.select": "Ultimate Selected - Death Mark",
   "dv2.ultimate.death_mark.1.0": "After 5 seconds prepare, all player in 20-block radius",
   "dv2.ultimate.death_mark.2.0": "will receive a Death Mark effect for 20 seconds(include yourself),",
   "dv2.ultimate.death_mark.3.0": "player with the effect dies after the effect end. Death Mark count as Negative Effect.",
   "dv2.ultimate.death_mark.4.0": "Ultimate Point can't be earned if the enemy is killed by Death Mark.",    
 
   "dv2.ultimate.glory_heart": "Glory Heart",
+  "dv2.ultimate.glory_heart.select": "Ultimate Selected - Glory Heart",
   "dv2.ultimate.glory_heart.1.0": "Gain 75 Absorption.",
 
   "dv2.ultimate.great_grenade": "Great Grenade",
+  "dv2.ultimate.great_grenade.select": "Ultimate Selected - Great Grenade",
 
   "dv2.ultimate.instant_protect": "Instant Protect",
+  "dv2.ultimate.instant_protect.select": "Ultimate Selected - Instant Protect",
   "dv2.ultimate.instant_protect.1.0": "Teleport to nearest in combat teammate and gain 40 DEF for 20 seconds.",
 
   "dv2.ultimate.inspire": "Inspiration",
-  "dv2.ultimate.inspire.1.0": "All Teamate gain 3 Ultimate Point.",
+  "dv2.ultimate.inspire.select": "Ultimate Selected - Inspiration",
+  "dv2.ultimate.inspire.1.0": "All teammates gain 3 Ultimate Point.",
 
   "dv2.ultimate.all_seeing_eye": "All Seeing Eye",
+  "dv2.ultimate.all_seeing_eye.select": "Ultimate Selected - All Seeing Eye",
   "dv2.ultimate.all_seeing_eye.1.0": "All enemy receive Seal Effect fo 15 seconds.",
 
   "dv2.ultimate.destroyer_befall": "Destroyer Befall",
+  "dv2.ultimate.destroyer_befall.select": "Ultimate Selected - Destroyer Befall",
   "dv2.ultimate.destroyer_befall.1.0": "Destroyer Befall to your Bow for 15 seconds:",  
 
   "dv2.ultimate.magic_arrow": "Skybreaker",
+  "dv2.ultimate.magic_arrow.select": "Ultimate Selected - Skybreaker",
   "dv2.ultimate.magic_arrow.1.0": "Increase 10 🏹Range for 15 seconds.", 
 
   "dv2.ultimate.crystal_heart": "Ethereal Ignition",
+  "dv2.ultimate.crystal_heart.select": "Ultimate Selected - Ethereal Ignition",
   "dv2.ultimate.crystal_heart.1.0": "Increase 30 ✎STR and 50% Mana Regenerate for 15 seconds.", 
 
   "dv2.ultimate.emotion_impact": "Chronostasis",
+  "dv2.ultimate.emotion_impact.select": "Ultimate Selected - Chronostasis",
   "dv2.ultimate.emotion_impact.1.0": "After 3 seconds prepare, all enemies in 15-block radius",
   "dv2.ultimate.emotion_impact.2.0": "receive 5 seconds Stun and Paralysis Effect.",
+
+  "dv2.ultimate.along_with_the_breeze": "Along With The Breeze",
+  "dv2.ultimate.along_with_the_breeze.select": "Ultimate Selected - Along With The Breeze",
+  "dv2.ultimate.along_with_the_breeze.1.0": "Create a 10-block radius field for 15 seconds,",
+  "dv2.ultimate.along_with_the_breeze.2.0": "All teammates in the field gain 60% speed and recover 10 HP/s.",
+
+
+
 
   
   "dv2.ability.dagger.0.0": "Dagger (Right Click)",
@@ -1313,7 +1336,7 @@
   "dv2.ability.destroyer.1.0.0": "Sealed Mythic Bow",
   "dv2.ability.destroyer.1.1.0": "Destroyer ",
   "dv2.ability.destroyer.1.1.1": "has always fixed ",
-  "dv2.ability.destroyer.1.1.2": "60 POW, 2.5s ⌚LT, 0 🏹STR ",
+  "dv2.ability.destroyer.1.1.2": "60 POW, 2.0s ⌚LT, 0 🏹STR ",
   "dv2.ability.destroyer.1.2.0": "and travel in ",
   "dv2.ability.destroyer.1.2.1": "10 ms⁻¹ ",
   "dv2.ability.destroyer.1.2.2": "fixed speed.",

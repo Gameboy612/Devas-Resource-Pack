@@ -546,50 +546,70 @@
 
 
   "dv2.ultimate.rampage": "狂暴",
+  "dv2.ultimate.rampage.select": "Ultimate Selected - 狂暴",
   "dv2.ultimate.rampage.1.0": "在15秒內增加 15% 速度、30 🗡🏹STR，並獲得 跳躍提升 V 效果。",
 
   "dv2.ultimate.purify": "淨化",
+  "dv2.ultimate.purify.select": "Ultimate Selected - 淨化",
   "dv2.ultimate.purify.1.0": "移除隊友所有元素效果與負面效果",
   "dv2.ultimate.purify.2.0": "並獲得 100 全屬性吸收，持續30秒。",
 
   "dv2.ultimate.death_chain": "死亡連鎖",
+  "dv2.ultimate.death_chain.select": "Ultimate Selected - 死亡連鎖",
   "dv2.ultimate.death_chain.1.0": "傳送至最近敵人處。若該敵人在傳送後7秒內被擊殺，",
   "dv2.ultimate.death_chain.2.0": "將傳送至下個最近敵人，並重置計時器。",
 
   "dv2.ultimate.starfall": "星塵",
+  "dv2.ultimate.starfall.select": "Ultimate Selected - 星塵",
+  "dv2.ultimate.starfall.1.0": "Instant revival in Spawn when you die in 15s.",
 
   "dv2.ultimate.death_mark": "死亡印記",
+  "dv2.ultimate.death_mark.select": "Ultimate Selected - 死亡印記",
   "dv2.ultimate.death_mark.1.0": "經過5秒前搖後，20格範圍內所有玩家",
   "dv2.ultimate.death_mark.2.0": "將獲得持續20秒的死亡印記效果（包含發動者自身），",
   "dv2.ultimate.death_mark.3.0": "效果結束時帶有此效果的玩家將死亡。死亡印記視為負面效果。",
   "dv2.ultimate.death_mark.4.0": "透過死亡印記擊殺敵人時無法獲得大絕點數。",    
 
   "dv2.ultimate.glory_heart": "榮耀之心",
+  "dv2.ultimate.glory_heart.select": "Ultimate Selected - 榮耀之心",
   "dv2.ultimate.glory_heart.1.0": "獲得75點吸收護盾。",
 
   "dv2.ultimate.great_grenade": "自爆兵",
+  "dv2.ultimate.great_grenade.select": "Ultimate Selected - 自爆兵",
 
   "dv2.ultimate.instant_protect": "瞬移堡壘",
+  "dv2.ultimate.instant_protect.select": "Ultimate Selected - 瞬移堡壘",
   "dv2.ultimate.instant_protect.1.0": "傳送至最近交戰中的隊友處，並獲得 40 DEF，持續20秒。",
 
   "dv2.ultimate.inspire": "靈光乍現",
+  "dv2.ultimate.inspire.select": "Ultimate Selected - 靈光乍現",
   "dv2.ultimate.inspire.1.0": "全隊成員獲得3點大絕點數。",
 
   "dv2.ultimate.all_seeing_eye": "全視之眼",
+  "dv2.ultimate.all_seeing_eye.select": "Ultimate Selected - 全視之眼",
   "dv2.ultimate.all_seeing_eye.1.0": "使所有敵人獲得15秒封印效果。",
 
   "dv2.ultimate.destroyer_befall": "「毀滅者」再臨",
+  "dv2.ultimate.destroyer_befall.select": "Ultimate Selected - 「毀滅者」再臨",
   "dv2.ultimate.destroyer_befall.1.0": "使弓箭附體「毀滅者」15秒：", 
 
   "dv2.ultimate.magic_arrow": "破霄",
+    "dv2.ultimate.magic_arrow.select": "Ultimate Selected - 破霄",
   "dv2.ultimate.magic_arrow.1.0": "在15秒內增加 10 🏹射程。", 
 
   "dv2.ultimate.crystal_heart": "瞬華",
+  "dv2.ultimate.crystal_heart.select": "Ultimate Selected - 瞬華",
   "dv2.ultimate.crystal_heart.1.0": "在15秒內增加 30 ✎STR 與 50% Mana 回復。",   
 
   "dv2.ultimate.emotion_impact": "時縛禁界",
+  "dv2.ultimate.emotion_impact.select": "Ultimate Selected - 時縛禁界",
   "dv2.ultimate.emotion_impact.1.0": "經過3秒前搖後，半徑15格範圍內所有敵人",
   "dv2.ultimate.emotion_impact.2.0": "將獲得5秒暈眩與麻痺效果。",
+  
+  "dv2.ultimate.along_with_the_breeze": "Along With The Breeze",
+  "dv2.ultimate.along_with_the_breeze.select": "Ultimate Selected - Along With The Breeze",
+  "dv2.ultimate.along_with_the_breeze.1.0": "Create a 10-block radius field for 15 seconds,",
+  "dv2.ultimate.along_with_the_breeze.2.0": "All teammates in the field gain 60% speed and recover 10 HP/s.",
 
 
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
@@ -1052,7 +1072,7 @@
   "dv2.ability.destroyer.1.0.0": "被封印的神話",
   "dv2.ability.destroyer.1.1.0": "毀滅者",
   "dv2.ability.destroyer.1.1.1": "將會固定擁有",
-  "dv2.ability.destroyer.1.1.2": "60 POW, 2.5秒拉弓時間，0 🏹STR ",
+  "dv2.ability.destroyer.1.1.2": "60 POW, 2.0秒拉弓時間，0 🏹STR ",
   "dv2.ability.destroyer.1.2.0": "，並且你的箭矢會以",
   "dv2.ability.destroyer.1.2.1": "10 ms⁻¹ ",
   "dv2.ability.destroyer.1.2.2": "的固定速度行進。",
