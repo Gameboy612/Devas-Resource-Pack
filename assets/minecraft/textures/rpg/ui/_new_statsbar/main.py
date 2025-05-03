@@ -1,7 +1,7 @@
-from PIL import Image
+from PIL import Image, ImageEnhance
 
 
-def generateFiles(path, save_path, height, num_range = (0, 10)):
+def generateFiles(path, save_path, height, with_decolorized: bool = False, num_range = (0, 10)):
     for i in range(num_range[0], num_range[1] + 1, 1):
         image = Image.open(path.replace("$", str(i)))
 
@@ -11,9 +11,18 @@ def generateFiles(path, save_path, height, num_range = (0, 10)):
 
         extended_image.save(save_path.replace("$", str(i)))
 
+        if with_decolorized:
+            converter = ImageEnhance.Color(extended_image)
+            extended_image = converter.enhance(0.0)
+            converter = ImageEnhance.Brightness(extended_image)
+            extended_image = converter.enhance(0.6)
+
+            extended_image.save(save_path.replace("$", f"decolorized_{i}"))
+
 generateFiles(
     path="assets/minecraft/textures/rpg/ui/_new_statsbar/_references/9px/health/$.png",
     save_path="assets/minecraft/textures/rpg/ui/_new_statsbar/health/$.png",
+    with_decolorized=True,
     height=39
 )
 generateFiles(
@@ -30,6 +39,7 @@ generateFiles(
 generateFiles(
     path="assets/minecraft/textures/rpg/ui/_new_statsbar/_references/9px/health/$.png",
     save_path="assets/minecraft/textures/rpg/ui/_new_statsbar/health_top/$.png",
+    with_decolorized=True,
     height=27
 )
 generateFiles(
