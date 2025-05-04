@@ -340,7 +340,7 @@
   "rpg.ui.shield": "\u1002",
   "rpg.ui.shield_debuff": "\u1003",
   "rpg.ui.ability_slot": "\u1000",
-    
+  
   "rpg.ui.active_effects.phases.0": "\u1000",
   "rpg.ui.active_effects.phases.1": "\u1001",
   "rpg.ui.active_effects.phases.2": "\u1002",
@@ -357,7 +357,7 @@
   "rpg.ui.active_effects.phases.13": "\u1013",
   "rpg.ui.active_effects.phases.14": "\u1014",
   "rpg.ui.active_effects.phases.15": "\u1015",
-  
+
   "game.achievements": "Game Achievements",
 
   "rpg.stats.recovery": "Recovery",
@@ -527,7 +527,7 @@
   "dv2.lore.gadget.cd.prefix": "s/",
   "dv2.lore.gadget.cd.suffix": "",
   "dv2.lore.gadget.cd.lpl": "Limited Per Life",
-  
+
   "dv2.lore.spell.max_charge": "Maximum Charge: ",
   "dv2.lore.spell.cd": "Refill CD: ",
   "dv2.lore.spell.cd.prefix": "s/",
@@ -557,10 +557,10 @@
   "dv2.display.shop.name": "[Shop] ",
   "dv2.display.shop.failed.maximum_count": "You have reached the maximum carrying amount of this item already!",
   "dv2.display.shop.failed.not_enough_points": "You do not have enough currency!",
-  
+
   "dv2.display.allocate_point.failed": "You do not have enough points!",
   "dv2.display.allocate_point.reset": "  [RESET]",
-  
+
   "dv2.ultimate.failed.have_teammate": "%s is already using this Ultimate! Please use another one.",
 
   "dv2.gui.not_enough_cost": "Not Enough Cost!",
@@ -747,7 +747,7 @@
   "dv2.gui.category.ability_item.gem.health": "Health",
   "dv2.gui.category.ability_item.gem.mana": "Mana",
   "dv2.gui.category.ability_item.gem.stamina": "Stamina",
-  "dv2.gui.category.ability_item.gem.others": "Others",  
+  "dv2.gui.category.ability_item.gem.others": "Others",
   "dv2.gui.category.ability_item.others.others": "Others",
   "dv2.gui.category.signature.offensive.damage": "Damage",
   "dv2.gui.category.signature.offensive.lifesteal": "Lifesteal",
@@ -864,7 +864,7 @@
 
   "dv2.ultimate.crystal_heart": "Ethereal Ignition",
   "dv2.ultimate.crystal_heart.select": "Ultimate Selected - Ethereal Ignition",
-  "dv2.ultimate.crystal_heart.1.0": "Increase 30 ✎STR and 50% Mana Regenerate for 15 seconds.", 
+  "dv2.ultimate.crystal_heart.1.0": "Increase 30 ✎STR and 50% Mana Regeneration for 15 seconds.", 
 
   "dv2.ultimate.emotion_impact": "Chaos Lockdown",
   "dv2.ultimate.emotion_impact.select": "Ultimate Selected - Chaos Lockdown",
@@ -879,7 +879,7 @@
 
 
 
-  
+
   "dv2.ability.dagger.0.0": "Dagger (Right Click)",
   "dv2.ability.dagger.1.0": "Deal ",
   "dv2.ability.dagger.1.1": "x0.3",
@@ -928,7 +928,7 @@
   "dv2.ability.dark_knife.1.1.0": "When holding this Weapon, you are",
   "dv2.ability.dark_knife.1.2.0": "immune to ",
   "dv2.ability.dark_knife.1.2.2": " effect.",
-  
+
   "dv2.ability.dark_knife.2.0.0": "Stealthiness",
   "dv2.ability.dark_knife.2.1.0": "When holding this weapon while being ",
   "dv2.ability.dark_knife.2.1.2": ",",
@@ -1085,14 +1085,14 @@
   "dv2.ability.cursed_dagger.1.1.0":"Sneak to deal ",
   "dv2.ability.cursed_dagger.1.1.1":"25",
   "dv2.ability.cursed_dagger.1.1.2":" True DMG",
-  "dv2.ability.cursed_dagger.1.1.3":" to oneself,",  
+  "dv2.ability.cursed_dagger.1.1.3":" to oneself,",
   "dv2.ability.cursed_dagger.1.2.0":"and launches oneself forward, dealing ", 
   "dv2.ability.cursed_dagger.1.2.1":"20",
   "dv2.ability.cursed_dagger.1.2.2":" DMG ",
   "dv2.ability.cursed_dagger.1.2.3":"and ",
   "dv2.ability.cursed_dagger.1.2.4":"10",
   "dv2.ability.cursed_dagger.1.2.5":" Fire EM", 
-  "dv2.ability.cursed_dagger.1.3.0":"to all enemies and mobs within 4 block radius on landing.",   
+  "dv2.ability.cursed_dagger.1.3.0":"to all enemies and mobs within 4 block radius on landing.", 
   "dv2.ability.cursed_dagger.1.2.0.zh":"", 
   "dv2.ability.cursed_dagger.1.3.0.zh":"",
   "dv2.ability.cursed_dagger.1.3.1.zh":"",
@@ -1213,7 +1213,7 @@
   "dv2.ability.kazeyaiba.1.6.0": "(Cooldown: 30s)",
   "dv2.weapon.melee.kazeyaiba.description": "Twin blazing fangs that rend the sky.",
 
-  
+
   "dv2.weapon.melee.pegasus":"Pegasus",
 
 
@@ -1330,7 +1330,7 @@
   "dv2.ability.nightmare.2.2.1": "1.8 POW <+7.0 EM>",
   "dv2.ability.nightmare.2.2.2": ".",
 
-  
+
   "dv2.weapon.bow.destroyer": "Destroyer",
   "dv2.weapon.bow.destroyer.description": "The Bow of Obliteration, made from demonic remains,",
   "dv2.weapon.bow.destroyer.description.2": "sealed for its overwhelming power.",
@@ -1343,9 +1343,9 @@
   "dv2.ability.destroyer.1.2.2": "fixed speed.",
   "dv2.ability.destroyer.1.3.0": "ONLY when",
   "dv2.ability.destroyer.1.3.1": " Destroyer ",
-  "dv2.ability.destroyer.1.3.2": "is fully charged, its able to DEAL DAMAGE.",  
+  "dv2.ability.destroyer.1.3.2": "is fully charged, its able to DEAL DAMAGE.",
   "dv2.ability.destroyer.1.4.0": "",
-  
+
   "dv2.ability.destroyer.2.0.0": "Seal Devour",
   "dv2.ability.destroyer.2.1.0": "When in combat,",
   "dv2.ability.destroyer.2.1.1": " \"Sealed Mythic Bow\" ",
@@ -1413,7 +1413,7 @@
   "dv2.weapon.wand.healing_wand": "Healing Wand",
   "dv2.weapon.wand.healing_staff": "Healing Staff",
   "dv2.weapon.wand.healing_scepter": "Healing Scepter",
-  
+
   "dv2.ability.healing_beam.1.0.0": "Skill: Healing Beam",
   "dv2.ability.healing_beam.1.1.0": "Shoots out a laser which heals %s HP to Teammates.",
   "dv2.ability.healing_beam.1.2.0": "(Deal 2% More DMG Per Your Max HP over 100 when hit enemy, Max 200%)",
@@ -1424,17 +1424,17 @@
 
   "dv2.weapon.wand.staff_of_terrestria": "Staff of Terrestria",
   "dv2.weapon.wand.staff_of_terrestria.description": "Feel the Power from Nature!",
-  
+
   "dv2.ability.rock_throw.1.0.0": "Skill: Rock Throw",
   "dv2.ability.rock_throw.1.1.0": "Able to throw out rocks.",
   "dv2.ability.rock_throw.1.2.0": "Cost: ",
   "dv2.ability.rock_throw.1.2.1": "500 Mana",
-  
+
   "dv2.ability.staff_of_terrestria.2.0.0": "Homing Rocks [SHIFT]",
   "dv2.ability.staff_of_terrestria.2.1.0": "Sneak to call all your rocks back to you.",
   "dv2.ability.staff_of_terrestria.2.2.0": "Cost: ",
   "dv2.ability.staff_of_terrestria.2.2.1": "2000 Mana",
-  
+
   "dv2.ability.staff_of_terrestria.3.0.0": "Defensive Nodes",
   "dv2.ability.staff_of_terrestria.3.1.0": "Gain 20 DEF when rocks homed to you.",
 
@@ -1500,7 +1500,7 @@
   "dv2.ability.waltz.echo.1.2.1": "%s Mana",
   "dv2.ability.waltz.echo.1.3.0": "(Cooldown: %s%s%ss)",
 
-  "dv2.ability.waltz.steps.1.0.0": "Frenzied Steps [DOUBLE SHIFT]",
+  "dv2.ability.waltz.steps.1.0.0": "Frenzied Steps  [DOUBLE SHIFT]",
   "dv2.ability.waltz.steps.1.1.0": "Give the enemies in an area of 15 blocks radius elemental",
   "dv2.ability.waltz.steps.1.2.0": "debuff, basing on the player's element for 5 seconds.",
   "dv2.ability.waltz.steps.1.3.0": "The affected enemies will receive a curse lasting for",
@@ -1520,14 +1520,28 @@
 
 
   "dv2.weapon.wand.water_staff": "Cagebirds",
-  "dv2.weapon.wand.water_staff.description": "With joyful steps, twere a glee festival.",
+  "dv2.weapon.wand.water_staff.description": "I could have borne the shade.",
 
-  "dv2.ability.water_staff.1.0.0": "Clipped Wings",
-  "dv2.ability.water_staff.1.1.0": "When enemies are applied Frozen by this weapon,",
-  "dv2.ability.water_staff.1.2.0": "they will receive a \"Clipped Wings\" mark that lasts for 15 seconds.",
-  "dv2.ability.water_staff.1.3.0": "Players with the mark will have their ",
-  "dv2.ability.water_staff.1.3.1": "Water AFF",
-  "dv2.ability.water_staff.1.3.2": " weakened by 50%.",
+  "dv2.ability.water_staff.1.0.0": "Passive: Clipped Wings",
+  "dv2.ability.water_staff.1.1.0": "Enemies inflicted with ",
+  "dv2.ability.water_staff.1.1.1": "Freeze",
+  "dv2.ability.water_staff.1.1.2": " by this weapon gain",
+  "dv2.ability.water_staff.1.2.0": "a stackable ",
+  "dv2.ability.water_staff.1.2.1": "\"Clipped Wings\"",
+  "dv2.ability.water_staff.1.2.2": " mark for 10 seconds.",
+  "dv2.ability.water_staff.1.3.0": "Reapplying ",
+  "dv2.ability.water_staff.1.3.1": "Freeze",
+  "dv2.ability.water_staff.1.3.2": " refreshes the duration and adds 1 stack (Max: 3),",
+  "dv2.ability.water_staff.1.4.0": "and reapplies all previous stack effects.",
+  "dv2.ability.water_staff.1.5.0": "All stacks reset when the mark expires.",
+
+  "dv2.ability.water_staff.1.6.0": "Effects per stack:",
+  "dv2.ability.water_staff.1.7.0": "1: ",
+  "dv2.ability.water_staff.1.7.1": "Water AFF",
+  "dv2.ability.water_staff.1.7.2": " -50%",
+  "dv2.ability.water_staff.1.8.0": "2: Mana Regeneration decreases by 50% for 7 seconds",
+  "dv2.ability.water_staff.1.9.0": "3: Instantly removes ",
+  "dv2.ability.water_staff.1.9.1": "1500 Stamina",
 
   "dv2.ability.water_staff.2.0.0": "Skill: Flutter",
   "dv2.ability.water_staff.2.1.0": "Shoots out a water blade.",
@@ -1535,15 +1549,19 @@
   "dv2.ability.water_staff.2.2.1": "%s Mana",
   "dv2.ability.water_staff.2.3.0": "(Cooldown: %s%s%ss)",
 
-  "dv2.ability.water_staff.3.0.0": "Unfurl [DOUBLE SHIFT]",
+  "dv2.ability.water_staff.3.0.0": "If I Had Never Soared  [DOUBLE SHIFT]",
   "dv2.ability.water_staff.3.1.0": "Double-tap and hold SHIFT to expand a circular \"Cage\" centered on oneself.",
-  "dv2.ability.water_staff.3.2.0": "All players within the \"Cage\" who have the \"Clipped Wings\" mark",
-  "dv2.ability.water_staff.3.3.0": "will receive 3.5x Wand Damage, after which the mark will be removed.",
-  "dv2.ability.water_staff.3.4.0": "Continue consumes Mana, and the \"Cage\" slowly expands outward.",
-  "dv2.ability.water_staff.3.5.0": "(Mana regen will be disabled during the expansion.)",
-  "dv2.ability.water_staff.3.6.0": "(\"Cage\" Max Range is 30 blocks-radius)",
-  "dv2.ability.water_staff.3.7.0": "Cost: At least ",
-  "dv2.ability.water_staff.3.7.1": "5000 Mana + 1000 Mana/s",
+
+  "dv2.ability.water_staff.3.2.0": "Deals 3.5x Wand Damage to all players within the \"Cage\" who have",
+  "dv2.ability.water_staff.3.3.0": "the ",
+  "dv2.ability.water_staff.3.3.1": "\"Clipped Wings\"",
+  "dv2.ability.water_staff.3.3.2": " mark, removing the mark after damage is applied.",
+
+  "dv2.ability.water_staff.3.4.0": "The \"Cage\" continuously consumes Mana while active, expanding outward gradually.",
+  "dv2.ability.water_staff.3.5.0": "(Mana regeneration is suspended during expansion.)",
+  "dv2.ability.water_staff.3.6.0": "(Maximum \"Cage\" range: 30-block radius)",
+  "dv2.ability.water_staff.3.7.0": "Cost: ",
+  "dv2.ability.water_staff.3.7.1": "5000 Mana initial + 1000 Mana/s",
   "dv2.ability.water_staff.3.8.0": "(Cooldown: %s%s%ss)",
 
 
@@ -1551,7 +1569,7 @@
 
 
 
-  
+
   "dv2.arrow.effects.burning_arrow": "Burning Arrow",
   "dv2.arrow.effects.burning_arrow.0": "When this arrow is selected, your arrows",
   "dv2.arrow.effects.burning_arrow.1.0": "will have a 50% chance to inflict the ",
@@ -1609,12 +1627,12 @@
   "dv2.item.others.simple_elemental_prism":"Simple Elemental Prism",
   "dv2.item.others.simple_elemental_prism.description.0":"When selected, gain 5 EM for last element(s)",
   "dv2.item.others.simple_elemental_prism.description.1":"you were attacked by. Resets outside combat.",
-  
+
   "dv2.arrow.power.description.0": "When this arrow is selected, your arrows",
   "dv2.arrow.power.description.1.0": "will have ",
   "dv2.arrow.power.description.1.2": ".",
 
-  
+
   "dv2.item.whetstone.description.2.0":"When your ATK-SPD is less than 0.6s, you will ONLY gain 2 DMG.",
 
 
@@ -1890,7 +1908,7 @@
   "dv2.artifacts.vikings.1.0":"Your 🗡STR is Increase by 5",
   "dv2.artifacts.vikings.2.0":"per teammate within a 6 block radius.",
   "dv2.artifacts.vikings.3.0":"Gain 5 🗡STR while using.",
-  
+
   "dv2.artifacts.vampire.1":"Vampire I",
   "dv2.artifacts.vampire.1.1.0":"REDUCED 20% 🗡🏹 STR while using.",
   "dv2.artifacts.vampire.1.2.0":"Increase 5 Lifesteal",
@@ -2059,10 +2077,10 @@
   "dv2.gadget.large_mana_potion.cd": "40",
   "dv2.gadget.large_mana_potion.1.0": "After 2.5 seconds of using, regenerate 100% of max Mana.",
 
-  "dv2.gadget.small_mana_potion": "Mana Regenerate Potion",
+  "dv2.gadget.small_mana_potion": "Mana Regeneration Potion",
   "dv2.gadget.small_mana_potion.max_charge": "1",
   "dv2.gadget.small_mana_potion.cd": "45",
-  "dv2.gadget.small_mana_potion.1.0": "After 1.5 seconds of using, increase 100% Mana Regenerate for 10 seconds.",
+  "dv2.gadget.small_mana_potion.1.0": "After 1.5 seconds of using, increase 100% Mana Regeneration for 10 seconds.",
 
   "dv2.gadget.crystal_potion": "Crystal Potion",
   "dv2.gadget.crystal_potion.max_charge": "1",
@@ -2181,7 +2199,7 @@
   "dv2.tips.1":"For most weapons, right-click to deal extra damage.",
 
   "dv2.tips.2":"Damage will be weakened when the bow isn't full-charged.",
-  
+
   "dv2.tips.3.1":"The 4 bars above hotbar are: ",
   "dv2.tips.3.2":"Health, ",
   "dv2.tips.3.3":"Mana, ",

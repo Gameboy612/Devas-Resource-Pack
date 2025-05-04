@@ -1150,7 +1150,7 @@
   
   "dv2.ability.healing_beam.1.0.0": "技能：回復光束",
   "dv2.ability.healing_beam.1.1.0": "射出可回復 %s HP 的光束",
-  "dv2.ability.healing_beam.1.2.0": "(Deal 2% More DMG Per Your Max HP over 100 when hit enemy, Max 200%)",
+  "dv2.ability.healing_beam.1.2.0": "（對手被擊中會獲得 50% 效果）",
   "dv2.ability.healing_beam.1.3.0": "消耗：",
   "dv2.ability.healing_beam.1.3.1": "%s Mana",
   "dv2.ability.healing_beam.1.4.0": "(冷卻：%s%s%s秒)",
@@ -1253,8 +1253,55 @@
   "dv2.ability.waltz.plague.1.2.3": "",
 
 
-
-
+  "dv2.weapon.wand.water_staff": "籠中鳥",
+  "dv2.weapon.wand.water_staff.description": "我本可以忍受黑暗。",
+  
+  "dv2.ability.water_staff.1.0.0": "被動：折翼",
+  "dv2.ability.water_staff.1.1.0": "被此武器施加",
+  "dv2.ability.water_staff.1.1.1": "冰凍",
+  "dv2.ability.water_staff.1.1.2": "狀態的敵人將獲得",
+  "dv2.ability.water_staff.1.2.0": "一層可疊加的",
+  "dv2.ability.water_staff.1.2.1": "「折翼」",
+  "dv2.ability.water_staff.1.2.2": "標記，持續10秒。",
+  "dv2.ability.water_staff.1.3.0": "重新施加",
+  "dv2.ability.water_staff.1.3.1": "冰凍",
+  "dv2.ability.water_staff.1.3.2": "將刷新持續時間並增加1層（最多3層），",
+  "dv2.ability.water_staff.1.4.0": "並重新觸發所有先前層數的效果。",
+  "dv2.ability.water_staff.1.5.0": "標記結束時所有層數重置。",
+  
+  "dv2.ability.water_staff.1.6.0": "每層效果：",
+  "dv2.ability.water_staff.1.7.0": "1: 水屬性AFF -50%",
+  "dv2.ability.water_staff.1.8.0": "2: Mana 回復 降低50%，持續7秒",
+  "dv2.ability.water_staff.1.9.0": "3: 立即扣除 ",
+  "dv2.ability.water_staff.1.9.1": "1500 Stamina",
+  
+  "dv2.ability.water_staff.2.0.0": "技能：振翅",
+  "dv2.ability.water_staff.2.1.0": "發射一道水刃。",
+  "dv2.ability.water_staff.2.2.0": "消耗：",
+  "dv2.ability.water_staff.2.2.1": "%s Mana",
+  "dv2.ability.water_staff.2.3.0": "（冷卻：%s%s%s秒）",
+  
+  "dv2.ability.water_staff.3.0.0": "若我未曾飛翔 [雙擊蹲下]",
+  "dv2.ability.water_staff.3.1.0": "雙擊並長按SHIFT鍵，以自身為中心展開圓形「牢籠」。",
+  
+  "dv2.ability.water_staff.3.2.0": "對「牢籠」範圍內所有帶有",
+  "dv2.ability.water_staff.3.3.0": "",
+  "dv2.ability.water_staff.3.3.1": "「折翼」",
+  "dv2.ability.water_staff.3.3.2": "標記的玩家造成3.5倍魔杖傷害，並在施加傷害後移除標記。",
+  
+  "dv2.ability.water_staff.3.4.0": "啟動期間「牢籠」將持續消耗魔力，逐漸向外擴張。",
+  "dv2.ability.water_staff.3.5.0": "（擴張期間 Mana 將停止回復。）",
+  "dv2.ability.water_staff.3.6.0": "（「牢籠」最大範圍為半徑30格）",
+  "dv2.ability.water_staff.3.7.0": "消耗：",
+  "dv2.ability.water_staff.3.7.1": "初始 5000 Mana + 每秒 1000 Mana",
+  "dv2.ability.water_staff.3.8.0": "（冷卻：%s%s%s秒）",
+  
+  
+  
+  
+  
+  
+  
   "dv2.arrow.effects.burning_arrow": "燃燒箭",
   "dv2.arrow.effects.burning_arrow.0": "當此箭被選取，",
   "dv2.arrow.effects.burning_arrow.1.0": "你的箭會有 50% 機率觸發 ",
