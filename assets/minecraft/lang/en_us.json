@@ -1518,6 +1518,38 @@
   "dv2.ability.waltz.plague.1.2.3": ".",
 
 
+  "dv2.weapon.wand.water_staff": "Cagebirds",
+  "dv2.weapon.wand.water_staff.description": "With joyful steps, twere a glee festival.",
+
+  "dv2.ability.water_staff.1.0.0": "Clipped Wings",
+  "dv2.ability.water_staff.1.1.0": "When enemies are applied Frozen by this weapon,",
+  "dv2.ability.water_staff.1.2.0": "they will receive a \"Clipped Wings\" mark that lasts for 15 seconds.",
+  "dv2.ability.water_staff.1.3.0": "Players with the mark will have their ",
+  "dv2.ability.water_staff.1.3.1": "Water AFF",
+  "dv2.ability.water_staff.1.3.2": " weakened by 50%.",
+
+  "dv2.ability.water_staff.2.0.0": "Skill: Flutter",
+  "dv2.ability.water_staff.2.1.0": "Shoots out a water blade.",
+  "dv2.ability.water_staff.2.2.0": "Cost: ",
+  "dv2.ability.water_staff.2.2.1": "%s Mana",
+  "dv2.ability.water_staff.2.3.0": "(Cooldown: %s%s%ss)",
+
+  "dv2.ability.water_staff.3.0.0": "Unfurl [DOUBLE SHIFT]",
+  "dv2.ability.water_staff.3.1.0": "Double-tap and hold SHIFT to expand a circular \"Cage\" centered on oneself.",
+  "dv2.ability.water_staff.3.2.0": "All players within the \"Cage\" who have the \"Clipped Wings\" mark",
+  "dv2.ability.water_staff.3.3.0": "will receive 3.5x Wand Damage, after which the mark will be removed.",
+  "dv2.ability.water_staff.3.4.0": "Continue consumes Mana, and the \"Cage\" slowly expands outward.",
+  "dv2.ability.water_staff.3.5.0": "(Mana regen will be disabled during the expansion.)",
+  "dv2.ability.water_staff.3.6.0": "(\"Cage\" Max Range is 30 blocks-radius)",
+  "dv2.ability.water_staff.3.7.0": "Cost: At least ",
+  "dv2.ability.water_staff.3.7.1": "5000 Mana + 1000 Mana/s",
+  "dv2.ability.water_staff.3.8.0": "(Cooldown: %s%s%ss)",
+
+
+
+
+
+
   
   "dv2.arrow.effects.burning_arrow": "Burning Arrow",
   "dv2.arrow.effects.burning_arrow.0": "When this arrow is selected, your arrows",
