@@ -203,7 +203,7 @@
   "dv2.gui.settings": "設定",
   "dv2.gui.edit_setup": "更改配置",
   "dv2.gui.stats": "✎ 個體數值：",
-  "dv2.gui.ultimate": "大絕",
+  "dv2.gui.ultimate": "終極技能",
   "dv2.gui.return": "返回",
   "dv2.gui.last_page": "← 上一頁",
   "dv2.gui.next_page": "下一頁 →",
@@ -220,7 +220,7 @@
 
 
   "dv2.gui.player_stats.kd": " - K/D: %s.%s%s",
-  "dv2.gui.player_stats.ultimate": "大絕：%s (%s)",
+  "dv2.gui.player_stats.ultimate": "終極技能：%s (%s)",
 
   "dv2.gui.cost.format": " -  %s：%s/%s",
   "dv2.gui.cost.item": "裝備",
@@ -266,7 +266,7 @@
   "dv2.display.allocate_point.failed": "你沒有足夠的分配點！",
   "dv2.display.allocate_point.reset": "  [重設]",
 
-  "dv2.ultimate.failed.have_teammate": "%s 已經在使用這個大絕了！請選擇其他的大絕！",
+  "dv2.ultimate.failed.have_teammate": "%s 已經在使用這個終極技能了！請選擇其他的終極技能！",
 
   "dv2.gui.not_enough_cost": "點數不足！",
   "dv2.gui.out_of_stock": "缺貨！",
@@ -546,70 +546,71 @@
 
 
   "dv2.ultimate.rampage": "狂暴",
-  "dv2.ultimate.rampage.select": "Ultimate Selected - 狂暴",
+  "dv2.ultimate.rampage.select": "終極技能已選擇 - 狂暴",
   "dv2.ultimate.rampage.1.0": "在15秒內增加 15% 速度、30 🗡🏹STR，並獲得 跳躍提升 V 效果。",
 
   "dv2.ultimate.purify": "淨化",
-  "dv2.ultimate.purify.select": "Ultimate Selected - 淨化",
-  "dv2.ultimate.purify.1.0": "移除隊友所有元素效果與負面效果",
-  "dv2.ultimate.purify.2.0": "並獲得 100 全屬性吸收，持續30秒。",
+  "dv2.ultimate.purify.select": "終極技能已選擇 - 淨化",
+  "dv2.ultimate.purify.1.0": "移除使用者及隊友身上的所有元素與負面效果，",
+  "dv2.ultimate.purify.2.0": "並增加 10 吸收護盾",
+  "dv2.ultimate.purify.3.0": "以及 100 全屬性吸收，持續30秒。",
 
   "dv2.ultimate.death_chain": "死亡連鎖",
-  "dv2.ultimate.death_chain.select": "Ultimate Selected - 死亡連鎖",
+  "dv2.ultimate.death_chain.select": "終極技能已選擇 - 死亡連鎖",
   "dv2.ultimate.death_chain.1.0": "傳送至最近敵人處。若該敵人在傳送後7秒內被擊殺，",
   "dv2.ultimate.death_chain.2.0": "將傳送至下個最近敵人，並重置計時器。",
 
   "dv2.ultimate.starfall": "星塵",
-  "dv2.ultimate.starfall.select": "Ultimate Selected - 星塵",
-  "dv2.ultimate.starfall.1.0": "Instant revival in Spawn when you die in 15s.",
+  "dv2.ultimate.starfall.select": "終極技能已選擇 - 星塵",
+  "dv2.ultimate.starfall.1.0": "在技能啟動後的15秒內死亡，玩家將立即在重生點復活。",
 
   "dv2.ultimate.death_mark": "死亡印記",
-  "dv2.ultimate.death_mark.select": "Ultimate Selected - 死亡印記",
+  "dv2.ultimate.death_mark.select": "終極技能已選擇 - 死亡印記",
   "dv2.ultimate.death_mark.1.0": "經過5秒前搖後，20格範圍內所有玩家",
   "dv2.ultimate.death_mark.2.0": "將獲得持續20秒的死亡印記效果（包含發動者自身），",
   "dv2.ultimate.death_mark.3.0": "效果結束時帶有此效果的玩家將死亡。死亡印記視為負面效果。",
-  "dv2.ultimate.death_mark.4.0": "透過死亡印記擊殺敵人時無法獲得大絕點數。",    
+  "dv2.ultimate.death_mark.4.0": "透過死亡印記擊殺敵人時無法獲得終極技能充能點。",    
 
   "dv2.ultimate.glory_heart": "榮耀之心",
-  "dv2.ultimate.glory_heart.select": "Ultimate Selected - 榮耀之心",
-  "dv2.ultimate.glory_heart.1.0": "獲得75點吸收護盾。",
+  "dv2.ultimate.glory_heart.select": "終極技能已選擇 - 榮耀之心",
+  "dv2.ultimate.glory_heart.1.0": "設置吸收護盾至 75。",
 
   "dv2.ultimate.great_grenade": "自爆兵",
-  "dv2.ultimate.great_grenade.select": "Ultimate Selected - 自爆兵",
+  "dv2.ultimate.great_grenade.select": "終極技能已選擇 - 自爆兵",
 
   "dv2.ultimate.instant_protect": "瞬移堡壘",
-  "dv2.ultimate.instant_protect.select": "Ultimate Selected - 瞬移堡壘",
+  "dv2.ultimate.instant_protect.select": "終極技能已選擇 - 瞬移堡壘",
   "dv2.ultimate.instant_protect.1.0": "傳送至最近交戰中的隊友處，並獲得 40 DEF，持續20秒。",
 
   "dv2.ultimate.inspire": "靈光乍現",
-  "dv2.ultimate.inspire.select": "Ultimate Selected - 靈光乍現",
-  "dv2.ultimate.inspire.1.0": "全隊成員獲得3點大絕點數。",
+  "dv2.ultimate.inspire.select": "終極技能已選擇 - 靈光乍現",
+  "dv2.ultimate.inspire.1.0": "全隊成員獲得3點終極技能充能點。",
 
   "dv2.ultimate.all_seeing_eye": "全視之眼",
-  "dv2.ultimate.all_seeing_eye.select": "Ultimate Selected - 全視之眼",
+  "dv2.ultimate.all_seeing_eye.select": "終極技能已選擇 - 全視之眼",
   "dv2.ultimate.all_seeing_eye.1.0": "使所有敵人獲得15秒封印效果。",
 
   "dv2.ultimate.destroyer_befall": "「毀滅者」再臨",
-  "dv2.ultimate.destroyer_befall.select": "Ultimate Selected - 「毀滅者」再臨",
+  "dv2.ultimate.destroyer_befall.select": "終極技能已選擇 - 「毀滅者」再臨",
   "dv2.ultimate.destroyer_befall.1.0": "使弓箭附體「毀滅者」15秒：", 
 
   "dv2.ultimate.magic_arrow": "破霄",
-    "dv2.ultimate.magic_arrow.select": "Ultimate Selected - 破霄",
+    "dv2.ultimate.magic_arrow.select": "終極技能已選擇 - 破霄",
   "dv2.ultimate.magic_arrow.1.0": "在15秒內增加 10 🏹射程。", 
 
   "dv2.ultimate.crystal_heart": "瞬華",
-  "dv2.ultimate.crystal_heart.select": "Ultimate Selected - 瞬華",
+  "dv2.ultimate.crystal_heart.select": "終極技能已選擇 - 瞬華",
   "dv2.ultimate.crystal_heart.1.0": "在15秒內增加 30 ✎STR 與 50% Mana 回復。",   
 
-  "dv2.ultimate.emotion_impact": "時縛禁界",
-  "dv2.ultimate.emotion_impact.select": "Ultimate Selected - 時縛禁界",
+  "dv2.ultimate.emotion_impact": "混沌禁錮",
+  "dv2.ultimate.emotion_impact.select": "終極技能已選擇 - 混沌禁錮",
   "dv2.ultimate.emotion_impact.1.0": "經過3秒前搖後，半徑15格範圍內所有敵人",
   "dv2.ultimate.emotion_impact.2.0": "將獲得5秒暈眩與麻痺效果。",
   
-  "dv2.ultimate.along_with_the_breeze": "Along With The Breeze",
-  "dv2.ultimate.along_with_the_breeze.select": "Ultimate Selected - Along With The Breeze",
-  "dv2.ultimate.along_with_the_breeze.1.0": "Create a 10-block radius field for 15 seconds,",
-  "dv2.ultimate.along_with_the_breeze.2.0": "All teammates in the field gain 60% speed and recover 10 HP/s.",
+  "dv2.ultimate.along_with_the_breeze": "隨風而行",  
+  "dv2.ultimate.along_with_the_breeze.select": "終極技能已選擇 - 隨風而行",  
+  "dv2.ultimate.along_with_the_breeze.1.0": "創造一個半徑10格的領域，持續15秒。",  
+  "dv2.ultimate.along_with_the_breeze.2.0": "領域內的所有隊友將獲得60%速度加成，並每秒恢復 10 HP。",  
 
 
   "dv2.ability.dagger.0.0": "匕首 (右鍵發動)",
@@ -672,7 +673,7 @@
   "dv2.ability.dark_knife.2.2.0": "將會被增益",
   "dv2.ability.dark_knife.2.2.1": " 2點暗屬性DMG",
   "dv2.ability.dark_knife.2.2.2": " 和 ",
-  "dv2.ability.dark_knife.2.2.3": "20% SPD",
+  "dv2.ability.dark_knife.2.2.3": "20% 速度",
   "dv2.ability.dark_knife.2.2.4": "",
 
   "dv2.weapon.melee.diamond_sword": "鑽石劍",
@@ -790,7 +791,7 @@
   "dv2.ability.vampire_tooth.2.1.0.zh": "在獲得",
   "dv2.ability.vampire_tooth.2.1.1.zh": "發光",
   "dv2.ability.vampire_tooth.2.1.2.zh": "效果時增加 ",
-  "dv2.ability.vampire_tooth.2.1.3.zh": "20% SPD",
+  "dv2.ability.vampire_tooth.2.1.3.zh": "20% 速度",
   "dv2.ability.vampire_tooth.2.1.4.zh": "，",
   "dv2.ability.vampire_tooth.2.2.0.zh": "同時減少",
   "dv2.ability.vampire_tooth.2.2.1.zh": "10% DMG",
@@ -1185,7 +1186,7 @@
   "dv2.ability.virtuoso.nocturne.1.0.0": "夜想曲",
   "dv2.ability.virtuoso.nocturne.1.1.0": "射出一個魔球",
   "dv2.ability.virtuoso.nocturne.1.2.0": "一旦落地，在3秒內半徑4格範圍内的敵人的 ",
-  "dv2.ability.virtuoso.nocturne.1.2.1": "SPD",
+  "dv2.ability.virtuoso.nocturne.1.2.1": "速度",
   "dv2.ability.virtuoso.nocturne.1.2.2": "",
   "dv2.ability.virtuoso.nocturne.1.3.0": "將會被減少 5%",
   "dv2.ability.virtuoso.nocturne.1.4.0": "消耗：",
@@ -1199,7 +1200,7 @@
   "dv2.ability.virtuoso.requiem.1.0.0": "鎮魂曲",
   "dv2.ability.virtuoso.requiem.1.1.0": "射出一個魔球",
   "dv2.ability.virtuoso.requiem.1.2.0": "一旦落地，在2秒內半徑3格範圍内的敵人的 ",
-  "dv2.ability.virtuoso.requiem.1.2.1": "SPD",
+  "dv2.ability.virtuoso.requiem.1.2.1": "速度",
   "dv2.ability.virtuoso.requiem.1.2.2": "",
   "dv2.ability.virtuoso.requiem.1.3.0": "將會被減少 100%",
   "dv2.ability.virtuoso.requiem.1.4.0": "同時給予敵人1秒的",
@@ -1342,7 +1343,7 @@
   "dv2.spells.long_lasting.wind.1.escape": "逃脫 (等級一)",
   "dv2.spells.long_lasting.wind.1.escape.0": "<等級一 - 持久型 - 風屬性>",
   "dv2.spells.long_lasting.wind.1.escape.1": "消除你 33% 的 HP,",
-  "dv2.spells.long_lasting.wind.1.escape.2": "並於5秒內增加你的 SPD 100%",
+  "dv2.spells.long_lasting.wind.1.escape.2": "並於5秒內增加你的 速度 100%",
   "dv2.spells.long_lasting.wind.1.escape.3.0": "代價：",
   "dv2.spells.long_lasting.wind.1.escape.3.1": "33% HP",
 
@@ -1550,8 +1551,8 @@
   "dv2.artifacts.unyielding_heart.2.0":"在 HP 低於 33% 時增加 30% DEF",
   
   "dv2.artifacts.coward":"膽小鬼",
-  "dv2.artifacts.coward.1.0":"在 HP 低於 50% 時增加 15% SPD",
-  "dv2.artifacts.coward.2.0":"在 HP 低於 33% 時增加 30% SPD",
+  "dv2.artifacts.coward.1.0":"在 HP 低於 50% 時增加 15% 速度",
+  "dv2.artifacts.coward.2.0":"在 HP 低於 33% 時增加 30% 速度",
   
   "dv2.artifacts.shield.1":"盾牌 I",
   "dv2.artifacts.shield.1.1.0":"拿著盾牌時增加 10 DEF",
@@ -1663,7 +1664,7 @@
 
   "dv2.artifacts.cast_off":"蛻殻",
   "dv2.artifacts.cast_off.1.0":"當 HP 低於 50% 時，減少 50 DEF，並且你的 DEF 將不會高於 0，",
-  "dv2.artifacts.cast_off.2.0":"同時增加 50 🗡STR 及 20% SPD",
+  "dv2.artifacts.cast_off.2.0":"同時增加 50 🗡STR 及 20% 速度",
 
   "dv2.artifacts.battle_flag_attack":"戰旗 <攻擊模式>",
   "dv2.artifacts.battle_flag_attack.1.0":"使用時減少 20 DEF，並獲得發光效果。",
@@ -1671,11 +1672,11 @@
   "dv2.artifacts.battle_flag_attack.3.0":"每一位半徑15格範圍內的隊友，將會減少你 40 🗡STR",
   "dv2.artifacts.battle_flag_attack.4.0":"(上限：1位玩家)",
   "dv2.artifacts.battle_flag_defend":"戰旗 <防禦模式>",
-  "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% SPD, 10% DMG，並獲得發光效果。",
+  "dv2.artifacts.battle_flag_defend.1.0":"使用時減少 10% 速度, 10% DMG，並獲得發光效果。",
   "dv2.artifacts.battle_flag_defend.2.0":"增加 50% DEF",
   "dv2.artifacts.battle_flag_support":"戰旗 <輔助模式>",
   "dv2.artifacts.battle_flag_support.1.0":"使用時減少 15% DEF，並獲得發光效果。",
-  "dv2.artifacts.battle_flag_support.2.0":"增加 10% SPD,",
+  "dv2.artifacts.battle_flag_support.2.0":"增加 10% 速度,",
   "dv2.artifacts.battle_flag_support.3.0":"每5秒為半徑7格範圍內的隊友回復 5 HP，同時增加其 Base Mana",
 
   "dv2.artifacts.battle_flag_change":"(蹲下以切換攻擊、防禦、輔助三種模式)",
@@ -1695,13 +1696,13 @@
   "dv2.artifacts.command_flag_defend.1.0":"使用時減少 15% DEF 及 DMG，並獲得發光效果。",
   "dv2.artifacts.command_flag_defend.2.0":"增加半徑10格範圍內的隊友 30% 物理&全屬性DEF",
   "dv2.artifacts.command_flag_escape":"指揮旗 <撤退模式>",
-  "dv2.artifacts.command_flag_escape.1.0":"使用時減少 10% DEF 及 DMG，並增加 10% SPD",
-  "dv2.artifacts.command_flag_escape.2.0":"每3秒為半徑10格範圍內的隊友回復 8 HP，同時為其增加 10% SPD",
+  "dv2.artifacts.command_flag_escape.1.0":"使用時減少 10% DEF 及 DMG，並增加 10% 速度",
+  "dv2.artifacts.command_flag_escape.2.0":"每3秒為半徑10格範圍內的隊友回復 8 HP，同時為其增加 10% 速度",
 
   "dv2.artifacts.command_flag_change":"(蹲下以切換攻擊、防禦、撤退三種模式)",
 
   "dv2.artifacts.defender":"防守者",
-  "dv2.artifacts.defender.1.0":"使用時減少 15% SPD 及 DMG，並獲得發光效果。",
+  "dv2.artifacts.defender.1.0":"使用時減少 15% 速度 及 DMG，並獲得發光效果。",
   "dv2.artifacts.defender.2.0":"給予半徑15格範圍內的敵人黑暗效果。",
   "dv2.artifacts.defender.3.0":"半徑7格範圍內的隊友將會免疫發光效果。",
 
@@ -1750,7 +1751,7 @@
   "dv2.artifacts.fiesta.1.0": "增加 100% 全屬性EM",
 
   "dv2.artifacts.lone_wolf": "孤狼",
-  "dv2.artifacts.lone_wolf.1.0": "增加 50 🗡🏹STR, 20% SPD, 25 吸血及減少 50% 技能 Stamina 消耗。",
+  "dv2.artifacts.lone_wolf.1.0": "增加 50 🗡🏹STR, 20% 速度, 25 吸血及減少 50% 技能 Stamina 消耗。",
   
   "dv2.artifacts.nihility": "虛無",
   "dv2.artifacts.nihility.1.0": "當你的 HP 高於 70% 時獲得隱形效果，",
@@ -1796,7 +1797,7 @@
   "dv2.gadget.crystal_potion": "結晶藥水",
   "dv2.gadget.crystal_potion.max_charge": "1",
   "dv2.gadget.crystal_potion.cd": "60",
-  "dv2.gadget.crystal_potion.1.0": "使用2秒後，獲取2個大絕充能點。",
+  "dv2.gadget.crystal_potion.1.0": "使用2秒後，獲取2個終極技能充能點。",
 
   "dv2.gadget.battle_horn": "戰吼號角",
   "dv2.gadget.battle_horn.max_charge": "1",
@@ -1863,15 +1864,15 @@
   "dv2.gadget.demon_dice": "惡魔的六面骰",
   "dv2.gadget.demon_dice.max_charge": "1",
   "dv2.gadget.demon_dice.cd": "40",
-  "dv2.gadget.demon_dice.1.0": "花費 1 個大絕充能點，骰子將在 1-6 之間擲出一個數字。",
-  "dv2.gadget.demon_dice.2.0": "擲出 1-5 時，玩家可獲得 0/1/3/4/5 大絕充能點；擲出 6 時，玩家將失去所有大絕充能點。",
+  "dv2.gadget.demon_dice.1.0": "花費 1 個終極技能充能點，骰子將在 1-6 之間擲出一個數字。",
+  "dv2.gadget.demon_dice.2.0": "擲出 1-5 時，玩家可獲得 0/1/3/4/5 終極技能充能點；擲出 6 時，玩家將失去所有終極技能充能點。",
   "dv2.gadget.demon_dice_result": "[惡魔的六面骰] 你剛剛擲出了",
 
   "dv2.gadget.lucky_coin": "幸運幣",
   "dv2.gadget.lucky_coin.max_charge": "1",
   "dv2.gadget.lucky_coin.cd": "20",
   "dv2.gadget.lucky_coin.1.0": "在戰鬥狀態時可以拋出一枚幸運幣。",
-  "dv2.gadget.lucky_coin.2.0": "擲出「頭」時，在20秒内增加 50% SPD；擲出「尾」時，自身將眩暈 5 秒。",
+  "dv2.gadget.lucky_coin.2.0": "擲出「頭」時，在20秒内增加 50% 速度；擲出「尾」時，自身將眩暈 5 秒。",
   "dv2.gadget.lucky_coin_result": "[幸運幣] 你剛剛擲出了",
 
   "dv2.gadget.escape_button": "逃脫按鈕",
@@ -1910,7 +1911,7 @@
   "dv2.tips.3.3":"魔力值(Mana)",
   "dv2.tips.3.4":"耐力值(Stamina)",
   "dv2.tips.3.5":"及",
-  "dv2.tips.3.6":"大絕充能點(Ultimate)。",
+  "dv2.tips.3.6":"終極技能充能點(Ultimate)。",
 
   "dv2.tips.17.1": "每位玩家都有一個",
   "dv2.tips.17.2": "元素韌性值",
