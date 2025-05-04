@@ -1415,8 +1415,8 @@
   "dv2.weapon.wand.healing_scepter": "Healing Scepter",
   
   "dv2.ability.healing_beam.1.0.0": "Skill: Healing Beam",
-  "dv2.ability.healing_beam.1.1.0": "Shoots out a laser which heals %s HP.",
-  "dv2.ability.healing_beam.1.2.0": "(Opponents receive 50% healing if hit) ",
+  "dv2.ability.healing_beam.1.1.0": "Shoots out a laser which heals %s HP to Teammates.",
+  "dv2.ability.healing_beam.1.2.0": "(Deal 2% More DMG Per Your HP over 100 when hit enemy, Max 200%)",
   "dv2.ability.healing_beam.1.3.0": "Cost: ",
   "dv2.ability.healing_beam.1.3.1": "%s Mana",
   "dv2.ability.healing_beam.1.4.0": "(Cooldown: %s%s%ss)",
