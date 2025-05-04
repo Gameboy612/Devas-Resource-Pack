@@ -2,7 +2,9 @@
 	"credit": "Made by lavafoxerex",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "rpg/wand/staff_of_placeholder_bee"
+		"1": "rpg/_placeholder",
+		"3": "rpg/wand/staff_of_placeholder_bee",
+		"particle": "rpg/_placeholder"
 	},
 	"elements": [
 		{
@@ -368,6 +370,19 @@
 				"up": {"uv": [10, 0, 12, 2], "rotation": 180, "texture": "#3"},
 				"down": {"uv": [8, 0, 10, 2], "texture": "#3"}
 			}
+		},
+		{
+			"from": [7, 1.25, 6.5],
+			"to": [7, 14.75, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 1.25, 0.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 4], "texture": "#1"},
+				"east": {"uv": [0, 0, 0.5, 4], "texture": "#1"},
+				"south": {"uv": [0, 0, 0.5, 4], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 0.5, 0.5], "texture": "#1"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#1"}
+			}
 		}
 	],
 	"display": {
@@ -464,6 +479,7 @@
 					"children": [19, 20, 21, 22, 23, 24, 25, 26, 27]
 				}
 			]
-		}
+		},
+		28
 	]
 }
