@@ -956,6 +956,7 @@
 
   
   "dv2.weapon.melee.pegasus":"天馬",
+  "dv2.weapon.melee.pegasus.description":"精準，一擊破敵。",
 
 
   "dv2.weapon.shield.wooden_shield": "木盾",
@@ -1150,30 +1151,43 @@
   
   "dv2.ability.healing_beam.1.0.0": "技能：回復光束",
   "dv2.ability.healing_beam.1.1.0": "射出可回復 %s HP 的光束",
-  "dv2.ability.healing_beam.1.2.0": "(Deal 1% More DMG Per Your Max HP over 100 when hit enemy, Max 200%)",
+  "dv2.ability.healing_beam.1.2.0": "(每當擊中敵人時，根據你每100點的最大 HP 增加1% DMG，最多200%。)",
   "dv2.ability.healing_beam.1.3.0": "消耗：",
   "dv2.ability.healing_beam.1.3.1": "%s Mana",
   "dv2.ability.healing_beam.1.4.0": "(冷卻：%s%s%s秒)",
 
 
-  "dv2.weapon.wand.staff_of_terrestria": "薛西弗斯之杖",
-  "dv2.weapon.wand.staff_of_terrestria.description": "體會那無止境的岩石吧...",
+  "dv2.weapon.wand.hive_staff": "蜂巢法杖",
+  "dv2.ability.summon_bee.1.0.0": "技能：嗡嗡襲擊",
+  "dv2.ability.summon_bee.1.1.0": "召喚一隻",
+  "dv2.ability.summon_bee.1.1.1": "蜜蜂",
+  "dv2.ability.summon_bee.1.1.2": "來攻擊你的敵人：",
+  "dv2.ability.summon_bee.1.2.0": "(蜜蜂在受到攻擊後5秒會死亡)",
+  "dv2.ability.summon_bee.1.3.0": "消耗：",
+  "dv2.ability.summon_bee.1.3.1": "%s Mana",
+  "dv2.ability.summon_bee.1.3.2": " + ",
+  "dv2.ability.summon_bee.1.3.3": "%s HP",
+  "dv2.ability.summon_bee.1.4.0": "(冷卻：%s%s%ss)",
 
-  "dv2.ability.rock_throw.1.0.0": "技能：投擲石塊",
-  "dv2.ability.rock_throw.1.1.0": "可以投擲石塊",
+
+  "dv2.weapon.wand.staff_of_terrestria": "煉獄法杖",
+  "dv2.weapon.wand.staff_of_terrestria.description": "喚起煉獄之火。",
+  
+  "dv2.ability.rock_throw.1.0.0": "技能：火球術",
+  "dv2.ability.rock_throw.1.1.0": "能夠發射火球",
   "dv2.ability.rock_throw.1.2.0": "消耗：",
   "dv2.ability.rock_throw.1.2.1": "500 Mana",
   
-  "dv2.ability.staff_of_terrestria.2.0.0": "眾石歸位 [蹲下]",
-  "dv2.ability.staff_of_terrestria.2.1.0": "蹲下以將所有石塊喚回你的身邊",
+  "dv2.ability.staff_of_terrestria.2.0.0": "餘燼歸返 [蹲下]",
+  "dv2.ability.staff_of_terrestria.2.1.0": "蹲下可將所有火球召回身邊",
   "dv2.ability.staff_of_terrestria.2.2.0": "消耗：",
   "dv2.ability.staff_of_terrestria.2.2.1": "2000 Mana",
   
-  "dv2.ability.staff_of_terrestria.3.0.0": "防禦節點",
-  "dv2.ability.staff_of_terrestria.3.1.0": "喚回石塊將會增加你 20 DEF",
+  "dv2.ability.staff_of_terrestria.3.0.0": "灰燼壁壘",
+  "dv2.ability.staff_of_terrestria.3.1.0": "召回的火球將使你獲得 20 點防禦",
 
-  "dv2.ability.staff_of_terrestria.4.0.0": "眾石投射 [蹲下]",
-  "dv2.ability.staff_of_terrestria.4.1.0": "向敵人發射你所喚回的石塊",
+  "dv2.ability.staff_of_terrestria.4.0.0": "烈焰齊射 [蹲下]",
+  "dv2.ability.staff_of_terrestria.4.1.0": "向敵人發射所有召回的火球",
   "dv2.ability.staff_of_terrestria.4.2.0": "消耗：",
   "dv2.ability.staff_of_terrestria.4.2.1": "4000 Mana",
 
