@@ -553,7 +553,7 @@
   "dv2.ultimate.purify.select": "終極技能已選擇 - 淨化",
   "dv2.ultimate.purify.1.0": "移除使用者及隊友身上的所有元素與負面效果，",
   "dv2.ultimate.purify.2.0": "並增加 10 吸收護盾",
-  "dv2.ultimate.purify.3.0": "以及 100 全屬性吸收，持續30秒。",
+  "dv2.ultimate.purify.3.0": "以及 30 全屬性吸收，持續30秒。",
 
   "dv2.ultimate.death_chain": "死亡連鎖",
   "dv2.ultimate.death_chain.select": "終極技能已選擇 - 死亡連鎖",
@@ -1744,7 +1744,7 @@
 
   "dv2.artifacts.book_of_wisdom":"智慧之書",
   "dv2.artifacts.book_of_wisdom.1.0":"使用時減少 30% Stamina",
-  "dv2.artifacts.book_of_wisdom.2.0":"增加半徑12格範圍内隊友 75% 的 全屬性EM",
+  "dv2.artifacts.book_of_wisdom.2.0":"增加半徑12格範圍内隊友 25% 的 全屬性EM",
 
   "dv2.artifacts.aether_substance":"以太物質",
   "dv2.artifacts.aether_substance.1.0":"持有此製品時，你的 DEF 將不會高於 0",
