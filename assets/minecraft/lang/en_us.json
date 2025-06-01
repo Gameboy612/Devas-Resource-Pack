@@ -1215,6 +1215,7 @@
 
 
   "dv2.weapon.melee.pegasus":"Pegasus",
+  "dv2.weapon.melee.pegasus.description":"Strike with divine precision.",
 
 
 
@@ -1423,7 +1424,7 @@
 
 
   "dv2.weapon.wand.hive_staff": "Hive Staff",
-  "dv2.ability.summon_bee.1.0.0": "Skill: Summon Bee",
+  "dv2.ability.summon_bee.1.0.0": "Skill: Buzzing Assault",
   "dv2.ability.summon_bee.1.1.0": "Summon a",
   "dv2.ability.summon_bee.1.1.1": " Bee ",
   "dv2.ability.summon_bee.1.1.2": "to attack your enemies:",
