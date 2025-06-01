@@ -3,7 +3,7 @@
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "rpg/magic_array/simple/level1_empty",
-		"layer1": "rpg/magic_array/simple/level1_unsaturated"
+		"layer1": "rpg/misc/radius_indicator"
 	},
 	"display": {
 		"thirdperson_righthand": {

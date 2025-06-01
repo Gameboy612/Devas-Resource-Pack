@@ -5,6 +5,7 @@
         "layer1": "item/firework_star_overlay"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":100001}, "model": "rpg/magic_array/simple/level_1_color"}
+        {"predicate": {"custom_model_data":100001}, "model": "rpg/magic_array/simple/level_1_color"},
+        {"predicate": {"custom_model_data":100002}, "model": "rpg/misc/radius_indicator"}
     ]
 }

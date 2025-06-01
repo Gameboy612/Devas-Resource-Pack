@@ -1,0 +1,32 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/black_screen.png",
+            "ascent": 2048,
+            "height": 4196,
+            "chars": ["\u1000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/water_screen.png",
+            "ascent": 2048,
+            "height": 4196,
+            "chars": ["\u1000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/black_screen.png",
+            "ascent": 2048,
+            "height": 4196,
+            "chars": ["\u1000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:rpg/ui/black_screen.png",
+            "ascent": 2048,
+            "height": 4196,
+            "chars": ["\u1000"]
+        }
+    ]
+}
